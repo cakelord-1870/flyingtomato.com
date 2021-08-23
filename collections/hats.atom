@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://flyingtomato.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://flyingtomato.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://flyingtomato.com/collections/hats.atom"/>
+  <title>Flying Tomato</title>
+  <updated>2021-04-16T16:35:23-07:00</updated>
+  <author>
+    <name>Flying Tomato</name>
+  </author>
+  <entry>
+    <id>https://flyingtomato.com/products/6663807795368</id>
+    <published>2021-04-16T16:35:23-07:00</published>
+    <updated>2021-04-16T16:35:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frh1001"/>
+    <title>BILLIE BUCKET HAT</title>
+    <s:type>hat</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/FRH1001.jpg?v=1620951675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>hat<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">A Woven Bucket Hat<br data-mce-fragment="1">Channel-Stitched Brim<br data-mce-fragment="1">Import<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7801</s:tag>
+    <s:tag>frh1001</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>hat</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663807795368</id>
+      <title>BLACK</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>FRH1001_black</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663807795368</id>
+      <title>OLIVE</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>FRH1001_olive</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

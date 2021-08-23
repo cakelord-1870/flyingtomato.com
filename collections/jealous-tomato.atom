@@ -1,0 +1,1827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://flyingtomato.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://flyingtomato.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://flyingtomato.com/collections/jealous-tomato.atom"/>
+  <title>Flying Tomato</title>
+  <updated>2021-08-20T11:28:42-07:00</updated>
+  <author>
+    <name>Flying Tomato</name>
+  </author>
+  <entry>
+    <id>https://flyingtomato.com/products/6991795585192</id>
+    <published>2021-08-20T11:28:42-07:00</published>
+    <updated>2021-08-20T11:28:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jdp6822"/>
+    <title>BLOOMING MOOD FLORAL MIDI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20jdp6822_20blk_20023_ac599477-607b-43e0-a28e-ab73ccd1f32f.jpg?v=1629415141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A woven faux wrap dress featuring a floral print, geometric print trim, elasticized off-the-shoulder</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% rayon</p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" and wearing size 1X</p>
+<p>- Measurements taken from size 1X</p>
+<p>- Length: 35" front length, 50" back length - Bust Width: 26 3/4"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>BLACK</s:tag>
+    <s:tag>curve</s:tag>
+    <s:tag>curve_dress</s:tag>
+    <s:tag>curve_dresses</s:tag>
+    <s:tag>curve_dresses_midi</s:tag>
+    <s:tag>JDP6822</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>Plus</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991795585192</id>
+      <title>BLACK / S</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JDP6822_BLACK_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991795585192</id>
+      <title>BLACK / M</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JDP6822_BLACK_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991795585192</id>
+      <title>BLACK / L</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JDP6822_BLACK_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6991795224744</id>
+    <published>2021-08-20T11:28:06-07:00</published>
+    <updated>2021-08-20T11:28:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jdp1019"/>
+    <title>ONE TO REMEMBER FLORAL ROMPER</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fjdp1019grepin8.jpg?v=1629484283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A printed romper featuring smocked opening, off shoulder, 3/4 sleeves with smocked cuffs, and fluttered hemline</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self : 100% polyester</p>
+<p>Lining : 100% polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`10" and wearing size XL</p>
+<p>- Measurements taken from size XL</p>
+<p>- Approx. Length: 55”</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>curve</s:tag>
+    <s:tag>curve_dress</s:tag>
+    <s:tag>curve_dresses</s:tag>
+    <s:tag>curve_dresses_mini</s:tag>
+    <s:tag>GREEN/PINK</s:tag>
+    <s:tag>JDP1019</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>Plus</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991795224744</id>
+      <title>GREEN/PINK / 1X</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JDP1019_GREEN/PINK_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991795224744</id>
+      <title>GREEN/PINK / 2X</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JDP1019_GREEN/PINK_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991795224744</id>
+      <title>GREEN/PINK / 3X</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JDP1019_GREEN/PINK_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6991800074408</id>
+    <published>2021-08-20T11:23:58-07:00</published>
+    <updated>2021-08-20T11:23:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jt9350"/>
+    <title>FORGET THE REST WOVEN TOP</title>
+    <s:type>tops</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fjt9350cre4.jpg?v=1629420532"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>tops<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A jacquard woven top featuring off shoulder neckline with mini ruffled edge, elasticized waist and peplum</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p>Lining: 100% Polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 16.5"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.20</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>DUSTY ROSE</s:tag>
+    <s:tag>FLORAL</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>JT9350</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>shop_floral</s:tag>
+    <s:tag>shop_florals</s:tag>
+    <s:tag>tops</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991800074408</id>
+      <title>DUSTY ROSE / S</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>JT9350_DUSTY ROSE_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991800074408</id>
+      <title>DUSTY ROSE / M</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>JT9350_DUSTY ROSE_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991800074408</id>
+      <title>DUSTY ROSE / L</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>JT9350_DUSTY ROSE_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991800074408</id>
+      <title>CREAM / S</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>JT9350_CREAM_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991800074408</id>
+      <title>CREAM / M</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>JT9350_CREAM_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991800074408</id>
+      <title>CREAM / L</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>JT9350_CREAM_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6991799386280</id>
+    <published>2021-08-20T11:23:57-07:00</published>
+    <updated>2021-08-20T11:23:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jt9347"/>
+    <title>LOVING LIFE WOVEN TOP</title>
+    <s:type>tops</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fjt9347rust7.jpg?v=1629420910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>tops<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A solid woven top featuring square neckline, puff elbow sleeve, front/back smocked bodice and peplum</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 50% Polyester, 50% Rayon</p>
+<p>Lining: 100% Polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 18"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.20</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>JT9347</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>RUST</s:tag>
+    <s:tag>tops</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991799386280</id>
+      <title>RUST / S</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>JT9347_RUST_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991799386280</id>
+      <title>RUST / M</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>JT9347_RUST_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991799386280</id>
+      <title>RUST / L</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>JT9347_RUST_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6991798829224</id>
+    <published>2021-08-20T11:23:56-07:00</published>
+    <updated>2021-08-20T11:23:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jt9325"/>
+    <title>DARLING NIGHTS BODTSUIT</title>
+    <s:type>tops</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fn_20jt9325_20bei_2015_cd2fc03b-34db-4069-8558-7d91409930d6.jpg?v=1629420324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>tops<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A knit and lace combination bodysuit featuring surplice neckline, lace sleeve, bikini bottom with snap closure</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 65% Polyester, 28% Rayon, 7% Spandex , Cont 90% Polyester ,10% Spandex</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small -</p>
+<p>Measurements Taken From Size Small</p>
+<p>- Approx Length: 28"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.20</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BEIGE</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>JT9325</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>shop_weartowork</s:tag>
+    <s:tag>shop_wedding</s:tag>
+    <s:tag>tops</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991798829224</id>
+      <title>BEIGE / S</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JT9325_BEIGE_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991798829224</id>
+      <title>BEIGE / M</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JT9325_BEIGE_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991798829224</id>
+      <title>BEIGE / L</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JT9325_BEIGE_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6991798272168</id>
+    <published>2021-08-20T11:23:54-07:00</published>
+    <updated>2021-08-20T11:23:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jt9301"/>
+    <title>LOVELY SPIRIT WOVEN TOP</title>
+    <s:type>tops</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20jt9301_20ivo_2017_092c0203-a70d-446f-b5ce-015c97a417b4.jpg?v=1629420777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>tops<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A textured woven top featuring round neckline, and back keyhole button closure</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx. Length: 19"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.20</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>IVORY</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>JT9301</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>shop_weartowork</s:tag>
+    <s:tag>tops</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991798272168</id>
+      <title>IVORY / S</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JT9301_IVORY_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991798272168</id>
+      <title>IVORY / M</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JT9301_IVORY_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991798272168</id>
+      <title>IVORY / L</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JT9301_IVORY_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991798272168</id>
+      <title>TEAL / S</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JT9301_TEAL_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991798272168</id>
+      <title>TEAL / M</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JT9301_TEAL_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991798272168</id>
+      <title>TEAL / L</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JT9301_TEAL_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6991797649576</id>
+    <published>2021-08-20T11:23:53-07:00</published>
+    <updated>2021-08-20T11:23:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jt9281"/>
+    <title>CATCH A STAR WOVEN TOP</title>
+    <s:type>tops</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20jt9281_20brw_2016_735bca66-22e6-4968-aa5c-7a65a4fbf45f.jpg?v=1629419716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>tops<br>
+        <strong>Price: </strong>
+            52.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A printed woven top featuring high neckline, long sleeve with ruffled cuff, and relaxed body</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 25"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.20</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BROWN ANIMAL</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>JT9281</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>shop_boho</s:tag>
+    <s:tag>shop_weartowork</s:tag>
+    <s:tag>tops</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991797649576</id>
+      <title>BROWN ANIMAL / S</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>JT9281_BROWN ANIMAL_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991797649576</id>
+      <title>BROWN ANIMAL / M</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>JT9281_BROWN ANIMAL_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991797649576</id>
+      <title>BROWN ANIMAL / L</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>JT9281_BROWN ANIMAL_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6991797223592</id>
+    <published>2021-08-20T11:23:52-07:00</published>
+    <updated>2021-08-20T11:23:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jt7626"/>
+    <title>WHISPER MY DREAMS TO YOU BODYSUIT</title>
+    <s:type>tops</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20jt7626_20indi_202_4177a2b5-f7dc-4668-b478-8c0e2b388c17.jpg?v=1629474767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>tops<br>
+        <strong>Price: </strong>
+            52.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CHAMBRAY OPEN BACK BODYSUIT WITH PUFF SLEEVES </p>
+<p> </p>
+<p> </p>
+<p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">Details</span><br></p>
+<p>Self : 100% COTTON</p>
+<p>CONTRAST : 90% POLYESTER 10% SPANDEX<br></p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 29"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.20</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>JT7626</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>MEDIUM INDIGO</s:tag>
+    <s:tag>tops</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991797223592</id>
+      <title>MEDIUM INDIGO / S</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>JT7626_MEDIUM INDIGO_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991797223592</id>
+      <title>MEDIUM INDIGO / M</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>JT7626_MEDIUM INDIGO_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991797223592</id>
+      <title>MEDIUM INDIGO / L</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>JT7626_MEDIUM INDIGO_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6991794897064</id>
+    <published>2021-08-20T11:23:51-07:00</published>
+    <updated>2021-08-20T11:23:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jd7327"/>
+    <title>TURNING TIME DENIM SHIRT DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20jd7327_20blk_2013_21b6b754-bbcc-49d6-a70d-4d9e52b2fd28.jpg?v=1629474717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A denim shirt dress featuring button down, puff sleeve and self sash tie</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 65% Cotton, 33% Polyester, 2% Spandex</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 33"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.20</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BLACK ACID</s:tag>
+    <s:tag>DENIM</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>JD7327</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>minidress</s:tag>
+    <s:tag>shop_weartowork</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991794897064</id>
+      <title>BLACK ACID / S</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>JD7327_BLACK ACID_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991794897064</id>
+      <title>BLACK ACID / M</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>JD7327_BLACK ACID_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991794897064</id>
+      <title>BLACK ACID / L</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>JD7327_BLACK ACID_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6976058884264</id>
+    <published>2021-08-20T11:23:31-07:00</published>
+    <updated>2021-08-20T11:23:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jt7034"/>
+    <title>COMMITMENT TO COOL OFF THE SHOULDER TOP</title>
+    <s:type>tops</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20jt7034_20blu_2027.jpg?v=1629420174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>tops<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Off-the-shoulder top with checkered floral print.</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" and wearing size Small</p>
+<p>- Measurements taken from size Small</p>
+<p>- Length: 17"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.20</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BLUE/MUSTARD</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>JT7034</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>tops</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976058884264</id>
+      <title>BLUE/MUSTARD / S</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>JT7034_BLUE/MUSTARD_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976058884264</id>
+      <title>BLUE/MUSTARD / M</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>JT7034_BLUE/MUSTARD_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976058884264</id>
+      <title>BLUE/MUSTARD / L</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>JT7034_BLUE/MUSTARD_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6180167975080</id>
+    <published>2021-08-20T11:23:29-07:00</published>
+    <updated>2021-08-20T11:23:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jp5581"/>
+    <title>CHASE YOU DOWN WOVEN JUMPSUIT</title>
+    <s:type>jumpsuit</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fn_20jp5581_20mag_209_84611448-3560-43cb-8588-d368ff346b6c.jpg?v=1629419793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>jumpsuit<br>
+        <strong>Price: </strong>
+            76.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A solid woven jumpsuit featuring round neckline, peasant sleeve with cuff and button, pleated pant with self sash tie and back zipper closure</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p>Lining: 100% Polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx. Length: 55.5"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.20</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>JP5581</s:tag>
+    <s:tag>jumpsuit</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>MAGENTA</s:tag>
+    <s:tag>shop_colorpop</s:tag>
+    <s:tag>shop_weartowork</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6180167975080</id>
+      <title>MAGENTA / S</title>
+      <s:price currency="USD">76.00</s:price>
+      <s:sku>JP5581_MAGENTA_01</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6180167975080</id>
+      <title>MAGENTA / M</title>
+      <s:price currency="USD">76.00</s:price>
+      <s:sku>JP5581_MAGENTA_02</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6180167975080</id>
+      <title>MAGENTA / L</title>
+      <s:price currency="USD">76.00</s:price>
+      <s:sku>JP5581_MAGENTA_03</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6000296919208</id>
+    <published>2021-08-20T11:23:28-07:00</published>
+    <updated>2021-08-20T11:23:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jd7221"/>
+    <title>OVER THE TOP MIDI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20jd7221_20leo_205.jpg?v=1629421035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A printed knit off shoulder midi dress</p>
+<p> </p>
+<p> </p>
+<p>Details Self: 96% Polyester, 4% Spandex</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx. Length: 39.5"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.20</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>JD7221</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>LEOPARD</s:tag>
+    <s:tag>Midi</s:tag>
+    <s:tag>midi dress</s:tag>
+    <s:tag>shop_nightout</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6000296919208</id>
+      <title>LEOPARD / S</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>JD7221_LEOPARD_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6000296919208</id>
+      <title>LEOPARD / M</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>JD7221_LEOPARD_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6000296919208</id>
+      <title>LEOPARD / L</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>JD7221_LEOPARD_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6976297959592</id>
+    <published>2021-08-13T15:03:17-07:00</published>
+    <updated>2021-08-13T15:03:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jt9339"/>
+    <title>SHE ELEGANT WOVEN TOP</title>
+    <s:type>tops</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fnjt9339ivo21.jpg?v=1628891763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>tops<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A textured woven top featuring shirt collar, button down with ruffles, puff sleeve with cuff and button closure.<br></p>
+<p> </p>
+<p> </p>
+<p><br>Details<br>Self: 100% Polyester <br>Contrast: 100% Polyester<br>Lining: 100% Polyester<br></p>
+<p> </p>
+<p><br>Size &amp; Fit<br>- Model is 5`8" And Wearing Size Small<br>- Measurements Taken From Size Small<br>- Approx Length: 26"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.13</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>IVORY</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>JT9339</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>shop_boho</s:tag>
+    <s:tag>shop_weartowork</s:tag>
+    <s:tag>shop_wedding</s:tag>
+    <s:tag>tops</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976297959592</id>
+      <title>IVORY / S</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JT9339_IVORY_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976297959592</id>
+      <title>IVORY / M</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JT9339_IVORY_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976297959592</id>
+      <title>IVORY / L</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JT9339_IVORY_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6976059048104</id>
+    <published>2021-08-13T14:54:07-07:00</published>
+    <updated>2021-08-13T14:54:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jt8534"/>
+    <title>MY ONE CHANCE WOVEN TOP</title>
+    <s:type>tops</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20jt8534_20off_20wht_206.jpg?v=1628888587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>tops<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A woven top featuring an allover arabesque-inspired floral print, ornate print trim, long peasant sleeves with center shirring, smocked cuffs, a high smocked neck, bust darts, back keyhole with button loop closure, and a relaxed silhouette.</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" and wearing size Small</p>
+<p>- Measurements taken from size Small</p>
+<p>- Length: 24"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.13</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>JT8534</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>OFF WHITE</s:tag>
+    <s:tag>shop_boho</s:tag>
+    <s:tag>shop_weartowork</s:tag>
+    <s:tag>tops</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976059048104</id>
+      <title>OFF WHITE / S</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>JT8534_OFF WHITE_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976059048104</id>
+      <title>OFF WHITE / M</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>JT8534_OFF WHITE_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976059048104</id>
+      <title>OFF WHITE / L</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>JT8534_OFF WHITE_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6976058622120</id>
+    <published>2021-08-13T14:54:04-07:00</published>
+    <updated>2021-08-13T14:54:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jp5762"/>
+    <title>STARE DOWN THE PAST WOVEN PANT</title>
+    <s:type>pants</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20jp5762_20rust_201.jpg?v=1628889378"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>pants<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A solid woven pant featuring paperbag waist with self belt, side pockets and wide leg</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 97% Polyester, 3% Spandex</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 45"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.13</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BOTTOM</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>JP5762</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>pants</s:tag>
+    <s:tag>RUST</s:tag>
+    <s:tag>shop_boho</s:tag>
+    <s:tag>shop_weartowork</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976058622120</id>
+      <title>RUST / S</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JP5762_RUST_01</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976058622120</id>
+      <title>RUST / M</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JP5762_RUST_02</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976058622120</id>
+      <title>RUST / L</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JP5762_RUST_03</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976058622120</id>
+      <title>SAGE / S</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JP5762_SAGE_01</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976058622120</id>
+      <title>SAGE / M</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JP5762_SAGE_02</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976058622120</id>
+      <title>SAGE / L</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JP5762_SAGE_03</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6976058359976</id>
+    <published>2021-08-13T14:54:03-07:00</published>
+    <updated>2021-08-13T14:54:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jp5739"/>
+    <title>LUCKY STARS LIGHT WASH DENIM</title>
+    <s:type>pants</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20jp5739_20lt_20indi_204.jpg?v=1628887514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>pants<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A light wash denim featuring skinny leg, side zipper with back pockets.</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 98% Cotton 2% Spandex</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 40"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.13</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BOTTOM</s:tag>
+    <s:tag>DENIM</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>JP5739</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>LIGHT INDIGO</s:tag>
+    <s:tag>pants</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976058359976</id>
+      <title>LIGHT INDIGO / S</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>JP5739_LIGHT INDIGO_01</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976058359976</id>
+      <title>LIGHT INDIGO / M</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>JP5739_LIGHT INDIGO_02</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976058359976</id>
+      <title>LIGHT INDIGO / L</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>JP5739_LIGHT INDIGO_03</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6976058097832</id>
+    <published>2021-08-13T14:54:02-07:00</published>
+    <updated>2021-08-13T14:54:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jp5515"/>
+    <title>CAN&apos;T HIDE MY FEELINGS DENIM PANTS</title>
+    <s:type>pants</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fn_20jp5515_20lt_20indi_205.jpg?v=1628885530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>pants<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>High waisted denim flared pants with front pockets.</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>- Self: 68% cotton, 30% polyester, 2% spandex</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" and wearing size Small</p>
+<p>- Measurements taken from size Small</p>
+<p>- Length: 43"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.13</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BOTTOM</s:tag>
+    <s:tag>DENIM</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>JP5515</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>LIGHT INDIGO</s:tag>
+    <s:tag>pants</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976058097832</id>
+      <title>LIGHT INDIGO / S</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JP5515_LIGHT INDIGO_01</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976058097832</id>
+      <title>LIGHT INDIGO / M</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JP5515_LIGHT INDIGO_02</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976058097832</id>
+      <title>LIGHT INDIGO / L</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JP5515_LIGHT INDIGO_03</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6976057868456</id>
+    <published>2021-08-13T14:54:01-07:00</published>
+    <updated>2021-08-13T14:54:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jd7332"/>
+    <title>DREAMING AT DUSK SHIRT DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20jd7332_20tau_204.jpg?v=1628884144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A printed shirt dress featuring front tie detail and long sleeve with cuff and button</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 32"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.13</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>JD7332</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>minidress</s:tag>
+    <s:tag>shop_boho</s:tag>
+    <s:tag>TAUPE</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976057868456</id>
+      <title>TAUPE / S</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JD7332_TAUPE_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976057868456</id>
+      <title>TAUPE / M</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JD7332_TAUPE_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976057868456</id>
+      <title>TAUPE / L</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JD7332_TAUPE_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6950182420648</id>
+    <published>2021-08-06T11:31:19-07:00</published>
+    <updated>2021-08-06T11:31:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jp5104"/>
+    <title>MILE HIGH DENIM JUMPSUIT</title>
+    <s:type>pants</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20jp5104_20med_203.jpg?v=1628200376"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>pants<br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Flared denim jumpsuit with crossover bodice and midriff cut-outs.</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 75% cotton, 23% polyester, 2% spandex - Imported</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" and wearing size Small</p>
+<p>- Measurements taken from size Small</p>
+<p>- Length: 56"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.06</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>DENIM</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>JP5104</s:tag>
+    <s:tag>jumpsuit</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>MEDIUM INDIGO</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6950182420648</id>
+      <title>MEDIUM INDIGO / S</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>JP5104_MEDIUM INDIGO_01</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6950182420648</id>
+      <title>MEDIUM INDIGO / M</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>JP5104_MEDIUM INDIGO_02</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6950182420648</id>
+      <title>MEDIUM INDIGO / L</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>JP5104_MEDIUM INDIGO_03</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6941654384808</id>
+    <published>2021-07-30T13:05:04-07:00</published>
+    <updated>2021-07-30T13:05:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jp5790"/>
+    <title>KISS ME MORE DENIM PANTS</title>
+    <s:type>pants</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fnjp5790dkindi4.jpg?v=1627675534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>pants<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An extra wide leg denim featuring front and back pockets</p>
+<p> </p>
+<p><br><br>Details<br>Self: 75% Cotton, 23% Polyester, 2% Spandex<br>Lining: 100% Cotton<br></p>
+<p> </p>
+<p><br>Size &amp; Fit<br>- Model is 5`8" And Wearing Size Small<br>- Measurements Taken From Size Small<br>- Approx Length: 42" <br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.30</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>DARK INDIGO</s:tag>
+    <s:tag>DENIM</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>JP5790</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>pants</s:tag>
+    <s:tag>shop_weartowork</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6941654384808</id>
+      <title>MEDIUM INDIGO / S</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JP5790_DARKINDIGO_01</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6941654384808</id>
+      <title>MEDIUM INDIGO / M</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JP5790_DARKINDIGO_02</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6941654384808</id>
+      <title>MEDIUM INDIGO / L</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JP5790_DARKINDIGO_03</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6937807814824</id>
+    <published>2021-07-30T11:42:08-07:00</published>
+    <updated>2021-07-30T11:42:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jt9314"/>
+    <title>BEAUTIFUL MISTAKES BODYSUIT</title>
+    <s:type>tops</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20jt9314_20blk_202.jpg?v=1627588678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>tops<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A rib and poplin mixed bodysuit featuring plunging front/back V neckline with ruffled edge, long sleeve and bottom snap closure</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 95% Cotton, 5% Spandex Contrast, 100% Cotton</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 24"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.30</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BLACK</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>JT9314</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>shop_nightout</s:tag>
+    <s:tag>tops</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6937807814824</id>
+      <title>BLACK / S</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>JT9314_BLACK_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6937807814824</id>
+      <title>BLACK / M</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>JT9314_BLACK_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6937807814824</id>
+      <title>BLACK / L</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>JT9314_BLACK_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6937807454376</id>
+    <published>2021-07-30T11:42:07-07:00</published>
+    <updated>2021-07-30T11:42:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jt7039-a"/>
+    <title>SINGLE SATURDAY NIGHT FLORAL TOP</title>
+    <s:type>tops</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20jt7039-a_20navy_204.jpg?v=1627592612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>tops<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A floral printed top featuring with mini puff sleeves</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% POLYESTER</p>
+<p>Lining: 100% POLYESTER</p>
+<p>  </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 17"</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.30</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>floral</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>JT7039-A</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>NAVY</s:tag>
+    <s:tag>shop_floral</s:tag>
+    <s:tag>shop_florals</s:tag>
+    <s:tag>tops</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6937807454376</id>
+      <title>NAVY / S</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>JT7039-A_NAVY_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6937807454376</id>
+      <title>NAVY / M</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>JT7039-A_NAVY_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6937807454376</id>
+      <title>NAVY / L</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>JT7039-A_NAVY_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6937807454376</id>
+      <title>OFF WHITE / S</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>JT7039-A_OFF WHITE_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6937807454376</id>
+      <title>OFF WHITE / M</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>JT7039-A_OFF WHITE_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6937807454376</id>
+      <title>OFF WHITE / L</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>JT7039-A_OFF WHITE_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6937807028392</id>
+    <published>2021-07-30T11:42:06-07:00</published>
+    <updated>2021-07-30T11:42:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jsw2652"/>
+    <title>PERMISSION TO DANCE KNIT MINI DRESS</title>
+    <s:type>sweaters</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20jsw2652_20blk_206.jpg?v=1627591429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>sweaters<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A sweater knit mini dress featuring V neckline, short sleeves, non-functional button down</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 55%Nylon, 45%Viscose</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx. Length: 34"<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.30</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BLACK</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>JSW2652</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Knit</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>minidress</s:tag>
+    <s:tag>shop_weartowork</s:tag>
+    <s:tag>sweaters</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6937807028392</id>
+      <title>BLACK / S</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>JSW2652_BLACK_01</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6937807028392</id>
+      <title>BLACK / M</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>JSW2652_BLACK_02</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6937807028392</id>
+      <title>BLACK / L</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>JSW2652_BLACK_03</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6937806504104</id>
+    <published>2021-07-30T11:42:05-07:00</published>
+    <updated>2021-07-30T11:42:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jd7314"/>
+    <title>MADE TO ADMIRE DENIM MIDI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20jd7314_20blk_203.jpg?v=1627590817"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            62.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An acid washed denim midi dress featuring square neckline, short puff sleeve, body contouring and back zipper closure</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 75% Cotton, 23% Polyester, 2% Spandex</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 37.5"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.30</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BLACK ACID</s:tag>
+    <s:tag>black denim</s:tag>
+    <s:tag>DENIM</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>JD7314</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>midi dress</s:tag>
+    <s:tag>shop_nightout</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6937806504104</id>
+      <title>BLACK ACID / S</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>JD7314_BLACK ACID_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6937806504104</id>
+      <title>BLACK ACID / M</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>JD7314_BLACK ACID_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6937806504104</id>
+      <title>BLACK ACID / L</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>JD7314_BLACK ACID_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6937806176424</id>
+    <published>2021-07-30T11:42:04-07:00</published>
+    <updated>2021-07-30T11:42:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jd6734-a"/>
+    <title>SWEET MEMORY OF US DENIM MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20jd6734-a_20med_203.jpg?v=1627594637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A denim mini dress with round neck and exaggerated puff sleeve.</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 68% cotton, 30% polyester, 2% spandex</p>
+<p>Belt: Backing: 100% polyester Coating 1: 100% polyurethane Coating 2: 100% polyvinyl chloride</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit - Model is 5`8" and wearing size Small - Measurements taken from size Small - Length: 33"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.30</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>DENIM</s:tag>
+    <s:tag>DENIM  BLUE</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>JD6734-A</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>MEDIUM INDIGO</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>minidress</s:tag>
+    <s:tag>shop_nightout</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6937806176424</id>
+      <title>MEDIUM INDIGO / S</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>JD6734-A_MEDIUM INDIGO_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6937806176424</id>
+      <title>MEDIUM INDIGO / M</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>JD6734-A_MEDIUM INDIGO_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6937806176424</id>
+      <title>MEDIUM INDIGO / L</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>JD6734-A_MEDIUM INDIGO_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+</feed>

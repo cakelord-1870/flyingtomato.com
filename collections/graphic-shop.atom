@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://flyingtomato.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://flyingtomato.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://flyingtomato.com/collections/graphic-shop.atom"/>
+  <title>Flying Tomato</title>
+  <updated>2021-07-02T10:32:05-07:00</updated>
+  <author>
+    <name>Flying Tomato</name>
+  </author>
+  <entry>
+    <id>https://flyingtomato.com/products/6876232122536</id>
+    <published>2021-07-02T10:32:05-07:00</published>
+    <updated>2021-07-02T10:32:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/at2269fm"/>
+    <title>EASY LIVING GRAPHIC T-SHIRT</title>
+    <s:type>tops</s:type>
+    <s:vendor>A. calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20at2269fm_20den_20bl_2019.jpg?v=1625672562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A. calin<br>
+        <strong>Type: </strong>tops<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A mineral washed graphic t-shirt</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Cotton</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 20"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.02</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>AT2269FM</s:tag>
+    <s:tag>DENIM BLUE</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>shop_4thofjuly</s:tag>
+    <s:tag>shop_graphics</s:tag>
+    <s:tag>tops</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6876232122536</id>
+      <title>DENIM BLUE / S</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>AT2269FM_DENIM BLUE_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6876232122536</id>
+      <title>DENIM BLUE / M</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>AT2269FM_DENIM BLUE_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6876232122536</id>
+      <title>DENIM BLUE / L</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>AT2269FM_DENIM BLUE_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6876231729320</id>
+    <published>2021-07-02T10:32:03-07:00</published>
+    <updated>2021-07-02T10:32:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ad2459fm"/>
+    <title>CARELESS DREAMING GRAPHIC T-SHIRT DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>A. calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20ad2459fm_20char_204.jpg?v=1625243935"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A. calin<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A mineral washed graphic t-shirt dress with cuffed sleeve</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Cotton</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 33"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.02</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>AD2459FM</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>CHARCOAL</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>mini dress</s:tag>
+    <s:tag>shop_graphics</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6876231729320</id>
+      <title>CHARCOAL / S</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>AD2459FM_CHARCOAL_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6876231729320</id>
+      <title>CHARCOAL / M</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>AD2459FM_CHARCOAL_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6876231729320</id>
+      <title>CHARCOAL / L</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>AD2459FM_CHARCOAL_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6876231237800</id>
+    <published>2021-07-02T10:32:02-07:00</published>
+    <updated>2021-07-02T10:32:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ad2454fm"/>
+    <title>A BRIDGE TO LOVE GRAPHIC T-SHIRT</title>
+    <s:type>dresses</s:type>
+    <s:vendor>A. calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20ad2454fm_20blk_20ac_2017.jpg?v=1625243551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A. calin<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A sleeveless mineral washed graphic t-shirt</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Cotton</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 31.5"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.02</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>AD2454FM</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BLACK ACID</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>mini dress</s:tag>
+    <s:tag>shop_graphics</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6876231237800</id>
+      <title>BLACK ACID / S</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>75617021078312</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6876231237800</id>
+      <title>BLACK ACID / M</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>75617031111080</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6876231237800</id>
+      <title>BLACK ACID / L</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>75617031143848</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6876231467176</id>
+    <published>2021-07-02T09:37:40-07:00</published>
+    <updated>2021-07-02T09:37:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ad2455fm"/>
+    <title>GIVING YOUR ALL GRAPHIC T-SHIRT DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>A. calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/s_20ad2455fm_20cog_207.jpg?v=1625243818"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A. calin<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A mineral washed graphic t-shirt dress</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Cotton</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 31"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.02</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>AD2455FM</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>COGNAC</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>mini dress</s:tag>
+    <s:tag>shop_graphics</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6876231467176</id>
+      <title>COGNAC / S</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>AD2455FM_COGNAC_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6876231467176</id>
+      <title>COGNAC / M</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>AD2455FM_COGNAC_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6876231467176</id>
+      <title>COGNAC / L</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>AD2455FM_COGNAC_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6857748283560</id>
+    <published>2021-06-25T16:28:19-07:00</published>
+    <updated>2021-06-25T16:28:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/at2275fm"/>
+    <title>MEANINGFUL WAYS GRAPHIC T-SHIRT</title>
+    <s:type>tops</s:type>
+    <s:vendor>A. calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20at2275fm_20cog_2011.jpg?v=1624640241"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A. calin<br>
+        <strong>Type: </strong>tops<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A mineral washed graphic t-shirt</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Cotton</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 20"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.06.28</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>AT2275FM</s:tag>
+    <s:tag>COGNAC</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>shop_graphics</s:tag>
+    <s:tag>tops</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6857748283560</id>
+      <title>COGNAC / S</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>AT2275FM_COGNAC_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6857748283560</id>
+      <title>COGNAC / M</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>AT2275FM_COGNAC_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6857748283560</id>
+      <title>COGNAC / L</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>AT2275FM_COGNAC_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6857749102760</id>
+    <published>2021-06-25T16:28:18-07:00</published>
+    <updated>2021-06-25T16:28:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/at2277fm"/>
+    <title>JUST MET YOU GRAPHIC T-SHIRT</title>
+    <s:type>tops</s:type>
+    <s:vendor>A. calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20at2277fm_20lt_20den_2017.jpg?v=1624640304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A. calin<br>
+        <strong>Type: </strong>tops<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A mineral washed graphic t-shirt</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Cotton</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 20"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.06.28</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>AT2277FM</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>LIGHT DENIM</s:tag>
+    <s:tag>shop_4thofjuly</s:tag>
+    <s:tag>shop_graphics</s:tag>
+    <s:tag>tops</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6857749102760</id>
+      <title>LIGHT DENIM / S</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>AT2277FM_LIGHT DENIM_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6857749102760</id>
+      <title>LIGHT DENIM / M</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>AT2277FM_LIGHT DENIM_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6857749102760</id>
+      <title>LIGHT DENIM / L</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>AT2277FM_LIGHT DENIM_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6839407345832</id>
+    <published>2021-06-18T16:30:41-07:00</published>
+    <updated>2021-06-18T16:30:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/at2276fm"/>
+    <title>ADMIRABLE INTENTION GRAPHIC T-SHIRT</title>
+    <s:type>tops</s:type>
+    <s:vendor>A. calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20at2276fm_20pal_20blu_206.jpg?v=1624030774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A. calin<br>
+        <strong>Type: </strong>tops<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Relaxed fit washed graphic t-shirt</p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Cotton</p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 20"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.06.18</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>AT2276FM</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>PALE BLUSH</s:tag>
+    <s:tag>shop_graphics</s:tag>
+    <s:tag>tops</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6839407345832</id>
+      <title>PALE BLUSH / S</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>AT2276FM_PALE BLUSH_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6839407345832</id>
+      <title>PALE BLUSH / M</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>AT2276FM_PALE BLUSH_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6839407345832</id>
+      <title>PALE BLUSH / L</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>AT2276FM_PALE BLUSH_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6839407116456</id>
+    <published>2021-06-18T16:30:40-07:00</published>
+    <updated>2021-06-18T16:30:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/at2274fm"/>
+    <title>CALLING TO YOU GRAPHIC T-SHIRT</title>
+    <s:type>tops</s:type>
+    <s:vendor>A. calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20at2274fm_20sand_2027.jpg?v=1624030704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A. calin<br>
+        <strong>Type: </strong>tops<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Relaxed fit sleeveless mineral washed graphic t-shirt</p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Cotton</p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 20"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.06.18</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>AT2274FM</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>SAND</s:tag>
+    <s:tag>shop_graphics</s:tag>
+    <s:tag>tops</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6839407116456</id>
+      <title>SAND / S</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>AT2274FM_SAND_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6839407116456</id>
+      <title>SAND / M</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>AT2274FM_SAND_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6839407116456</id>
+      <title>SAND / L</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>AT2274FM_SAND_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6839406788776</id>
+    <published>2021-06-18T16:30:39-07:00</published>
+    <updated>2021-06-18T16:30:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/at2273fm"/>
+    <title>WHAT A WELCOME T-SHIRT</title>
+    <s:type>tops</s:type>
+    <s:vendor>A. calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20at2273fm_20lat_208.jpg?v=1624030653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A. calin<br>
+        <strong>Type: </strong>tops<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A mineral washed graphic t-shirt</p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Cotton</p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 21"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.06.18</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>AT2273FM</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>LATTE</s:tag>
+    <s:tag>shop_graphics</s:tag>
+    <s:tag>tops</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6839406788776</id>
+      <title>LATTE / S</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>AT2273FM_LATTE_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6839406788776</id>
+      <title>LATTE / M</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>AT2273FM_LATTE_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6839406788776</id>
+      <title>LATTE / L</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>AT2273FM_LATTE_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6839406493864</id>
+    <published>2021-06-18T16:30:38-07:00</published>
+    <updated>2021-06-18T16:30:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/at2271fm"/>
+    <title>LOVELY WAYS GRAPHIC T-SHIRT</title>
+    <s:type>tops</s:type>
+    <s:vendor>A. calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20at2271fm_20cog_2018.jpg?v=1624030554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A. calin<br>
+        <strong>Type: </strong>tops<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A mineral washed graphic t-shirt</p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Cotton</p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 20"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.06.18</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>AT2271FM</s:tag>
+    <s:tag>COGNAC</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>shop_4thofjuly</s:tag>
+    <s:tag>shop_graphics</s:tag>
+    <s:tag>tops</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6839406493864</id>
+      <title>COGNAC / S</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>AT2271FM_COGNAC_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6839406493864</id>
+      <title>COGNAC / M</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>AT2271FM_COGNAC_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6839406493864</id>
+      <title>COGNAC / L</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>AT2271FM_COGNAC_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6839406362792</id>
+    <published>2021-06-18T16:30:37-07:00</published>
+    <updated>2021-06-18T16:30:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/at2266fm"/>
+    <title>RAN INTO YOU T-SHIRT</title>
+    <s:type>tops</s:type>
+    <s:vendor>A. calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20at2266fm_20char_207.jpg?v=1623974361"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A. calin<br>
+        <strong>Type: </strong>tops<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A mineral washed t-shirt with embroidered front</p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Cotton</p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 21.5"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.06.18</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>AT2266FM</s:tag>
+    <s:tag>CHARCOAL</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>shop_graphics</s:tag>
+    <s:tag>tops</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6839406362792</id>
+      <title>CHARCOAL / S</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>AT2266FM_CHARCOAL_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6839406362792</id>
+      <title>CHARCOAL / M</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>AT2266FM_CHARCOAL_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6839406362792</id>
+      <title>CHARCOAL / L</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>AT2266FM_CHARCOAL_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6839406264488</id>
+    <published>2021-06-18T16:30:36-07:00</published>
+    <updated>2021-06-18T16:30:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/at2265fm"/>
+    <title>MUSED BY YOU GRAPHIC T-SHIRT</title>
+    <s:type>tops</s:type>
+    <s:vendor>A. calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20at2265fm_20den_202.jpg?v=1623974238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A. calin<br>
+        <strong>Type: </strong>tops<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A mineral washed graphic t-shirt</p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Cotton</p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 20"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.06.18</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>AT2265FM</s:tag>
+    <s:tag>DENIM BLUE</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>shop_4thofjuly</s:tag>
+    <s:tag>shop_graphics</s:tag>
+    <s:tag>tops</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6839406264488</id>
+      <title>DENIM BLUE / S</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>AT2265FM_DENIM BLUE_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6839406264488</id>
+      <title>DENIM BLUE / M</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>AT2265FM_DENIM BLUE_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6839406264488</id>
+      <title>DENIM BLUE / L</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>AT2265FM_DENIM BLUE_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6839405576360</id>
+    <published>2021-06-18T16:30:31-07:00</published>
+    <updated>2021-06-18T16:30:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ad2460fm"/>
+    <title>ALBUM OF MEMORIES GRAPHIC T-SHIRT DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>A. calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20ad2460fm_20blk_208.jpg?v=1623973743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A. calin<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Loose-fit T-shirt dress. Loose short sleeve. Mineral washed.</p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Cotton</p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 31.5"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.06.18</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>AD2460FM</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BLACK ACID</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>mini dress</s:tag>
+    <s:tag>shop_graphics</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6839405576360</id>
+      <title>BLACK ACID / S</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>AD2460FM_BLACK ACID_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6839405576360</id>
+      <title>BLACK ACID / M</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>AD2460FM_BLACK ACID_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6839405576360</id>
+      <title>BLACK ACID / L</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>AD2460FM_BLACK ACID_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+</feed>

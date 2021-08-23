@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://flyingtomato.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://flyingtomato.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://flyingtomato.com/collections/belts.atom"/>
+  <title>Flying Tomato</title>
+  <updated>2021-04-16T16:35:24-07:00</updated>
+  <author>
+    <name>Flying Tomato</name>
+  </author>
+  <entry>
+    <id>https://flyingtomato.com/products/6663791411368</id>
+    <published>2021-04-16T16:35:24-07:00</published>
+    <updated>2021-04-16T16:35:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frbt1002"/>
+    <title>ROCK WESTERN BELT</title>
+    <s:type>belt</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/FRBT10023.jpg?v=1620951614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>belt<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Antique Silver Engraved Double Buckle Belt<br>Textured Vegan Leather <br>Grommet Details<br>Adjustable Length<br>Approximately 1" Width and 35" Length with Seven Hole Adjustments<br>Import<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>belt</s:tag>
+    <s:tag>frbt1002</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>PB7442KH</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663791411368</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>FRBT1002</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663790788776</id>
+    <published>2021-04-16T16:35:24-07:00</published>
+    <updated>2021-04-16T16:35:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frbt1003"/>
+    <title>VIPER O-RING WIDE BELT</title>
+    <s:type>belt</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/FRBT10032.jpg?v=1620951647"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>belt<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Faux Leather Waist Belt<br data-mce-fragment="1">Snakeskin Embossed <br data-mce-fragment="1">Wide Design<br data-mce-fragment="1">High-Polish O-Ring Buckle Closure<br data-mce-fragment="1">Length: Approx. 40.5" Tip to Tip<br data-mce-fragment="1">Width: Approx. 4"<br data-mce-fragment="1">Import</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>belt</s:tag>
+    <s:tag>frbt1003</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>IW-90001</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663790788776</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>FRBT1003</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663770865832</id>
+    <published>2021-04-16T16:35:24-07:00</published>
+    <updated>2021-04-16T16:35:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frbt1001"/>
+    <title>HIGHLANDER WESTERN BELT</title>
+    <s:type>belt</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/FRBT10012.jpg?v=1621959178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>belt<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Engraved double buckle belt<br>Vegan Leather Skinny Belt<br>Approximately 0.75" Width and 36" Length with five hole adjustments<br>Import<br></p>
+<p> </p>
+<p> </p>
+<p><meta charset="utf-8"><span style="color: #ff2a00;">THIS ITEM IS ON FINAL SALE AND CANNOT BE RETURNED OR EXCHANGED.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>belt</s:tag>
+    <s:tag>FBT-1170</s:tag>
+    <s:tag>frbt1001</s:tag>
+    <s:tag>selectedsale</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663770865832</id>
+      <title>black</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>FRBT1001_black</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663770865832</id>
+      <title>Camel</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>FRBT1001_camel</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

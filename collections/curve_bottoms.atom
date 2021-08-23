@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://flyingtomato.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://flyingtomato.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://flyingtomato.com/collections/curve_bottoms.atom"/>
+  <title>Flying Tomato</title>
+  <updated>2021-04-27T15:57:22-07:00</updated>
+  <author>
+    <name>Flying Tomato</name>
+  </author>
+  <entry>
+    <id>https://flyingtomato.com/products/6693527847080</id>
+    <published>2021-04-27T15:57:22-07:00</published>
+    <updated>2021-04-27T15:57:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jpp5397"/>
+    <title>ON RECORD BLACK FLORAL PRINT JUMPSUIT</title>
+    <s:type>jumpsuit</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fnjpp5397blk16.jpg?v=1619564243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>jumpsuit<br>
+        <strong>Price: </strong>
+            52.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A printed jumpsuit featuring V neckline, raglan sleeves, wide leg pant with back slit opening and button closure.<br data-mce-fragment="1"><br data-mce-fragment="1">Details<br data-mce-fragment="1"><br data-mce-fragment="1">- Self: 97% polyester, 3% spandex<br data-mce-fragment="1">- Imported<br data-mce-fragment="1"><br data-mce-fragment="1">Size &amp; Fit<br data-mce-fragment="1"><br data-mce-fragment="1">- Model is 5`8" and wearing size 1XL<br data-mce-fragment="1">- Measurements taken from size 1XL<br data-mce-fragment="1">- Approx. length: 61", Inseam: 28 3/4”</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>ALL SEASON</s:tag>
+    <s:tag>curve</s:tag>
+    <s:tag>curve_bottoms</s:tag>
+    <s:tag>curve_bottoms_jumpsuit</s:tag>
+    <s:tag>curve_jumpsuit</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>JPP5397</s:tag>
+    <s:tag>Plus</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6693527847080</id>
+      <title>XL</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>JPP5397_BLACK_04</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6693527847080</id>
+      <title>1X</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>JPP5397_BLACK_05</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6693527847080</id>
+      <title>2X</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>JPP5397_BLACK_06</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6693311086760</id>
+    <published>2021-04-27T13:47:16-07:00</published>
+    <updated>2021-04-27T13:47:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ipp6674"/>
+    <title>NOT A CHANCE INDIGO SKINNY JEANS</title>
+    <s:type>pants</s:type>
+    <s:vendor>Flying Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fnipp6674indi3.jpg?v=1619556438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Tomato<br>
+        <strong>Type: </strong>pants<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">* SKINNY JEANS WITH FLORAL EMBROIDERY<br data-mce-fragment="1"><br data-mce-fragment="1">* MODEL WEAR SIZE 1X<br data-mce-fragment="1"><br data-mce-fragment="1">* SELF: 85%COTTON, 13%POLYESTER, 2%SPANDEX</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL SEASON</s:tag>
+    <s:tag>curve</s:tag>
+    <s:tag>curve_bottoms</s:tag>
+    <s:tag>curve_bottoms_jean</s:tag>
+    <s:tag>INDIGO</s:tag>
+    <s:tag>ipp6674</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Plus</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6693311086760</id>
+      <title>1X / INDIGO</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>IPP6674_INDIGO_04</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6693311086760</id>
+      <title>2X / INDIGO</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>IPP6674_INDIGO_05</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6693311086760</id>
+      <title>3X / INDIGO</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>IPP6674_INDIGO_06</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6693286772904</id>
+    <published>2021-04-27T13:31:28-07:00</published>
+    <updated>2021-04-27T13:31:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ikp7096"/>
+    <title>LEARN TO LOVE CREAM PRINT SKIRT</title>
+    <s:type>skirts</s:type>
+    <s:vendor>Flying Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fnikp7096cre9copy.jpg?v=1619555490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Tomato<br>
+        <strong>Type: </strong>skirts<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">* "FLYING TOMATO" <br data-mce-fragment="1">by Salt &amp; Pepper Clothing, Inc.<br data-mce-fragment="1"><br data-mce-fragment="1">* PIECE PRINT SKIRT<br data-mce-fragment="1"><br data-mce-fragment="1">* MODEL IS WEARING SIZE 1X<br data-mce-fragment="1"><br data-mce-fragment="1">* 100% RAYON</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>ALL SEASON</s:tag>
+    <s:tag>curve</s:tag>
+    <s:tag>curve_bottoms</s:tag>
+    <s:tag>curve_bottoms_skirt</s:tag>
+    <s:tag>IKP7096</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>plus</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6693286772904</id>
+      <title>XL / CREAM</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>IKP7096_CREAM_04</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6693286772904</id>
+      <title>2X / CREAM</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>IKP7096_CREAM_05</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6693286772904</id>
+      <title>3X / CREAM</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>IKP7096_CREAM_06</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6033720574120</id>
+    <published>2020-11-10T15:27:13-08:00</published>
+    <updated>2020-11-10T15:27:13-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ipp6874"/>
+    <title>DRAMATIC ENTRANCE WIDE WOVEN JUMPSUIT</title>
+    <s:type>pants</s:type>
+    <s:vendor>Flying Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/flipp6874redbl3.jpg?v=1621886924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Tomato<br>
+        <strong>Type: </strong>pants<br>
+        <strong>Price: </strong>
+            62.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Multicolor stripe jumpsuit featuring a surplice neckline. Short bell sleeves. Elasticized waist with a removable self-tie sash. Wide-leg pants.</span></p>
+<p> </p>
+<p><span>Details</span></p>
+<p><span>Self : 98% Polyester, 2% Spandex</span></p>
+<p> </p>
+<p><span>Size &amp; Fit</span></p>
+<p><span>- Model is 5`10" and wearing size X-large</span></p>
+<p><span>- Measurements are taken from size X-Large</span></p>
+<p><span>- Length: 60"</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cf-size-l</s:tag>
+    <s:tag>cf-size-m</s:tag>
+    <s:tag>cf-size-s</s:tag>
+    <s:tag>cf-type-pants</s:tag>
+    <s:tag>cf-vendor-flying-tomato</s:tag>
+    <s:tag>curve</s:tag>
+    <s:tag>curve_bottoms</s:tag>
+    <s:tag>curve_bottoms_jumpsuit</s:tag>
+    <s:tag>curve_jumpsuit</s:tag>
+    <s:tag>Flying Tomato</s:tag>
+    <s:tag>IPP6874</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>PLUS</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6033720574120</id>
+      <title>1X</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>IPP6874_RED_BLUE_01</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6033720574120</id>
+      <title>2X</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>IPP6874_RED_BLUE_02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6033720574120</id>
+      <title>3X</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>IPP6874_RED_BLUE_03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

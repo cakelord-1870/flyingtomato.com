@@ -1,0 +1,1993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://flyingtomato.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://flyingtomato.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://flyingtomato.com/collections/color-pop.atom"/>
+  <title>Flying Tomato</title>
+  <updated>2021-08-20T11:23:34-07:00</updated>
+  <author>
+    <name>Flying Tomato</name>
+  </author>
+  <entry>
+    <id>https://flyingtomato.com/products/6991785590952</id>
+    <published>2021-08-20T11:23:34-07:00</published>
+    <updated>2021-08-20T11:23:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ad2447"/>
+    <title>PERFECT FOR US WOVEN MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>A.Calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20ad2447_20sage_203_1_4befc3dc-ca07-49e4-8e28-81f60b14d2f1.jpg?v=1629421168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A.Calin<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A solid woven pleated mini dress featuring off shoulder neckline, ruffled edge, peasant sleeve with ruffled cuff, elasticized waist and self sash tie</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p>Lining: 100% Polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 29"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.20</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>AD2447</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>DEEP SAGE</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>minidress</s:tag>
+    <s:tag>shop_colorpop</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991785590952</id>
+      <title>DEEP SAGE / S</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>AD2447_DEEP SAGE_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991785590952</id>
+      <title>DEEP SAGE / M</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>AD2447_DEEP SAGE_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991785590952</id>
+      <title>DEEP SAGE / L</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>AD2447_DEEP SAGE_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6180167975080</id>
+    <published>2021-08-20T11:23:29-07:00</published>
+    <updated>2021-08-20T11:23:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jp5581"/>
+    <title>CHASE YOU DOWN WOVEN JUMPSUIT</title>
+    <s:type>jumpsuit</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fn_20jp5581_20mag_209_84611448-3560-43cb-8588-d368ff346b6c.jpg?v=1629419793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>jumpsuit<br>
+        <strong>Price: </strong>
+            76.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A solid woven jumpsuit featuring round neckline, peasant sleeve with cuff and button, pleated pant with self sash tie and back zipper closure</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p>Lining: 100% Polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx. Length: 55.5"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.20</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>JP5581</s:tag>
+    <s:tag>jumpsuit</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>MAGENTA</s:tag>
+    <s:tag>shop_colorpop</s:tag>
+    <s:tag>shop_weartowork</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6180167975080</id>
+      <title>MAGENTA / S</title>
+      <s:price currency="USD">76.00</s:price>
+      <s:sku>JP5581_MAGENTA_01</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6180167975080</id>
+      <title>MAGENTA / M</title>
+      <s:price currency="USD">76.00</s:price>
+      <s:sku>JP5581_MAGENTA_02</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6180167975080</id>
+      <title>MAGENTA / L</title>
+      <s:price currency="USD">76.00</s:price>
+      <s:sku>JP5581_MAGENTA_03</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6976051151016</id>
+    <published>2021-08-13T14:53:38-07:00</published>
+    <updated>2021-08-13T14:53:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ad2435"/>
+    <title>BEGIN AGAIN WOVEN MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>A.Calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20ad2435_20gre_205.jpg?v=1628886629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A.Calin<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A solid woven dress featuring V neckline, puff long sleeve, side cut out detail, double layered skirt and back zipper closure</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p>Lining 100% Polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small - Approx Length: 32"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.13</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>AD2435</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>GREEN</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>minidress</s:tag>
+    <s:tag>shop_colorpop</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976051151016</id>
+      <title>GREEN / S</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>AD2435_GREEN_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976051151016</id>
+      <title>GREEN / M</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>AD2435_GREEN_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976051151016</id>
+      <title>GREEN / L</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>AD2435_GREEN_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6950167904424</id>
+    <published>2021-08-06T11:30:51-07:00</published>
+    <updated>2021-08-06T11:30:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ad1576"/>
+    <title>I OWE YOU WOVEN MAXI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>A.Calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fn_20ad1576_20fuc_207.jpg?v=1628182144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A.Calin<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            62.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A solid woven baby pleated maxi dress featuring round neckline with baby ruffled edge, sleeveless, self sash tie and back keyhole button closure</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p>Lining: 100% Polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 58"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.06</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>AD1576</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>FUCHSIA</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Maxi Dress</s:tag>
+    <s:tag>shop_colorpop</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6950167904424</id>
+      <title>FUCHSIA / S</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>AD1576_FUCHSIA_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6950167904424</id>
+      <title>FUCHSIA / M</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>AD1576_FUCHSIA_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6950167904424</id>
+      <title>FUCHSIA / L</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>AD1576_FUCHSIA_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6180166074536</id>
+    <published>2021-08-06T11:30:49-07:00</published>
+    <updated>2021-08-06T11:30:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/at1961"/>
+    <title>UNWRITTEN HISTORY WOVEN TOP</title>
+    <s:type>tops</s:type>
+    <s:vendor>A.Calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20at1367_20pink_204.jpg?v=1628193815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A.Calin<br>
+        <strong>Type: </strong>tops<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A solid woven top featuring square neckline, smocked bodice, long sleeve and peplum</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self : 100% Polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx. Length: 17"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.06</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>AT1961</s:tag>
+    <s:tag>GREEN</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>shop_colorpop</s:tag>
+    <s:tag>tops</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6180166074536</id>
+      <title>GREEN / S</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>AT1961_GREEN_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6180166074536</id>
+      <title>GREEN / M</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>AT1961_GREEN_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6180166074536</id>
+      <title>GREEN / L</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>AT1961_GREEN_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6180166074536</id>
+      <title>INDIAN PINK / S</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>AT1961_INDIAN PINK_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6180166074536</id>
+      <title>INDIAN PINK / M</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>AT1961_INDIAN PINK_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6180166074536</id>
+      <title>INDIAN PINK / L</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>AT1961_INDIAN PINK_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6920406401192</id>
+    <published>2021-07-23T11:38:24-07:00</published>
+    <updated>2021-07-23T11:38:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/at1865"/>
+    <title>ALL OF MY PRETTY WOVEN TOP</title>
+    <s:type>tops</s:type>
+    <s:vendor>A.Calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20at1865_20fuc_203.jpg?v=1626969099"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A.Calin<br>
+        <strong>Type: </strong>tops<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A solid woven top featuring plunging V neckline, waist yoke with pleated peplum hemline and smocked back waist</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Details </p>
+<p>Self: 100% polyester<br data-mce-fragment="1"><br></p>
+<p>  </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" and wearing size Small</p>
+<p>- Measurements are taken from size Small</p>
+<p>- Length: 22"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.23</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>AT1865</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>RUST</s:tag>
+    <s:tag>shop_colorpop</s:tag>
+    <s:tag>shop_weartowork</s:tag>
+    <s:tag>tops</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6920406401192</id>
+      <title>RUST / S</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>AT1865_RUST_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6920406401192</id>
+      <title>RUST / M</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>AT1865_RUST_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6920406401192</id>
+      <title>RUST / L</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>AT1865_RUST_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6920406401192</id>
+      <title>FUCHSIA / S</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>AT1865_FUCHSIA_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6920406401192</id>
+      <title>FUCHSIA / M</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>AT1865_FUCHSIA_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6920406401192</id>
+      <title>FUCHSIA / L</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>AT1865_FUCHSIA_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6908415049896</id>
+    <published>2021-07-16T17:11:05-07:00</published>
+    <updated>2021-07-16T17:11:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jt8755"/>
+    <title>SET YOURSELF FREE BLOUSE</title>
+    <s:type>tops</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20jt8755_20blk_204.jpg?v=1627427464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>tops<br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A solid woven blouse featuring high collar neck with long power sleeved and smocked cuffs; button down back with large bow tie</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self : 93% polyester, 3% spandex</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" and wearing size Small</p>
+<p>- Measurements taken from size Small</p>
+<p>- Length: 22"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.16</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>JT8755</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>MAGENTA</s:tag>
+    <s:tag>shop_colorpop</s:tag>
+    <s:tag>shop_weartowork</s:tag>
+    <s:tag>tops</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6908415049896</id>
+      <title>MAGENTA / S</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>JT8755_MAGENTA_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6908415049896</id>
+      <title>MAGENTA / M</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>JT8755_MAGENTA_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6908415049896</id>
+      <title>MAGENTA / L</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>JT8755_MAGENTA_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6908415049896</id>
+      <title>BLACK / S</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>JT8755_BLACK_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6908415049896</id>
+      <title>BLACK / M</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>JT8755_BLACK_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6908415049896</id>
+      <title>BLACK / L</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>JT8755_BLACK_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6908415049896</id>
+      <title>RUST / S</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>JT8755_RUST_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6908415049896</id>
+      <title>RUST / M</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>JT8755_RUST_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6908415049896</id>
+      <title>RUST / L</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>JT8755_RUST_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6908415049896</id>
+      <title>BLUE / S</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>JT8755_BLUE_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6908415049896</id>
+      <title>BLUE / M</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>JT8755_BLUE_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6908415049896</id>
+      <title>BLUE / L</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>JT8755_BLUE_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6908411216040</id>
+    <published>2021-07-16T17:10:53-07:00</published>
+    <updated>2021-07-16T17:10:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/at1770"/>
+    <title>MAGICAL AT MIDNIGHT WOVEN TOP</title>
+    <s:type>tops</s:type>
+    <s:vendor>A.Calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20at1770_20red_208_1.jpg?v=1626479911"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A.Calin<br>
+        <strong>Type: </strong>tops<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A solid woven top featuring accordion pleats, and elasticized off-the-shoulder neckline, long bishop sleeves, and a wide smocked waistband.</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" and wearing size Small</p>
+<p>- Measurements taken from size Small</p>
+<p>- Length: 15"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.16</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>AT1770</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>RED</s:tag>
+    <s:tag>shop_4thofjuly</s:tag>
+    <s:tag>shop_colorpop</s:tag>
+    <s:tag>tops</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6908411216040</id>
+      <title>RED / S</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>AT1770_RED_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6908411216040</id>
+      <title>RED / M</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>AT1770_RED_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6908411216040</id>
+      <title>RED / L</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>AT1770_RED_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6908411216040</id>
+      <title>ROYAL BLUE / S</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>AT1770_ROYAL BLUE_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6908411216040</id>
+      <title>ROYAL BLUE / M</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>AT1770_ROYAL BLUE_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6908411216040</id>
+      <title>ROYAL BLUE / L</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>AT1770_ROYAL BLUE_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6908410462376</id>
+    <published>2021-07-16T17:10:49-07:00</published>
+    <updated>2021-07-16T17:10:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ad2293"/>
+    <title>START OVER AGAIN MIDI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>A.Calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20ad2293_20red_2027.jpg?v=1626995142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A.Calin<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A solid woven midi dress featuring square neckline with ruffle at side, tiered skirt, open back with tie and elastic opening</p>
+<p> </p>
+<p> </p>
+<p>Details<br></p>
+<p>Self: 50% Polyester 50% Rayon</p>
+<p>Lining: 100% Polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx. Length: 45.5"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.16</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>AD2293</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>dress</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>midi dress</s:tag>
+    <s:tag>RED</s:tag>
+    <s:tag>shop_colorpop</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6908410462376</id>
+      <title>RED / S</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>AD2293_RED_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6908410462376</id>
+      <title>RED / M</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>AD2293_RED_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6908410462376</id>
+      <title>RED / L</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>AD2293_RED_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6893471563944</id>
+    <published>2021-07-09T15:39:55-07:00</published>
+    <updated>2021-07-09T15:39:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/at1877"/>
+    <title>GIVE ME A LITTLE TIME WOVEN TOP</title>
+    <s:type>tops</s:type>
+    <s:vendor>A. calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20at1877_20mag_2010_72d9d40c-68b9-45b0-9396-922fa188e049.jpg?v=1625872264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A. calin<br>
+        <strong>Type: </strong>tops<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A solid woven top featuring round neckline with peasant sleeves and front tie detail, back keyhole and button closure</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self : 100% Polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" and wearing size Small</p>
+<p>- Measurements taken from size Small</p>
+<p>- Length: 17"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.09</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>AT1877</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>MAGENTA</s:tag>
+    <s:tag>shop_colorpop</s:tag>
+    <s:tag>tops</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6893471563944</id>
+      <title>MAGENTA / S</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>AT1877_MAGENTA_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6893471563944</id>
+      <title>MAGENTA / M</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>AT1877_MAGENTA_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6893471563944</id>
+      <title>MAGENTA / L</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>AT1877_MAGENTA_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6893471432872</id>
+    <published>2021-07-09T15:39:54-07:00</published>
+    <updated>2021-07-09T15:39:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ap1896"/>
+    <title>STYLISH SPLENDOR ROMPER</title>
+    <s:type>romper</s:type>
+    <s:vendor>A. calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20ap1896_20mag_205_8d22997a-e6c2-4459-8564-7691d1949c15.jpg?v=1625870174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A. calin<br>
+        <strong>Type: </strong>romper<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Solid woven romper featuring round neckline with shirring, peasant sleeve, elasticized waist with self sash tie and back full slit with button closure</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 97% Polyester, 3% Spandex</p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx  Length: 30"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.09</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>AP1896</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>MAGENTA</s:tag>
+    <s:tag>romper</s:tag>
+    <s:tag>shop_colorpop</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6893471432872</id>
+      <title>MAGENTA / S</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>AP1896_MAGENTA_01</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6893471432872</id>
+      <title>MAGENTA / M</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>AP1896_MAGENTA_02</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6893471432872</id>
+      <title>MAGENTA / L</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>AP1896_MAGENTA_03</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6180165157032</id>
+    <published>2021-07-09T15:39:48-07:00</published>
+    <updated>2021-07-09T15:39:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ad2220"/>
+    <title>SECRET WHISPERS MIDI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>A. calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fn_20ad2220_20grn_209922.jpg?v=1625870080"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A. calin<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A solid midi dress featuring surplice neckline, 3/4 sleeve, elasticized waist with self sash belt</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self 97% Polyester, 3% Spandex</p>
+<p>Lining: 100% Polyester<br></p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx. Length: 46"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.09</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>AD2220</s:tag>
+    <s:tag>ADP2220</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>GREEN</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>midi dress</s:tag>
+    <s:tag>shop_colorpop</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6180165157032</id>
+      <title>GREEN / S</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>AD2220_GREEN_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6180165157032</id>
+      <title>GREEN / M</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>AD2220_GREEN_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6180165157032</id>
+      <title>GREEN / L</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>AD2220_GREEN_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6180165157032</id>
+      <title>GREEN / 1X</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>AD2220_GREEN_04</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6180165157032</id>
+      <title>GREEN / 2X</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>AD2220_GREEN_05</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6180165157032</id>
+      <title>GREEN / 3X</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>AD2220_GREEN_06</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6180165157032</id>
+      <title>MUSTARD / 1X</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>AD2220_MUSTARD_04</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6180165157032</id>
+      <title>MUSTARD / 2X</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>AD2220_MUSTARD_05</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6180165157032</id>
+      <title>MUSTARD / 3X</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>AD2220_MUSTARD_06</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6876233531560</id>
+    <published>2021-07-02T10:32:15-07:00</published>
+    <updated>2021-07-02T10:32:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ip7277"/>
+    <title>RAINBOW SEA WOVEN ROMPER</title>
+    <s:type>romper</s:type>
+    <s:vendor>Flying Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fn_20ip7277_20gre_20or_2021.jpg?v=1625244899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Tomato<br>
+        <strong>Type: </strong>romper<br>
+        <strong>Price: </strong>
+            62.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A printed woven romper featuring surplice neckline, with self sash tie, criss-cross back with zipper closure</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p>Lining: 100% Polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 22.5"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.02</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>bestseller</s:tag>
+    <s:tag>Flying Tomato</s:tag>
+    <s:tag>GREEN/ORANGE/PINK</s:tag>
+    <s:tag>IP7277</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>romper</s:tag>
+    <s:tag>shop_colorpop</s:tag>
+    <s:tag>shop_vacay</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6876233531560</id>
+      <title>GREEN/ORANGE/PINK / S</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>IP7277_GREEN/ORANGE/PINK_01</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6876233531560</id>
+      <title>GREEN/ORANGE/PINK / M</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>IP7277_GREEN/ORANGE/PINK_02</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6876233531560</id>
+      <title>GREEN/ORANGE/PINK / L</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>IP7277_GREEN/ORANGE/PINK_03</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6876233531560</id>
+      <title>PEACH/BLUE / S</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>IP7277_PEACH/BLUE_01</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6876233531560</id>
+      <title>PEACH/BLUE / M</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>IP7277_PEACH/BLUE_02</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6876233531560</id>
+      <title>PEACH/BLUE / L</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>IP7277_PEACH/BLUE_03</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6857744580776</id>
+    <published>2021-06-25T16:28:22-07:00</published>
+    <updated>2021-06-25T16:28:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ad1902"/>
+    <title>MY DEAREST DARLING MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>A. calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20ad1902_20gre_205.jpg?v=1624639271"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A. calin<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A solid woven mini dress featuring V neckline with lace detail and double ruffles, waist yoke, tiered skirt, V back with zipper closure</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p>Lining: 100% Polyester Exclusive of decoration</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 32.5"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.06.28</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>AD1902</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>GREEN</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>mini dress</s:tag>
+    <s:tag>shop_colorpop</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6857744580776</id>
+      <title>GREEN / S</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>AD1902_GREEN_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6857744580776</id>
+      <title>GREEN / M</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>AD1902_GREEN_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6857744580776</id>
+      <title>GREEN / L</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>AD1902_GREEN_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6857743761576</id>
+    <published>2021-06-25T16:28:22-07:00</published>
+    <updated>2021-06-25T16:28:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ad1816"/>
+    <title>TIMELESS SMILE MAXI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>A. calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20ad1816_20pin_20or_202.jpg?v=1624639168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A. calin<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            64.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A woven printed maxi dress featuring off shoulder neckline, elasticized waist, self sash belt and tiered skirt</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 51.5"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.06.28</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>AD1816</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>maxi dress</s:tag>
+    <s:tag>PINK/ORANGE</s:tag>
+    <s:tag>shop_colorpop</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6857743761576</id>
+      <title>PINK/ORANGE / S</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>AD1816_PINK/ORANGE_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6857743761576</id>
+      <title>PINK/ORANGE / M</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>AD1816_PINK/ORANGE_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6857743761576</id>
+      <title>PINK/ORANGE / L</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>AD1816_PINK/ORANGE_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6857754214568</id>
+    <published>2021-06-25T13:23:44-07:00</published>
+    <updated>2021-06-25T13:23:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jt9234"/>
+    <title>SLEEPLESS AT SUNDOWN WOVEN TOP</title>
+    <s:type>tops</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fn_20jt9234_20mag_203.jpg?v=1625086709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>tops<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A solid woven top featuring square neckline with fluttered sleeve, button down and self sash tie</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p>Contrast: 100% Polyester</p>
+<p> </p>
+<p> </p>
+<p>Size</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 41"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.06.28</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>JT9234</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>OFF WHITE</s:tag>
+    <s:tag>shop_colorpop</s:tag>
+    <s:tag>tops</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6857754214568</id>
+      <title>MAGENTA / S</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>JT9234_MAGENTA_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6857754214568</id>
+      <title>MAGENTA / M</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>JT9234_MAGENTA_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6857754214568</id>
+      <title>MAGENTA / L</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>JT9234_MAGENTA_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6839414554792</id>
+    <published>2021-06-18T16:31:00-07:00</published>
+    <updated>2021-06-18T16:31:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ld1293"/>
+    <title>CONSIDER MORE MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Lovecolette</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fn_20ld1293_20pink_2016.jpg?v=1623970848"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lovecolette<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A solid woven mini dress featuring V neckline, fluttered sleeve, smocked waist band, ruffled hemline, V back with tie detail</p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester Lining 100% Polyester</p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 25.5"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.06.18</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>dress</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>HOT PINK</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>LD1293</s:tag>
+    <s:tag>Lovecolette</s:tag>
+    <s:tag>mini dress</s:tag>
+    <s:tag>shop_colorpop</s:tag>
+    <s:tag>shop_wedding</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6839414554792</id>
+      <title>HOT PINK / S</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>LD1293_HOT PINK_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6839414554792</id>
+      <title>HOT PINK / M</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>LD1293_HOT PINK_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6839414554792</id>
+      <title>HOT PINK / L</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>LD1293_HOT PINK_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6790272417960</id>
+    <published>2021-06-04T16:46:41-07:00</published>
+    <updated>2021-06-04T16:46:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jd6582"/>
+    <title>PARADISE MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fljd6582orapibl9.jpg?v=1622828127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            58.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Multicolor mini dress featuring a halter neckline with a self-tie neck. Low cut back with a pleated body.</p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p>Lining: 100% Polyester</p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" and wearing size Small</p>
+<p>- Measurements taken from size Small</p>
+<p>- Approx. length: 32"<br data-mce-fragment="1"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.06.11</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>ALL SEASON</s:tag>
+    <s:tag>dress</s:tag>
+    <s:tag>eta1986</s:tag>
+    <s:tag>JD6582</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>mini dress</s:tag>
+    <s:tag>shop_4thofjuly</s:tag>
+    <s:tag>shop_colorpop</s:tag>
+    <s:tag>shop_maternity</s:tag>
+    <s:tag>shop_vacay</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6790272417960</id>
+      <title>S / ORANGE/PINK/BLUE</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>JD6582_ORANGE/PINK/BLUE_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6790272417960</id>
+      <title>M / ORANGE/PINK/BLUE</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>JD6582_ORANGE/PINK/BLUE_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6790272417960</id>
+      <title>L / ORANGE/PINK/BLUE</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>JD6582_ORANGE/PINK/BLUE_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6785291452584</id>
+    <published>2021-06-04T16:46:36-07:00</published>
+    <updated>2021-06-04T16:46:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jd7006"/>
+    <title>SUNNY DAY FEELS HI-LO MAXI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fnjd7006blkbl3.jpg?v=1622653984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            52.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Multicolor stripe hi-lo maxi dress featuring a mock neckline. Overlapped body with a self-sash tie and back keyhole button closure.</span></p>
+<p> </p>
+<p><span data-mce-fragment="1">Details</span></p>
+<p><span data-mce-fragment="1">Self: 97% Polyester, 3% Spandex</span></p>
+<p> </p>
+<p><span data-mce-fragment="1">Size &amp; Fit</span></p>
+<p><span data-mce-fragment="1">- Model is 5`8" And Wearing Size Small</span></p>
+<p><span data-mce-fragment="1">- Measurements Taken From Size Small</span></p>
+<p><span data-mce-fragment="1">- Approx Length: 56"</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.06.11</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>ALL SEASON</s:tag>
+    <s:tag>dress</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>JD7006</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Maxi Dress</s:tag>
+    <s:tag>shop_colorpop</s:tag>
+    <s:tag>shop_vacay</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6785291452584</id>
+      <title>S / OFF WHITE/ORANGE</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>JD7006_OFF WHITE/ORANGE_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6785291452584</id>
+      <title>S / BLACK/BLUE</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>JD7006_BLACK/BLUE_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6785291452584</id>
+      <title>M / OFF WHITE/ORANGE</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>JD7006_OFF WHITE/ORANGE_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6785291452584</id>
+      <title>M / BLACK/BLUE</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>JD7006_BLACK/BLUE_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6785291452584</id>
+      <title>L / OFF WHITE/ORANGE</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>JD7006_OFF WHITE/ORANGE_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6785291452584</id>
+      <title>L / BLACK/BLUE</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>JD7006_BLACK/BLUE_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6770995855528</id>
+    <published>2021-05-28T11:02:58-07:00</published>
+    <updated>2021-05-28T11:02:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ad2299"/>
+    <title>DEJA VU MIDI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>A. calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fnad2299pink5.jpg?v=1622851462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A. calin<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Midi dress featuring a V neckline and a front button closure. Short flutter sleeves with ruffled edge and smocked waistline. Tiered skirt with ruffled hemline.</span></p>
+<p> </p>
+<p><span data-mce-fragment="1">Details</span></p>
+<p><span data-mce-fragment="1">Self: 65% Rayon, 35% Polyester</span></p>
+<p><span data-mce-fragment="1">Lining 100% Polyester</span></p>
+<p> </p>
+<p><span data-mce-fragment="1">Size &amp; Fit</span></p>
+<p><span data-mce-fragment="1">- Model is 5`8" And Wearing Size Small</span></p>
+<p><span data-mce-fragment="1">- Measurements Taken From Size Small</span></p>
+<p><span data-mce-fragment="1">- Approx. Length: 51"</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.05.31</s:tag>
+    <s:tag>AD2299</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>ALL SEASON</s:tag>
+    <s:tag>bestseller</s:tag>
+    <s:tag>dress</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>Flying Tomato</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>midi dress</s:tag>
+    <s:tag>shop_colorpop</s:tag>
+    <s:tag>shop_wedding</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6770995855528</id>
+      <title>S / WHITE</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>AD2299_WHITE_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6770995855528</id>
+      <title>M / WHITE</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>AD2299_WHITE_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6770995855528</id>
+      <title>L / WHITE</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>AD2299_WHITE_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6770995855528</id>
+      <title>S / HOT PINK</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>AD2299_HOTPINK_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6770995855528</id>
+      <title>M / HOT PINK</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>AD2299_HOTPINK_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6770995855528</id>
+      <title>L / HOT PINK</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>AD2299_HOTPINK_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6769133322408</id>
+    <published>2021-05-28T11:02:56-07:00</published>
+    <updated>2021-05-28T11:02:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/id18350"/>
+    <title>FUTURE OF US LEMON MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Flying Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/flid18350lem4.jpg?v=1628886319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Botanical print mini dress featuring a V neckline. Adjustable shoulder straps and low cut back. Ruffled hemline.</p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p>Lining 100% Polyester</p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 20.5"</p>
+<p><br></p>
+<p> </p>
+<p> </p>
+<p><span>THIS ITEM IS ON FINAL SALE AND CANNOT BE RETURNED OR EXCHANGED.</span></p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.05.31</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>ALL SEASON</s:tag>
+    <s:tag>dress</s:tag>
+    <s:tag>Flying Tomato</s:tag>
+    <s:tag>goingfast</s:tag>
+    <s:tag>ID18350</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>mini dress</s:tag>
+    <s:tag>selectedsale_0813</s:tag>
+    <s:tag>shop_colorpop</s:tag>
+    <s:tag>shop_maternity</s:tag>
+    <s:tag>shop_vacay</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6769133322408</id>
+      <title>S / LEMON</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>ID18350_LEMON_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6769133322408</id>
+      <title>M / LEMON</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>ID18350_LEMON_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6769133322408</id>
+      <title>L / LEMON</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>ID18350_LEMON_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6747009548456</id>
+    <published>2021-05-19T10:56:45-07:00</published>
+    <updated>2021-05-19T10:56:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/at1915"/>
+    <title>EXCEPTIONAL YOU BLOUSE</title>
+    <s:type>tops</s:type>
+    <s:vendor>A. calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fat1915ora8.jpg?v=1624303234"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A. calin<br>
+        <strong>Type: </strong>tops<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>Vivid peplum blouse featuring a surplice neckline, long peasant sleeves, and smocked back waistband. Shadow striped throughout and attached side tie.</span></p>
+<p> </p>
+<p>Details<br><span data-mce-fragment="1">Self: 100% Polyester</span><br data-mce-fragment="1"><span data-mce-fragment="1">Lining: 100% polyester</span></p>
+<p> </p>
+Size &amp; Fit<br><span data-mce-fragment="1">- Model is 5`8" And Wearing Size Small<br data-mce-fragment="1">- Measurements Taken From Size Small<br data-mce-fragment="1">- Approx Length: 21"</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>ALL SEASON</s:tag>
+    <s:tag>AT1915</s:tag>
+    <s:tag>BLUSH</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>ORANGE</s:tag>
+    <s:tag>shop_4thofjuly</s:tag>
+    <s:tag>shop_colorpop</s:tag>
+    <s:tag>shop_weartowork</s:tag>
+    <s:tag>TOP</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6747009548456</id>
+      <title>S / ORANGE</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>AT1915_ORANGE_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6747009548456</id>
+      <title>M / ORANGE</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>AT1915_ORANGE_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6747009548456</id>
+      <title>L / ORANGE</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>AT1915_ORANGE_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6731813224616</id>
+    <published>2021-05-13T16:41:46-07:00</published>
+    <updated>2021-05-13T16:41:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ap1325"/>
+    <title>FULL OF WONDER WIDE LEG JUMPSUIT</title>
+    <s:type>pants</s:type>
+    <s:vendor>A. calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20ap1325_20gre_206_1.jpg?v=1620949294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A. calin<br>
+        <strong>Type: </strong>pants<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Wide-leg jumpsuit with a pleated ruffle overlay and adjustable spaghetti straps. Elasticized waistband with a short lining.</span></p>
+<p> </p>
+<p><span>Details</span><br data-mce-fragment="1"><meta charset="utf-8"><span data-mce-fragment="1">Self: 97% Polyester, 3% Spandex</span><br><span data-mce-fragment="1">Lining: 100% Polyester</span></p>
+<p> </p>
+Size &amp; Fit<br><span>- Model is 5`8" and wearing Size Small</span><br data-mce-fragment="1"><span>- Measurements are taken from Size Small</span><br data-mce-fragment="1"><meta charset="utf-8"><span>- Approx. Length: 52"</span>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.05.14</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>ALL SEASON</s:tag>
+    <s:tag>AP1325</s:tag>
+    <s:tag>GREEN</s:tag>
+    <s:tag>jumpsuit</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>shop_colorpop</s:tag>
+    <s:tag>shop_vacay</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6731813224616</id>
+      <title>GREEN / S</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>AP1325_GREEN_01</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6731813224616</id>
+      <title>GREEN / M</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>AP1325_GREEN_02</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6731813224616</id>
+      <title>GREEN / L</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>AP1325_GREEN_03</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6538851582120</id>
+    <published>2021-05-13T15:29:41-07:00</published>
+    <updated>2021-05-13T15:29:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ap1851"/>
+    <title>ON MY LEVEL WIDE LEG JUMPSUIT</title>
+    <s:type>jumpsuit</s:type>
+    <s:vendor>A. calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20ap1851_20red_204.jpg?v=1620944963"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A. calin<br>
+        <strong>Type: </strong>jumpsuit<br>
+        <strong>Price: </strong>
+            52.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wide-leg soft-woven jumpsuit featuring a self-tie halter neckline. Low-cut back with a removable self-sash tie. Wide leg palazzo pants.</p>
+<p> </p>
+<p>Details</p>
+<p><meta charset="utf-8"><span data-mce-fragment="1">Self: 100% Polyester</span></p>
+<p> </p>
+<p><span>Size &amp; Fit</span></p>
+<p><span>- Model is 5`8" and wearing Size Small</span></p>
+<p><span>- Measurements are taken from Size Small</span></p>
+<p><span>- Length: 57"</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.02.26</s:tag>
+    <s:tag>2021.05.14</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>ALL SEASON</s:tag>
+    <s:tag>AP1851</s:tag>
+    <s:tag>jumpsuit</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>RED</s:tag>
+    <s:tag>shop_4thofjuly</s:tag>
+    <s:tag>shop_colorpop</s:tag>
+    <s:tag>shop_vacay</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6538851582120</id>
+      <title>RED / S</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>AP1851_RED__RED_01</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6538851582120</id>
+      <title>RED / M</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>AP1851_RED__RED_02</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6538851582120</id>
+      <title>RED / L</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>AP1851_RED__RED_03</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6716287713448</id>
+    <published>2021-05-06T14:04:30-07:00</published>
+    <updated>2021-05-06T14:04:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ad2345"/>
+    <title>SAVE YOUR TEARS MIDI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>A. calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20ad2345_20red_204.jpg?v=1620334980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A. calin<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            62.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A solid midi dress featuring smocked bodice with shoulder tie, ruffled front and waist and tiered skirt</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 60% Cotton 40% Polyester</p>
+<p>Lining: 100% Polyester<br></p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 42"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.05.07</s:tag>
+    <s:tag>2021.05.31</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>AD2345</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>ALL SEASON</s:tag>
+    <s:tag>bestseller</s:tag>
+    <s:tag>dress</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>midi dress</s:tag>
+    <s:tag>RED</s:tag>
+    <s:tag>restocked</s:tag>
+    <s:tag>shop_4thofjuly</s:tag>
+    <s:tag>shop_colorpop</s:tag>
+    <s:tag>shop_vacay</s:tag>
+    <s:tag>VACAY</s:tag>
+    <s:tag>vacaydress</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6716287713448</id>
+      <title>RED / S</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>AD2345_RED_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6716287713448</id>
+      <title>RED / M</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>AD2345_RED_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6716287713448</id>
+      <title>RED / L</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>AD2345_RED_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+</feed>

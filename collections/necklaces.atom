@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://flyingtomato.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://flyingtomato.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://flyingtomato.com/collections/necklaces.atom"/>
+  <title>Flying Tomato</title>
+  <updated>2021-04-16T16:35:34-07:00</updated>
+  <author>
+    <name>Flying Tomato</name>
+  </author>
+  <entry>
+    <id>https://flyingtomato.com/products/6663697006760</id>
+    <published>2021-04-16T16:35:34-07:00</published>
+    <updated>2021-04-16T16:35:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/fran1016"/>
+    <title>GRAND CHAIN LAYER NECKLACE</title>
+    <s:type>necklace</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/FRAN10162.jpg?v=1620951460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Twisted Chain Necklace <br>Brushed Metallic Gold<br>Lobster Clasp Closure<br>Length: 18" to 21"<br>Import<br><br></p>
+<p> </p>
+<p><meta charset="utf-8"><span style="color: #ff2a00;">THIS ITEM IS ON FINAL SALE AND CANNOT BE RETURNED OR EXCHANGED.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fran1016</s:tag>
+    <s:tag>GDN-1838</s:tag>
+    <s:tag>necklace</s:tag>
+    <s:tag>selectedsale</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663697006760</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>FRAN1016</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663683342504</id>
+    <published>2021-04-16T16:35:34-07:00</published>
+    <updated>2021-04-16T16:35:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/fran1014"/>
+    <title>DOUBLE HEART NECKLACE</title>
+    <s:type>necklace</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/312100001_1.jpg?v=1618519694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rhinestone Open Heart Pendant Necklace<br>Metallic Gold<br>Gold Dipped<br>Lobster Clasp Closure<br>Length: Approximately 15.5" to 17.5" <br>Pendant Length: Approximately 0.5"<br>Import<br></p>
+<p> </p>
+<p><meta charset="utf-8"><span style="color: #ff2a00;">THIS ITEM IS ON FINAL SALE AND CANNOT BE RETURNED OR EXCHANGED.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DN-6043</s:tag>
+    <s:tag>fran1014</s:tag>
+    <s:tag>necklace</s:tag>
+    <s:tag>selectedsale</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663683342504</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>FRAN1014</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663703593128</id>
+    <published>2021-04-16T16:35:33-07:00</published>
+    <updated>2021-04-16T16:35:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/fran1002"/>
+    <title>AQUARIUS HOROSCOPE NECKLACE</title>
+    <s:type>necklace</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/312100005_1.jpg?v=1618520078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Aquarius Cursive Necklace<br>Gold Dipped<br>Lobster Clasp Closure<br>Chain Length: 16" to 18"<br>Import</p>
+<p> </p>
+<p><meta charset="utf-8"><span style="color: #ff2a00;">THIS ITEM IS ON FINAL SALE AND CANNOT BE RETURNED OR EXCHANGED.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fran1002</s:tag>
+    <s:tag>JBN-1376-AQUARIUS</s:tag>
+    <s:tag>nec</s:tag>
+    <s:tag>necklace</s:tag>
+    <s:tag>selectedsale</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663703593128</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>FRAN1002</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663700054184</id>
+    <published>2021-04-16T16:35:33-07:00</published>
+    <updated>2021-04-16T16:35:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/fran1019"/>
+    <title>LUCKY CLOVER NECKLACE</title>
+    <s:type>necklace</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/312100004_1.jpg?v=1618519938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Rhinestone Open Four Leaf Clover Necklace<br>Metallic Gold Chain<br>Gold Dipped<br>Clasp Closure<br>Length: Approximately 14" to 15" <br>Pendant Length: Approximately 0.5"<br>Import</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fran1019</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>necklace</s:tag>
+    <s:tag>PC-1238</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663700054184</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>FRAN1019</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663713685672</id>
+    <published>2021-04-16T16:35:32-07:00</published>
+    <updated>2021-04-16T16:35:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/fran1005"/>
+    <title>CAPRICORN HOROSCOPE NECKLACE</title>
+    <s:type>necklace</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/312100008_1.jpg?v=1618520332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Capricorn Cursive Necklace<br>Gold Dipped<br>Lobster Clasp Closure<br>Chain Length: 16" to 18"<br>Import</p>
+<p> </p>
+<p><meta charset="utf-8"><span style="color: #ff2a00;">THIS ITEM IS ON FINAL SALE AND CANNOT BE RETURNED OR EXCHANGED.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fran1005</s:tag>
+    <s:tag>JBN-1376-CAPRICORN</s:tag>
+    <s:tag>necklace</s:tag>
+    <s:tag>selectedsale</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663713685672</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>FRAN1005</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663711457448</id>
+    <published>2021-04-16T16:35:32-07:00</published>
+    <updated>2021-04-16T16:35:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/fran1004"/>
+    <title>CANCER HOROSCOPE NECKLACE</title>
+    <s:type>necklace</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/312100007_1.jpg?v=1618520236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cancer Cursive Necklace<br>Gold Dipped<br>Lobster Clasp Closure<br>Chain Length: 16" to 18"<br>Import</p>
+<p> </p>
+<p><meta charset="utf-8"><span style="color: #ff2a00;">THIS ITEM IS ON FINAL SALE AND CANNOT BE RETURNED OR EXCHANGED.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fran1004</s:tag>
+    <s:tag>JBN-1376-CANCEL</s:tag>
+    <s:tag>necklace</s:tag>
+    <s:tag>selectedsale</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663711457448</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>FRAN1004</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663719452840</id>
+    <published>2021-04-16T16:35:31-07:00</published>
+    <updated>2021-04-16T16:35:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/fran1008"/>
+    <title>LIBRA HOROSCOPE NECKLACE</title>
+    <s:type>necklace</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/312100011_1.jpg?v=1618520552"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Libra Cursive Necklace<br>Gold Dipped<br>Lobster Clasp Closure<br>Chain Length: 16" to 18"<br>Import</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fran1008</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>JBN-1376-LIBRA</s:tag>
+    <s:tag>necklace</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663719452840</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>FRAN1008</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663717257384</id>
+    <published>2021-04-16T16:35:31-07:00</published>
+    <updated>2021-04-16T16:35:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/fran1007"/>
+    <title>LEO HOROSCOPE NECKLACE</title>
+    <s:type>necklace</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/312100010_1.jpg?v=1618520491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Leo Cursive Necklace<br>Gold Dipped<br>Lobster Clasp Closure<br>Chain Length: 16" to 18"<br>Import</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fran1007</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>JBN-1376-LEO</s:tag>
+    <s:tag>necklace</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663717257384</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>FRAN1007</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663715225768</id>
+    <published>2021-04-16T16:35:31-07:00</published>
+    <updated>2021-04-16T16:35:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/fran1006"/>
+    <title>GEMINI HOROSCOPE NECKLACE</title>
+    <s:type>necklace</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/312100009_1.jpg?v=1618520396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gemini Cursive Necklace<br>Gold Dipped<br>Lobster Clasp Closure<br>Chain Length: 16" to 18"<br>Import</p>
+<p> </p>
+<p><meta charset="utf-8"><span style="color: #ff2a00;">THIS ITEM IS ON FINAL SALE AND CANNOT BE RETURNED OR EXCHANGED.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fran1006</s:tag>
+    <s:tag>JBN-1376-GEMINI</s:tag>
+    <s:tag>necklace</s:tag>
+    <s:tag>selectedsale</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663715225768</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>FRAN1006</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663730430120</id>
+    <published>2021-04-16T16:35:30-07:00</published>
+    <updated>2021-04-16T16:35:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/fran1011"/>
+    <title>SCORPIO HOROSCOPE NECKLACE</title>
+    <s:type>necklace</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/312100014_1.jpg?v=1618520856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Scorpio Cursive Necklace<br>Gold Dipped<br>Lobster Clasp Closure<br>Chain Length: 16" to 18"<br>Import</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fran1011</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>JBN-1376-SCORPIO</s:tag>
+    <s:tag>necklace</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663730430120</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>FRAN1011</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663728791720</id>
+    <published>2021-04-16T16:35:30-07:00</published>
+    <updated>2021-04-16T16:35:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/fran1010"/>
+    <title>SAGITTARIUS HOROSCOPE NECKLACE</title>
+    <s:type>necklace</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/312100013_1.jpg?v=1618520791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sagittarius Cursive Necklace<br>Gold Dipped<br>Lobster Clasp Closure<br>Chain Length: 16" to 18"<br>Import</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fran1010</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>JBN-1376-SAGITTARIUS</s:tag>
+    <s:tag>necklace</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663728791720</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>FRAN1010</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663722500264</id>
+    <published>2021-04-16T16:35:30-07:00</published>
+    <updated>2021-04-16T16:35:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/fran1009"/>
+    <title>PISCES HOROSCOPE NECKLACE</title>
+    <s:type>necklace</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/312100012_1.jpg?v=1618520616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Pisces Cursive Necklace<br>Gold Dipped<br>Lobster Clasp Closure<br>Chain Length: 16" to 18"<br>Import</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fran1009</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>JBN-1376-PISCES</s:tag>
+    <s:tag>necklace</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663722500264</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>FRAN1009</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663734132904</id>
+    <published>2021-04-16T16:35:29-07:00</published>
+    <updated>2021-04-16T16:35:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/fran1013"/>
+    <title>VIRGO HOROSCOPE NECKLACE</title>
+    <s:type>necklace</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/312100016_1.jpg?v=1618520987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Virgo Cursive Necklace<br>Gold Dipped<br>Lobster Clasp Closure<br>Chain Length: 16" to 18"<br>Import</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fran1013</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>JBN-1376-VIRGO</s:tag>
+    <s:tag>necklace</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663734132904</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>FRAN1013</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663732265128</id>
+    <published>2021-04-16T16:35:29-07:00</published>
+    <updated>2021-04-16T16:35:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/fran1012"/>
+    <title>TAURUS HOROSCOPE NECKLACE</title>
+    <s:type>necklace</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/312100015_1.jpg?v=1618520928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Taurus Cursive Necklace<br>Gold Dipped<br>Lobster Clasp Closure<br>Chain Length: 16" to 18"<br>Import</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fran1012</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>JBN-1376-TAURUS</s:tag>
+    <s:tag>necklace</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663732265128</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>FRAN1012</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663747010728</id>
+    <published>2021-04-16T16:35:28-07:00</published>
+    <updated>2021-04-16T16:35:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/fran1020"/>
+    <title>LUXE LIVING LARIAT NECKLACE</title>
+    <s:type>necklace</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/312100022_1.jpg?v=1618521472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">Delicate Sterling Silver Lariat Necklace<br data-mce-fragment="1">Rhinestone Details<br data-mce-fragment="1">Adjustable Length<br data-mce-fragment="1">Chain Length: Approx. 15" with 2" Extension<br data-mce-fragment="1">Length From Clasp to Pendant: Approx. 13.5" <br data-mce-fragment="1">Clasp Closure<br data-mce-fragment="1">Import<br data-mce-fragment="1"><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fran1020</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>necklace</s:tag>
+    <s:tag>NN334013</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663747010728</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>FRAN1020</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663739343016</id>
+    <published>2021-04-16T16:35:28-07:00</published>
+    <updated>2021-04-16T16:35:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/fran1024"/>
+    <title>SINCLAIR CHAIN NECKLACE</title>
+    <s:type>necklace</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/312100020_1.jpg?v=1618521177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Chain Necklace <br>High-Shine Metallic Gold<br>Double Lock Clasp Closure<br>Length: Approx. 14"<br>Import<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fran1024</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>necklace</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:tag>WN-11612</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663739343016</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>FRAN1024</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663754416296</id>
+    <published>2021-04-16T16:35:27-07:00</published>
+    <updated>2021-04-16T16:35:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/fran1018"/>
+    <title>LOVE NECKLACE</title>
+    <s:type>necklace</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/312100025-62.jpg?v=1618521771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">Love Pendant Necklace<br data-mce-fragment="1">Rhinestone Embellishment<br data-mce-fragment="1">Lobster Clasp Closure<br data-mce-fragment="1">Chain Length: Approx. 16" with 3" Extension<br data-mce-fragment="1">Length from Clasp to Pendant: Approx. 8"<br data-mce-fragment="1">Import<br data-mce-fragment="1"><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fran1018</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>necklace</s:tag>
+    <s:tag>S3955</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663754416296</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>FRAN1018</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663752450216</id>
+    <published>2021-04-16T16:35:27-07:00</published>
+    <updated>2021-04-16T16:35:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/fran1023"/>
+    <title>SATURDAY NIGHT CHOKER</title>
+    <s:type>necklace</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/FRAN10232.jpg?v=1621895270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">Statement Making Collar Necklace<br data-mce-fragment="1">Rhinestone-Encrusted Detail <br data-mce-fragment="1">Buckle Closure<br data-mce-fragment="1">Can be Worn as a Wrap-Around Bracelet<br data-mce-fragment="1">Approx. 18"L<br data-mce-fragment="1">Import<br data-mce-fragment="1"><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fran1023</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>J23307X</s:tag>
+    <s:tag>necklace</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663752450216</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>FRAN1023</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663758577832</id>
+    <published>2021-04-16T16:35:26-07:00</published>
+    <updated>2021-04-16T16:35:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/fran1022"/>
+    <title>REINE CHAIN NECKLACE</title>
+    <s:type>necklace</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/IMG_8470.jpg?v=1618522018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">Minimal Chain-Link Necklace<br data-mce-fragment="1">High-Shine Metallic Gold<br data-mce-fragment="1">Lobster Clasp Closure<br data-mce-fragment="1">Chain Length: Approx. 15" with 3" Extension<br data-mce-fragment="1">Import<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>C15349</s:tag>
+    <s:tag>fran1022</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>necklace</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663758577832</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>FRAN1022</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663756578984</id>
+    <published>2021-04-16T16:35:26-07:00</published>
+    <updated>2021-04-16T16:35:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/fran1017"/>
+    <title>KRISTYN NECKLACE</title>
+    <s:type>necklace</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/Studio-Session-253.jpg?v=1620160664"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>necklace<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">Rhinestone Detailed Chain Necklace<br data-mce-fragment="1">High-Shine Metallic Gold<br data-mce-fragment="1">Lobster Clasp Closure<br data-mce-fragment="1">Chain Length: Approx. 15" with 3" Extension<br data-mce-fragment="1">Import<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fran1017</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>necklace</s:tag>
+    <s:tag>S3884X</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663756578984</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>FRAN1017</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

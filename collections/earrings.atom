@@ -1,0 +1,1063 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://flyingtomato.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://flyingtomato.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://flyingtomato.com/collections/earrings.atom"/>
+  <title>Flying Tomato</title>
+  <updated>2021-05-13T16:45:45-07:00</updated>
+  <author>
+    <name>Flying Tomato</name>
+  </author>
+  <entry>
+    <id>https://flyingtomato.com/products/6711986028712</id>
+    <published>2021-05-13T16:45:45-07:00</published>
+    <updated>2021-05-13T16:45:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frae1032a"/>
+    <title>MICHELLE HOOP EARRINGS</title>
+    <s:type>Earring</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/FRAE1024.jpg?v=1620951403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="product-page--description" data-mce-fragment="1">
+<div data-item="rte-content" data-mce-fragment="1" itemprop="description">Round Hoop Earring</div>
+<div data-item="rte-content" data-mce-fragment="1" itemprop="description">Gold Dipped<br data-mce-fragment="1">High-Shine Metallic Gold<br data-mce-fragment="1">Approximately 3"<br data-mce-fragment="1">Import<br data-mce-fragment="1">
+</div>
+</div>
+<div class="product-page--media" data-mce-fragment="1">
+<div class="product-media--wrapper" data-zoom-enabled="true" data-media-type="image" data-mce-fragment="1">
+<div class="modal--root" data-js-class="FrameworkModal" data-js-loaded="true" data-mce-fragment="1">
+<div class="modal--link" data-mce-fragment="1">
+<div class="product-media--root" data-view="featured" data-magnify="1.7" data-zoom-enabled="true" data-mce-fragment="1">
+<div class="product-media--featured" data-id="20860633874600" data-active="true" data-media-type="image" data-zoom-enabled="true" data-mce-fragment="1">
+<div class="image--root" data-aspectratio="0.6667694204685574" data-mce-fragment="1">
+<div class="image--container" data-mce-fragment="1"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>C10567</s:tag>
+    <s:tag>Earring</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6711986028712</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>FRAE1032A</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663581106344</id>
+    <published>2021-04-16T16:35:44-07:00</published>
+    <updated>2021-04-16T16:35:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frae1031"/>
+    <title>ZOEY HOOP EARRING</title>
+    <s:type>Earring</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/311100003_1.jpg?v=1618516218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Flat Round Hoop Earring<br data-mce-fragment="1">14K Gold Dipped<br data-mce-fragment="1">High-Shine Metallic Gold<br data-mce-fragment="1">Approximately 2.75" <br data-mce-fragment="1">Import<br data-mce-fragment="1"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earring</s:tag>
+    <s:tag>FRAE1031</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>SB-10315</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663581106344</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>FRAE1031</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663576027304</id>
+    <published>2021-04-16T16:35:44-07:00</published>
+    <updated>2021-04-16T16:35:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frae1003"/>
+    <title>CHAINED IN LOVE EARRING</title>
+    <s:type>earring</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/311100002_1.jpg?v=1618516061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>earring<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chain Drop Earring<br data-mce-fragment="1">Metallic Gold<br data-mce-fragment="1">Approximately 3.25" <br data-mce-fragment="1">Import<br data-mce-fragment="1"></p>
+<p> </p>
+<p><meta charset="utf-8"><span style="color: #ff2a00;">THIS ITEM IS ON FINAL SALE AND CANNOT BE RETURNED OR EXCHANGED.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25E-1267</s:tag>
+    <s:tag>Earring</s:tag>
+    <s:tag>frae1003</s:tag>
+    <s:tag>selectedsale</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663576027304</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>FRAE1003</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663570620584</id>
+    <published>2021-04-16T16:35:44-07:00</published>
+    <updated>2021-04-16T16:35:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frae1012"/>
+    <title>JAXON HOOP EARRING</title>
+    <s:type>Earring</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/311100001_1.jpg?v=1618515867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Flat Round Hoop Earring<br data-mce-fragment="1">Gold Dipped<br data-mce-fragment="1">Matte Gold<br data-mce-fragment="1">Approximately 3.25" <br data-mce-fragment="1">Import<br data-mce-fragment="1"></p>
+<p> </p>
+<p> </p>
+<p><meta charset="utf-8"><span style="color: #ff2a00;">THIS ITEM IS ON FINAL SALE AND CANNOT BE RETURNED OR EXCHANGED.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>21415-E</s:tag>
+    <s:tag>Earring</s:tag>
+    <s:tag>frae1012</s:tag>
+    <s:tag>selectedsale</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663570620584</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>FRAE1012</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663594442920</id>
+    <published>2021-04-16T16:35:43-07:00</published>
+    <updated>2021-04-16T16:35:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frae1010"/>
+    <title>ISABEL EAR CUFF</title>
+    <s:type>Earring</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/311100006_1.jpg?v=1618516656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>High Polish Ear Cuff<br>Metallic Gold with Rhinestone Embellishment<br>Post-Back Earring Closure<br>Approx. 2.25"L<br>Import<br></p>
+<p> </p>
+<p><meta charset="utf-8"><span style="color: #ff2a00;">THIS ITEM IS ON FINAL SALE AND CANNOT BE RETURNED OR EXCHANGED.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earring</s:tag>
+    <s:tag>frae1010</s:tag>
+    <s:tag>ME-8779</s:tag>
+    <s:tag>selectedsale</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663594442920</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>FRAE1010</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663582122152</id>
+    <published>2021-04-16T16:35:43-07:00</published>
+    <updated>2021-04-16T16:35:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frae1030"/>
+    <title>VICTORIA PEARL EAR CUFF</title>
+    <s:type>Earring</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/Studio-Session-1715.jpg?v=1620160599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">High Polish Ear Cuff<br>Metallic Gold with Rhinestone and Pearl Embellishment<br>Post-Back Earring Closure<br>Approx. 2.25"L<br>Import<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earring</s:tag>
+    <s:tag>frae1030</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>ME-8778</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663582122152</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>FRAE1030</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663600898216</id>
+    <published>2021-04-16T16:35:42-07:00</published>
+    <updated>2021-04-16T16:35:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frae1029"/>
+    <title>UP ALL NIGHT HOOP EARRING</title>
+    <s:type>Earring</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/Studio-Session-256.jpg?v=1620160465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Chain Hoop Earring<br>Metallic Gold<br>Post-Back Earring Closure<br>Approx. 1.5"D<br>Import</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>41868-E</s:tag>
+    <s:tag>Earring</s:tag>
+    <s:tag>frae1029</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663600898216</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>FRAE1029</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663597326504</id>
+    <published>2021-04-16T16:35:42-07:00</published>
+    <updated>2021-04-16T16:35:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frae1022"/>
+    <title>ON THE COASTLINE PEARL HOOP EARRING</title>
+    <s:type>Earring</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/Studio-Session-169.jpg?v=1620160524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">High Polish Hoop Earring<br>Metallic Gold with Pearl Embellishment<br>Post-Back Earring Closure<br>Approx. 1"D<br>Import<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3M2705</s:tag>
+    <s:tag>Earring</s:tag>
+    <s:tag>frae1022</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663597326504</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>FRAE1022</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663611646120</id>
+    <published>2021-04-16T16:35:41-07:00</published>
+    <updated>2021-04-16T16:35:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frae1008"/>
+    <title>HEART HOOP EARRING</title>
+    <s:type>Earring</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/FRAE10082.jpg?v=1623431618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Large Heart Hoop Earring<br>Metallic Gold<br>Post-Back Earring Closure<br>Approx. 2.5"D<br>Import</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>C8436A</s:tag>
+    <s:tag>Earring</s:tag>
+    <s:tag>frae1008</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663611646120</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>FRAE1008</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663608926376</id>
+    <published>2021-04-16T16:35:41-07:00</published>
+    <updated>2021-04-16T16:35:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frae1019"/>
+    <title>LYDIA HOOP EARRING</title>
+    <s:type>Earring</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/311100010-49.jpg?v=1618517232"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Teardrop Hoop Earring<br>Metallic Gold<br>Post-Back Earring Closure<br>Approx. 2.5"D and 3.5"L<br>Import<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>C10565</s:tag>
+    <s:tag>Earring</s:tag>
+    <s:tag>FRAE1019</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663608926376</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>FRAE1019</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663604633768</id>
+    <published>2021-04-16T16:35:41-07:00</published>
+    <updated>2021-04-16T16:35:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frae1024"/>
+    <title>ROXY HOOP EARRING</title>
+    <s:type>Earring</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/133100015-68-blk.jpg?v=1618517127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Engraved Flat Round Hoop Earring<br>High-Shine Metallic Gold<br>Approximately 3"D<br>Import<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earring</s:tag>
+    <s:tag>frae1024</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>J24193</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663604633768</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>FRAE1024</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663622918312</id>
+    <published>2021-04-16T16:35:40-07:00</published>
+    <updated>2021-04-16T16:35:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frae1016"/>
+    <title>LA FLEUR EARRING</title>
+    <s:type>Earring</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/FRAE10161.jpg?v=1621895432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Flower Rhinestone Earring<br>Antique Silver<br>Post-Back Earring Closure<br>Approx. 1"D<br>Import<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earring</s:tag>
+    <s:tag>frae1016</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>S4148</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663622918312</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>FRAE1016</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663620001960</id>
+    <published>2021-04-16T16:35:40-07:00</published>
+    <updated>2021-04-16T16:35:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frae1025"/>
+    <title>SAMSON HOOP EARRING</title>
+    <s:type>Earring</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/FRAE10252.jpg?v=1621010836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Twist Accent Hoop Earring<br>Metallic Gold<br>Post-Back Earring Closure<br>Approx. 1"D<br>Import</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>C15350</s:tag>
+    <s:tag>Earring</s:tag>
+    <s:tag>frae1025</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663620001960</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>FRAE1025</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663616954536</id>
+    <published>2021-04-16T16:35:40-07:00</published>
+    <updated>2021-04-16T16:35:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frae1026"/>
+    <title>SAYULITA EARRING</title>
+    <s:type>Earring</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/311100013-16.jpg?v=1618517544"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Gorgeous Hoop Earring featured in Open Hoop Style<br>High Polish Metallic Gold<br>Post-Back Earring Closure<br>Approx. 1"D<br>Import</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>C15351</s:tag>
+    <s:tag>Earring</s:tag>
+    <s:tag>frae1026</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663616954536</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>FRAE1026</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663634256040</id>
+    <published>2021-04-16T16:35:39-07:00</published>
+    <updated>2021-04-16T16:35:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frae1005"/>
+    <title>EMERIE EARRING</title>
+    <s:type>Earring</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/311100018-54.jpg?v=1618517955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rhinestone &amp; Star Detailed Dangling Earring<br data-mce-fragment="1">Double Layer<br data-mce-fragment="1">Metallic Gold<br data-mce-fragment="1">Post-Back Earring Closure<br data-mce-fragment="1">Approximately 5"L<br data-mce-fragment="1">Importproximately 4"L<br>Import</p>
+<p> </p>
+<p><meta charset="utf-8"><span style="color: #ff2a00;">THIS ITEM IS ON FINAL SALE AND CANNOT BE RETURNED OR EXCHANGED.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>C15319</s:tag>
+    <s:tag>Earring</s:tag>
+    <s:tag>frae1005</s:tag>
+    <s:tag>selectedsale</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663634256040</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>FRAE1005</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663628882088</id>
+    <published>2021-04-16T16:35:39-07:00</published>
+    <updated>2021-04-16T16:35:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frae1004"/>
+    <title>DRIPPING HEARTS EARRING</title>
+    <s:type>Earring</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/311100017-54.jpg?v=1618517863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Bold Dangling Earring Featuring Chain &amp; Rhinestone Fringes <br>Long Draped Style<br>Metallic Silver<br>Post-Back Earring Closure<br>Approximately 4"L<br>Import</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earring</s:tag>
+    <s:tag>frae1004</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>J20269</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663628882088</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>FRAE1004</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663647690920</id>
+    <published>2021-04-16T16:35:38-07:00</published>
+    <updated>2021-04-16T16:35:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frae1009"/>
+    <title>HELENA EARRING</title>
+    <s:type>Earring</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/311100021.jpg?v=1618518381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Drop O-Ring Earring<br>Metallic Gold<br>Stone Embellishment<br>Post-Back Earring Closure<br>Approx. 2"D and 3"L<br>Import</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>C15354</s:tag>
+    <s:tag>Earring</s:tag>
+    <s:tag>frae1009</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663647690920</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>FRAE1009</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663642579112</id>
+    <published>2021-04-16T16:35:38-07:00</published>
+    <updated>2021-04-16T16:35:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frae1015"/>
+    <title>KENNEDY EARRING</title>
+    <s:type>Earring</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/311100020-33.jpg?v=1618518181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Make a Statement in these Layered Dangling Earring<br>Rose Gold<br>Post-Back Earring Closure<br>Approximately 6"L<br>Import</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>C15320</s:tag>
+    <s:tag>Earring</s:tag>
+    <s:tag>frae1015</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663642579112</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>FRAE1015</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663639302312</id>
+    <published>2021-04-16T16:35:38-07:00</published>
+    <updated>2021-04-16T16:35:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frae1007"/>
+    <title>FOREVER EARRING</title>
+    <s:type>Earring</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/31110001918.jpg?v=1618518075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>FOR-EVER Drop Earring<br>Metallic Gold<br>Rhinestone Embellishment<br>Post-Back Earring Closure<br>FOR: Approximately 3.5"L<br>EVER: Approximately 4"L<br>Import</p>
+<p> </p>
+<p><meta charset="utf-8"><span style="color: #ff2a00;">THIS ITEM IS ON FINAL SALE AND CANNOT BE RETURNED OR EXCHANGED.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earring</s:tag>
+    <s:tag>frae1007</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>J22321</s:tag>
+    <s:tag>selectedsale</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663639302312</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>FRAE1007</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663659880616</id>
+    <published>2021-04-16T16:35:37-07:00</published>
+    <updated>2021-04-16T16:35:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frae1017"/>
+    <title>LILI EARRING SET</title>
+    <s:type>Earring</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/311100024.jpg?v=1618518756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of Three Earring in Coordinating Designs<br>Metallic Gold with Rhinestone Embellishment<br>Import</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>C15324</s:tag>
+    <s:tag>Earring</s:tag>
+    <s:tag>frae1017</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663659880616</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>FRAE1017</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663656767656</id>
+    <published>2021-04-16T16:35:37-07:00</published>
+    <updated>2021-04-16T16:35:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frae1013"/>
+    <title>JULIET SPARKLING EARRING SET</title>
+    <s:type>Earring</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/311100023_1.jpg?v=1618518617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of Three Earring in Coordinating Designs<br>Metallic Gold with Rhinestone Embellishment<br>Import</p>
+<p> </p>
+<p><meta charset="utf-8"><span style="color: #ff2a00;">THIS ITEM IS ON FINAL SALE AND CANNOT BE RETURNED OR EXCHANGED.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>C15333</s:tag>
+    <s:tag>Earring</s:tag>
+    <s:tag>frae1013</s:tag>
+    <s:tag>selectedsale</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663656767656</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>FRAE1013</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663652802728</id>
+    <published>2021-04-16T16:35:37-07:00</published>
+    <updated>2021-04-16T16:35:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frae1018"/>
+    <title>LOVE AT FIRST SIGHT EAR CUFF SET</title>
+    <s:type>Earring</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/311100022.jpg?v=1618518511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of Four Ear Cuffs in Coordinating Designs<br>Thin Metallic Gold Bands with Rhinestone and Pearl Embellishment<br>Import</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>C15334</s:tag>
+    <s:tag>Earring</s:tag>
+    <s:tag>frae1018</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663652802728</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>FRAE1018</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663670726824</id>
+    <published>2021-04-16T16:35:36-07:00</published>
+    <updated>2021-04-16T16:35:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frae1001"/>
+    <title>AT LAST HOOP EARRING</title>
+    <s:type>Earring</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/FRAE10011.jpg?v=1623431584"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Timeless Hoop Earring featured in Open Hoop Style<br>Rhinestone Encrusted<br>High Polish Metallic Gold<br>Post-Back Earring Closure<br>Approx. 1"D<br>Import</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>C15352</s:tag>
+    <s:tag>Earring</s:tag>
+    <s:tag>frae1001</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663670726824</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>FRAE1001</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663667155112</id>
+    <published>2021-04-16T16:35:36-07:00</published>
+    <updated>2021-04-16T16:35:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frae1021"/>
+    <title>MINIMALIST HEART EARRING</title>
+    <s:type>Earring</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/311100026.jpg?v=1618519004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Minimalist Heart Hoop Earring<br>Metallic Gold with Rhinestone Embellishment<br>Post-Back Earring Closure<br>Approx. 1"D<br>Import</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>C13498A</s:tag>
+    <s:tag>Earring</s:tag>
+    <s:tag>frae1021</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663667155112</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>FRAE1021</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663664140456</id>
+    <published>2021-04-16T16:35:36-07:00</published>
+    <updated>2021-04-16T16:35:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frae1006"/>
+    <title>FLOWER DROP EARRING</title>
+    <s:type>Earring</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/311100025.jpg?v=1618518844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Drop Earring with Delicate Flower Trim<br>Metallic Gold<br>Approximately 4"L<br>Import<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>C15332</s:tag>
+    <s:tag>Earring</s:tag>
+    <s:tag>frae1006</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663664140456</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>FRAE1006</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

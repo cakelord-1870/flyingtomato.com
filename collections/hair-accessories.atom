@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://flyingtomato.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://flyingtomato.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://flyingtomato.com/collections/hair-accessories.atom"/>
+  <title>Flying Tomato</title>
+  <updated>2021-05-20T10:53:42-07:00</updated>
+  <author>
+    <name>Flying Tomato</name>
+  </author>
+  <entry>
+    <id>https://flyingtomato.com/products/6693252399272</id>
+    <published>2021-05-20T10:53:42-07:00</published>
+    <updated>2021-05-20T10:53:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frm1005"/>
+    <title>RILEY RHINESTONE HAIR CLIP AND PIN SET</title>
+    <s:type>HAIR ACCESSORIES</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/IMG_9035.jpg?v=1619554439"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>HAIR ACCESSORIES<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 Bobby Pins<br data-mce-fragment="1">Gold Metal and Rhinestone<br data-mce-fragment="1">Approx. 2.5"L<br data-mce-fragment="1">Imported <br data-mce-fragment="1"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BEMUSE.0519</s:tag>
+    <s:tag>FRM1005</s:tag>
+    <s:tag>hair</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:tag>ZPIN-2040</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6693252399272</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>frm1005</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6693259935912</id>
+    <published>2021-05-20T10:52:54-07:00</published>
+    <updated>2021-05-20T10:52:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frm1004"/>
+    <title>PEARL HAIR CLIP AND BOBBY PIN SET</title>
+    <s:type>HAIR ACCESSORIES</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/322100001_1.jpg?v=1619554605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>HAIR ACCESSORIES<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of Four Bobby Pins<br data-mce-fragment="1">Gold Metal and Pearl<br data-mce-fragment="1">Approx. 2"L<br data-mce-fragment="1">Imported</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>61208-HX</s:tag>
+    <s:tag>BEMUSE.0519</s:tag>
+    <s:tag>FRM1004</s:tag>
+    <s:tag>hair</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6693259935912</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>frm1004</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6693260820648</id>
+    <published>2021-04-30T10:52:46-07:00</published>
+    <updated>2021-04-30T10:52:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frm1001"/>
+    <title>BUTTERFLY KISSES BOBBY PIN SET</title>
+    <s:type>HAIR ACCESSORIES</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/deIMG_9079.jpg?v=1619554752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>HAIR ACCESSORIES<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 Butterfly Bobby Pins<br>Gold Metal, Rhinestone and Pearl<br>Approx. 2"L<br>Imported</p>
+<p> </p>
+<p><meta charset="utf-8"><span style="color: #ff2a00;">THIS ITEM IS ON FINAL SALE AND CANNOT BE RETURNED OR EXCHANGED.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>78H-1066</s:tag>
+    <s:tag>FRM1001</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>hair</s:tag>
+    <s:tag>HAIR ACCESSORIES</s:tag>
+    <s:tag>selectedsale</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6693260820648</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>frm1001</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

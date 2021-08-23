@@ -1,0 +1,1766 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://flyingtomato.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://flyingtomato.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://flyingtomato.com/collections/denim.atom"/>
+  <title>Flying Tomato</title>
+  <updated>2021-08-20T11:23:51-07:00</updated>
+  <author>
+    <name>Flying Tomato</name>
+  </author>
+  <entry>
+    <id>https://flyingtomato.com/products/6991794897064</id>
+    <published>2021-08-20T11:23:51-07:00</published>
+    <updated>2021-08-20T11:23:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jd7327"/>
+    <title>TURNING TIME DENIM SHIRT DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20jd7327_20blk_2013_21b6b754-bbcc-49d6-a70d-4d9e52b2fd28.jpg?v=1629474717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A denim shirt dress featuring button down, puff sleeve and self sash tie</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 65% Cotton, 33% Polyester, 2% Spandex</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 33"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.20</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BLACK ACID</s:tag>
+    <s:tag>DENIM</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>JD7327</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>minidress</s:tag>
+    <s:tag>shop_weartowork</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991794897064</id>
+      <title>BLACK ACID / S</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>JD7327_BLACK ACID_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991794897064</id>
+      <title>BLACK ACID / M</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>JD7327_BLACK ACID_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991794897064</id>
+      <title>BLACK ACID / L</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>JD7327_BLACK ACID_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6991786672296</id>
+    <published>2021-08-20T11:23:35-07:00</published>
+    <updated>2021-08-20T11:23:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/at2230"/>
+    <title>WELL WISHES DENIM SHIRT</title>
+    <s:type>tops</s:type>
+    <s:vendor>A.Calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fn_20at2230_20cham_2033_49d02abf-ef71-4c66-9e08-587685fdf5a3.jpg?v=1629474751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A.Calin<br>
+        <strong>Type: </strong>tops<br>
+        <strong>Price: </strong>
+            58.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A lightweight denim shirt featuring shirt collar, long puff sleeve with cuff/snap button, full snap button down, and front pocket detail</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Cotton</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 28"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.20</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>AT2230</s:tag>
+    <s:tag>CHAMBRAY</s:tag>
+    <s:tag>DENIM</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>shop_weartowork</s:tag>
+    <s:tag>tops</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991786672296</id>
+      <title>CHAMBRAY / S</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>AT2230_CHAMBRAY_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991786672296</id>
+      <title>CHAMBRAY / M</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>AT2230_CHAMBRAY_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991786672296</id>
+      <title>CHAMBRAY / L</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>AT2230_CHAMBRAY_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6991785164968</id>
+    <published>2021-08-20T11:23:32-07:00</published>
+    <updated>2021-08-20T11:23:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ad2433"/>
+    <title>NOTHING FORGOTTEN LIGHTWEIGHT DENIM MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>A.Calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20ad2433_20med_20ind_2019_88845f44-73b8-4cc0-9371-4e481b086894.jpg?v=1629421021"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A.Calin<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            64.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A lightweight denim mini dress featuring round neckline with mini ruffled edge, peasant sleeve, button down and tiered body</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Cotton</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 35"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.20</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>AD2433</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>DENIM</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>MEDIUM INDIGO</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>minidress</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991785164968</id>
+      <title>MEDIUM INDIGO / S</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>AD2433_MEDIUM INDIGO_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991785164968</id>
+      <title>MEDIUM INDIGO / M</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>AD2433_MEDIUM INDIGO_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991785164968</id>
+      <title>MEDIUM INDIGO / L</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>AD2433_MEDIUM INDIGO_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6976058359976</id>
+    <published>2021-08-13T14:54:03-07:00</published>
+    <updated>2021-08-13T14:54:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jp5739"/>
+    <title>LUCKY STARS LIGHT WASH DENIM</title>
+    <s:type>pants</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20jp5739_20lt_20indi_204.jpg?v=1628887514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>pants<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A light wash denim featuring skinny leg, side zipper with back pockets.</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 98% Cotton 2% Spandex</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 40"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.13</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BOTTOM</s:tag>
+    <s:tag>DENIM</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>JP5739</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>LIGHT INDIGO</s:tag>
+    <s:tag>pants</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976058359976</id>
+      <title>LIGHT INDIGO / S</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>JP5739_LIGHT INDIGO_01</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976058359976</id>
+      <title>LIGHT INDIGO / M</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>JP5739_LIGHT INDIGO_02</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976058359976</id>
+      <title>LIGHT INDIGO / L</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>JP5739_LIGHT INDIGO_03</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6976058097832</id>
+    <published>2021-08-13T14:54:02-07:00</published>
+    <updated>2021-08-13T14:54:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jp5515"/>
+    <title>CAN&apos;T HIDE MY FEELINGS DENIM PANTS</title>
+    <s:type>pants</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fn_20jp5515_20lt_20indi_205.jpg?v=1628885530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>pants<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>High waisted denim flared pants with front pockets.</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>- Self: 68% cotton, 30% polyester, 2% spandex</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" and wearing size Small</p>
+<p>- Measurements taken from size Small</p>
+<p>- Length: 43"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.13</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BOTTOM</s:tag>
+    <s:tag>DENIM</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>JP5515</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>LIGHT INDIGO</s:tag>
+    <s:tag>pants</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976058097832</id>
+      <title>LIGHT INDIGO / S</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JP5515_LIGHT INDIGO_01</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976058097832</id>
+      <title>LIGHT INDIGO / M</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JP5515_LIGHT INDIGO_02</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976058097832</id>
+      <title>LIGHT INDIGO / L</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JP5515_LIGHT INDIGO_03</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6950182420648</id>
+    <published>2021-08-06T11:31:19-07:00</published>
+    <updated>2021-08-06T11:31:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jp5104"/>
+    <title>MILE HIGH DENIM JUMPSUIT</title>
+    <s:type>pants</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20jp5104_20med_203.jpg?v=1628200376"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>pants<br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Flared denim jumpsuit with crossover bodice and midriff cut-outs.</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 75% cotton, 23% polyester, 2% spandex - Imported</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" and wearing size Small</p>
+<p>- Measurements taken from size Small</p>
+<p>- Length: 56"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.06</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>DENIM</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>JP5104</s:tag>
+    <s:tag>jumpsuit</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>MEDIUM INDIGO</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6950182420648</id>
+      <title>MEDIUM INDIGO / S</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>JP5104_MEDIUM INDIGO_01</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6950182420648</id>
+      <title>MEDIUM INDIGO / M</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>JP5104_MEDIUM INDIGO_02</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6950182420648</id>
+      <title>MEDIUM INDIGO / L</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>JP5104_MEDIUM INDIGO_03</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6941654384808</id>
+    <published>2021-07-30T13:05:04-07:00</published>
+    <updated>2021-07-30T13:05:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jp5790"/>
+    <title>KISS ME MORE DENIM PANTS</title>
+    <s:type>pants</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fnjp5790dkindi4.jpg?v=1627675534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>pants<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An extra wide leg denim featuring front and back pockets</p>
+<p> </p>
+<p><br><br>Details<br>Self: 75% Cotton, 23% Polyester, 2% Spandex<br>Lining: 100% Cotton<br></p>
+<p> </p>
+<p><br>Size &amp; Fit<br>- Model is 5`8" And Wearing Size Small<br>- Measurements Taken From Size Small<br>- Approx Length: 42" <br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.30</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>DARK INDIGO</s:tag>
+    <s:tag>DENIM</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>JP5790</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>pants</s:tag>
+    <s:tag>shop_weartowork</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6941654384808</id>
+      <title>MEDIUM INDIGO / S</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JP5790_DARKINDIGO_01</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6941654384808</id>
+      <title>MEDIUM INDIGO / M</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JP5790_DARKINDIGO_02</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6941654384808</id>
+      <title>MEDIUM INDIGO / L</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JP5790_DARKINDIGO_03</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6937806504104</id>
+    <published>2021-07-30T11:42:05-07:00</published>
+    <updated>2021-07-30T11:42:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jd7314"/>
+    <title>MADE TO ADMIRE DENIM MIDI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20jd7314_20blk_203.jpg?v=1627590817"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            62.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An acid washed denim midi dress featuring square neckline, short puff sleeve, body contouring and back zipper closure</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 75% Cotton, 23% Polyester, 2% Spandex</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 37.5"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.30</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BLACK ACID</s:tag>
+    <s:tag>black denim</s:tag>
+    <s:tag>DENIM</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>JD7314</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>midi dress</s:tag>
+    <s:tag>shop_nightout</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6937806504104</id>
+      <title>BLACK ACID / S</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>JD7314_BLACK ACID_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6937806504104</id>
+      <title>BLACK ACID / M</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>JD7314_BLACK ACID_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6937806504104</id>
+      <title>BLACK ACID / L</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>JD7314_BLACK ACID_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6937806176424</id>
+    <published>2021-07-30T11:42:04-07:00</published>
+    <updated>2021-07-30T11:42:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jd6734-a"/>
+    <title>SWEET MEMORY OF US DENIM MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20jd6734-a_20med_203.jpg?v=1627594637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A denim mini dress with round neck and exaggerated puff sleeve.</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 68% cotton, 30% polyester, 2% spandex</p>
+<p>Belt: Backing: 100% polyester Coating 1: 100% polyurethane Coating 2: 100% polyvinyl chloride</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit - Model is 5`8" and wearing size Small - Measurements taken from size Small - Length: 33"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.30</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>DENIM</s:tag>
+    <s:tag>DENIM  BLUE</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>JD6734-A</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>MEDIUM INDIGO</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>minidress</s:tag>
+    <s:tag>shop_nightout</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6937806176424</id>
+      <title>MEDIUM INDIGO / S</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>JD6734-A_MEDIUM INDIGO_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6937806176424</id>
+      <title>MEDIUM INDIGO / M</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>JD6734-A_MEDIUM INDIGO_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6937806176424</id>
+      <title>MEDIUM INDIGO / L</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>JD6734-A_MEDIUM INDIGO_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6920411447464</id>
+    <published>2021-07-23T11:38:45-07:00</published>
+    <updated>2021-07-23T11:38:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jp5775"/>
+    <title>NOT MISTAKEN WASHED DENIM JUMPSUIT</title>
+    <s:type>jumpsuit</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fn_20jp5775_20blk_2023.jpg?v=1626910353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>jumpsuit<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An acid-washed denim jumpsuit featuring wide neckline, ruffled shoulder thru back, bell-bottom with open square back with zipper closure</p>
+<p> </p>
+<p>Details</p>
+<p>Self: 75% Cotton, 23% Polyester, 2% Spandex</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 56"<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.23</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BLACK ACID</s:tag>
+    <s:tag>DENIM</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>JP5775</s:tag>
+    <s:tag>jumpsuit</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6920411447464</id>
+      <title>BLACK ACID / S</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>JP5775_BLACK ACID_01</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6920411447464</id>
+      <title>BLACK ACID / M</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>JP5775_BLACK ACID_02</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6920411447464</id>
+      <title>BLACK ACID / L</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>JP5775_BLACK ACID_03</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6920410955944</id>
+    <published>2021-07-23T11:38:41-07:00</published>
+    <updated>2021-07-23T11:38:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jp3879"/>
+    <title>COASTAL HUES FLARED JEANS</title>
+    <s:type>pants</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20jp3879_20med_20ind_201.jpg?v=1626910546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>pants<br>
+        <strong>Price: </strong>
+            64.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>FLARED JEANS W/ SIDE SNAPS (ALONG FLARE)</p>
+<p><br></p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 65% Cotton, 32% Polyester, 3% Spandex</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 42"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.23</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>DENIM</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>JP3879</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>MEDIUM INDIGO</s:tag>
+    <s:tag>pants</s:tag>
+    <s:tag>shop_weartowork</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6920410955944</id>
+      <title>MEDIUM INDIGO / S</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>JP3879_MEDIUM INDIGO_01</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6920410955944</id>
+      <title>MEDIUM INDIGO / M</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>JP3879_MEDIUM INDIGO_02</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6920410955944</id>
+      <title>MEDIUM INDIGO / L</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>JP3879_MEDIUM INDIGO_03</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6920411807912</id>
+    <published>2021-07-23T11:38:38-07:00</published>
+    <updated>2021-07-23T11:38:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jp5783"/>
+    <title>MY FAVORITE IS MEDIUM INDIGO DENIM JUMPSUIT</title>
+    <s:type>jumpsuit</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20jp5783_20med_20ind_2017.jpg?v=1627427174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>jumpsuit<br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A denim jumpsuit featuring square neckline with front V cut out, ruffle over shoulder to back, bell bottom and back zipper closure</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 75% Cotton, 23% Polyester, 2% Spandex</p>
+<p>Lining: 100% Cotton</p>
+<p> </p>
+<p><br></p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 54"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.23</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>bestseller</s:tag>
+    <s:tag>DENIM</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>JP5783</s:tag>
+    <s:tag>jumpsuit</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>MEDIUM INDIGO</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6920411807912</id>
+      <title>MEDIUM INDIGO / S</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>JP5783_MEDIUM INDIGO_01</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6920411807912</id>
+      <title>MEDIUM INDIGO / M</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>JP5783_MEDIUM INDIGO_02</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6920411807912</id>
+      <title>MEDIUM INDIGO / L</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>JP5783_MEDIUM INDIGO_03</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6923431116968</id>
+    <published>2021-07-23T11:38:30-07:00</published>
+    <updated>2021-07-23T11:38:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jd6441"/>
+    <title>SOMETHING&apos;S GETTING DENIM MIDI DRESS</title>
+    <s:type></s:type>
+    <s:vendor>Flying Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fnjd6441medind22.jpg?v=1626976729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Tomato<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            62.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Denim midi dress with faux button-down closure and front pockets.<br data-mce-fragment="1"><br data-mce-fragment="1"></p>
+<p> </p>
+<p><br data-mce-fragment="1">Details</p>
+<p>Self: 75% cotton, 23% polyester, 2% spandex</p>
+<p><br data-mce-fragment="1"></p>
+<p> </p>
+<p><br data-mce-fragment="1">Size &amp; Fit <br data-mce-fragment="1"><br data-mce-fragment="1">- Model is 5`8" and wearing size Small <br data-mce-fragment="1">- Measurements taken from size Small<br data-mce-fragment="1">- Approx. Measurements: 33" in length (size small)<br data-mce-fragment="1"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.23</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>ALL SEASON</s:tag>
+    <s:tag>DENIM</s:tag>
+    <s:tag>dress</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>JD6441</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>midi dress</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6923431116968</id>
+      <title>LIGHT INDIGO / S</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>JD6441_LIGHT INDIGO_01</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6923431116968</id>
+      <title>LIGHT INDIGO / M</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>JD6441_LIGHT INDIGO_02</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6923431116968</id>
+      <title>LIGHT INDIGO / L</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>JD6443JD6441_LIGHT INDIGO_03</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6923403755688</id>
+    <published>2021-07-23T11:38:21-07:00</published>
+    <updated>2021-07-23T11:38:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jp4474-d"/>
+    <title>HIGH-WAISTED VINTAGE WASH JEANS</title>
+    <s:type></s:type>
+    <s:vendor>Flying Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fljp4474-dnewvin1.jpg?v=1626975423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Tomato<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            62.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="product-page--description" data-mce-fragment="1">
+<div data-item="rte-content" data-mce-fragment="1" itemprop="description">A washed denim featuring bell bottom with 2 front pockets; optional self-tie belt.</div>
+<div data-item="rte-content" data-mce-fragment="1" itemprop="description">
+<div class="product-page--description">
+<div data-item="rte-content" itemprop="description">
+<p><meta charset="utf-8"><br></p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 75% Cotton, 22% Polyester, 1% Viscose</p>
+<p> </p>
+<p><br><br>Size &amp; Fit</p>
+<p>- Model is 5`9" and wearing size Small</p>
+<p>- Measurements taken from size Small</p>
+<p>- Length: 44"<br></p>
+</div>
+</div>
+</div>
+</div>
+<div class="product-page--media" data-mce-fragment="1">
+<div data-media-type="image" data-zoom-enabled="true" class="product-media--wrapper" data-mce-fragment="1">
+<div data-js-loaded="true" data-js-class="FrameworkModal" class="modal--root" data-mce-fragment="1">
+<div class="modal--link" data-mce-fragment="1">
+<div data-zoom-enabled="true" data-magnify="1.7" data-view="featured" class="product-media--root" data-mce-fragment="1">
+<div data-zoom-enabled="true" data-media-type="image" data-active="true" data-id="21014800105640" class="product-media--featured" data-mce-fragment="1">
+<div data-aspectratio="0.6666666666666666" class="image--root" data-mce-fragment="1">
+<div class="image--container" data-mce-fragment="1"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.23</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>ALL SEASON</s:tag>
+    <s:tag>BOTTOM</s:tag>
+    <s:tag>DENIM</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>JP4474-D</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>shop_weartowork</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6923403755688</id>
+      <title>NEW VINTAGE / S</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>JP4474-D_VINTAGEBLUE_01</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6923403755688</id>
+      <title>NEW VINTAGE / M</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>JP4474-D_VINTAGEBLUE_02</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6923403755688</id>
+      <title>NEW VINTAGE / L</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>JP4474-D_VINTAGEBLUE_03</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6917111349416</id>
+    <published>2021-07-20T15:08:46-07:00</published>
+    <updated>2021-07-20T15:08:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jd7245"/>
+    <title>STAY IN THE MOMENT DENIM MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fljd7245ltind3.jpg?v=1626818928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            64.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">A denim mini dress featuring V neckline, short sleeve, front pocket detail and back zipper closure</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Details</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Self: 75% Cotton 23% Polyester 2% Spandex</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Size &amp; Fit</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">- Model is 5`8" And Wearing Size Small</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Measurements Taken From Size Small</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Approx Length: 32"</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.16</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>ALL SEASON</s:tag>
+    <s:tag>DENIM</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>JD7245</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>shop_nightout</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6917111349416</id>
+      <title>S / LIGHT INDIGO</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>JD7245_LIGHT INDIGO_01</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6917111349416</id>
+      <title>M / LIGHT INDIGO</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>JD7245_LIGHT INDIGO_02</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6917111349416</id>
+      <title>L / LIGHT INDIGO</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>JD7245_LIGHT INDIGO_03</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6716293087400</id>
+    <published>2021-07-15T12:38:34-07:00</published>
+    <updated>2021-07-15T12:38:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ap1338-w"/>
+    <title>READY FOR THE WEEKEND WHITE DENIM JUMPSUIT</title>
+    <s:type>jumpsuit</s:type>
+    <s:vendor>A. calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/flap1338-wwht7.jpg?v=1620333046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A. calin<br>
+        <strong>Type: </strong>jumpsuit<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">A denim jumpsuit featuring off shoulder neckline, flounce, self sash tie and back zipper closure</span></p>
+<p> </p>
+<p> </p>
+<p><span data-mce-fragment="1">Details</span></p>
+<p><span data-mce-fragment="1">Self: 97% Cotton, 3% Spandex</span></p>
+<p> </p>
+<p> </p>
+<p><span data-mce-fragment="1">Size &amp; Fit</span></p>
+<p><span data-mce-fragment="1">- Model is 5`8" And Wearing Size Small</span></p>
+<p><span data-mce-fragment="1">- Measurements Taken From Size Small</span></p>
+<p><span data-mce-fragment="1">- Approx. Length: 52"</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.05.07</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>AP1338-W</s:tag>
+    <s:tag>DENIM</s:tag>
+    <s:tag>jumpsuit</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>restocked</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6716293087400</id>
+      <title>WHITE / S</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>AP1338-W_WHITE_01</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6716293087400</id>
+      <title>WHITE / M</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>AP1338-W_WHITE_02</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6716293087400</id>
+      <title>WHITE / L</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>AP1338-W_WHITE_03</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6893830406312</id>
+    <published>2021-07-09T16:25:50-07:00</published>
+    <updated>2021-07-09T16:25:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jp5661"/>
+    <title>MY MUSE WASHED JEANS</title>
+    <s:type>pants</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20jp5661_20lt_20indi_2011.jpg?v=1625873140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>pants<br>
+        <strong>Price: </strong>
+            52.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A washed denim featuring waist band, seam at center front, back pockets and size zipper closure</p>
+<p>Details</p>
+<p>Self: 98% Cotton 2% Spandex</p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx. Length: 45.5"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.09</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>DENIM</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>JP5661</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>LIGHT INDIGO</s:tag>
+    <s:tag>pants</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6893830406312</id>
+      <title>LIGHT INDIGO / S</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>JP5661_LIGHT INDIGO_01</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6893830406312</id>
+      <title>LIGHT INDIGO / M</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>JP5661_LIGHT INDIGO_02</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6893830406312</id>
+      <title>LIGHT INDIGO / L</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>JP5661_LIGHT INDIGO_03</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6893473628328</id>
+    <published>2021-07-09T15:40:01-07:00</published>
+    <updated>2021-07-09T15:40:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jp5764"/>
+    <title>SWEET DREAM JEANS</title>
+    <s:type>pants</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20jp5764_20med_20indi_202_1d8790ee-3d24-42d7-948f-4078a584d4d4.jpg?v=1625870314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>pants<br>
+        <strong>Price: </strong>
+            52.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Light weight denim pant featuring high waist, front single pleat, zipper and hook and eye closure, side pocket, self sash tie, wide leg and back faux lip pockets</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 74% Cotton, 24% Polyester, 2% Spandex</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 42.5"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.09</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>DENIM</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>JP5764</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>MEDIUM INDIGO</s:tag>
+    <s:tag>pants</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6893473628328</id>
+      <title>MEDIUM INDIGO / S</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>JP5764_MEDIUM INDIGO_01</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6893473628328</id>
+      <title>MEDIUM INDIGO / M</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>JP5764_MEDIUM INDIGO_02</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6893473628328</id>
+      <title>MEDIUM INDIGO / L</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>JP5764_MEDIUM INDIGO_03</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6893471105192</id>
+    <published>2021-07-09T15:39:52-07:00</published>
+    <updated>2021-07-09T15:39:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ad2410"/>
+    <title>GIVING YOUR ALL DENIM MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>A. calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20ad2410_20indi_201_4f465bd8-f6ef-46a4-bd1b-89f558010ee4.jpg?v=1625869546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A. calin<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Denim mini dress featuring square neckline, peasant sleeve and tiered body</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Cotton</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 27"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.09</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>AD2410</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BLACK</s:tag>
+    <s:tag>DENIM</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>shop_maternity</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6893471105192</id>
+      <title>BLACK / S</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>AD2410_BLACK_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6893471105192</id>
+      <title>BLACK / M</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>AD2410_BLACK_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6893471105192</id>
+      <title>BLACK / L</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>AD2410_BLACK_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6893471105192</id>
+      <title>INDIGO / S</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>AD2410_INDIGO_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6893471105192</id>
+      <title>INDIGO / M</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>AD2410_INDIGO_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6893471105192</id>
+      <title>INDIGO / L</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>AD2410_INDIGO_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6893470646440</id>
+    <published>2021-07-09T15:39:51-07:00</published>
+    <updated>2021-07-09T15:39:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ad2285"/>
+    <title>CATCH YOUR BREATH MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>A. calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/s_20ad2285_20med_20indi_207_f9bb9e07-9509-4b4b-84f8-3d4e774ca13a.jpg?v=1625869282"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A. calin<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            52.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chambray mini dress featuring square neckline, short sleeve and relaxed body</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Rayon</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 27"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.09</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>AD2285</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>DENIM</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>MEDIUM INDIGO</s:tag>
+    <s:tag>mini dress</s:tag>
+    <s:tag>shop_maternity</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6893470646440</id>
+      <title>MEDIUM INDIGO / S</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>AD2285_MEDIUM INDIGO_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6893470646440</id>
+      <title>MEDIUM INDIGO / M</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>AD2285_MEDIUM INDIGO_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6893470646440</id>
+      <title>MEDIUM INDIGO / L</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>AD2285_MEDIUM INDIGO_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6876567044264</id>
+    <published>2021-07-02T12:52:32-07:00</published>
+    <updated>2021-07-02T12:52:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jp5718-1"/>
+    <title>HEY LOVE LIGHT INDIGO DENIM ROMPER</title>
+    <s:type>romper</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fjp5718ltindi4_1.jpg?v=1625255554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>romper<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">A denim romper featuring front V detail, wide straps, square cut out back with button closure, back zipper closure</span></p>
+<p> </p>
+<p><span data-mce-fragment="1">Details</span></p>
+<p><span data-mce-fragment="1">Self: 75% Cotton, 23% Polyester, 2% Spandex</span></p>
+<p><span data-mce-fragment="1">Lining: 100% Cotton</span></p>
+<p> </p>
+<p><span data-mce-fragment="1">Size &amp; Fit</span></p>
+<p><span data-mce-fragment="1">- Model is 5`8" And Wearing Size Small</span></p>
+<p><span data-mce-fragment="1">- Measurements Taken From Size Small</span></p>
+<p><span data-mce-fragment="1">- Approx. Length: 23"</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.02</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>ALL SEASON</s:tag>
+    <s:tag>DENIM</s:tag>
+    <s:tag>JP5718</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>romper</s:tag>
+    <s:tag>shop_4thofjuly</s:tag>
+    <s:tag>shop_vacay</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6876567044264</id>
+      <title>S / LIGHT INDIGO</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>JP5718_LIGHT INDIGO_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6876567044264</id>
+      <title>M / LIGHT INDIGO</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>JP5718_LIGHT INDIGO_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6876567044264</id>
+      <title>L / LIGHT INDIGO</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>JP5718_LIGHT INDIGO_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6876233859240</id>
+    <published>2021-07-02T10:32:19-07:00</published>
+    <updated>2021-07-02T10:32:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jd7280"/>
+    <title>IN THE BEST WAY DENIM MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20jd7280_20blk_2022.jpg?v=1625245840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A denim mini dress featuring sweetheart neckline, puff sleeve, lace up front detail, form fitting, square back with full zipper closure</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 75% Cotton ,23% Polyester, 2% Spandex</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 26.5"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.02</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BLACK DENIM</s:tag>
+    <s:tag>DENIM</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>JD7280</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>mini dress</s:tag>
+    <s:tag>shop_nightout</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6876233859240</id>
+      <title>BLACK DENIM / S</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JD7280_BLACK DENIM_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6876233859240</id>
+      <title>BLACK DENIM / M</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JD7280_BLACK DENIM_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6876233859240</id>
+      <title>BLACK DENIM / L</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JD7280_BLACK DENIM_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6857743138984</id>
+    <published>2021-06-25T16:28:23-07:00</published>
+    <updated>2021-06-25T16:28:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ad1615"/>
+    <title>MILLION WAYS TO LOVE YOU DENIM MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>A. calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20ad1615_20med_207.jpg?v=1624639058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A. calin<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            58.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A denim dress featuring plunging front and back V neckline, double ruffled sleeves, waist yoke, form fitting body with back zipper closure</p>
+<p> </p>
+<p> </p>
+<p>Detail</p>
+<p>Self : 65% Cotton, 33% Polyester, 2% Spandex</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements taken from size Small</p>
+<p>- Approx. Length : 35"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.06.28</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>AD1615</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>DENIM</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>MEDIUM INDIGO</s:tag>
+    <s:tag>mini dress</s:tag>
+    <s:tag>shop_4thofjuly</s:tag>
+    <s:tag>shop_nightout</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6857743138984</id>
+      <title>MEDIUM INDIGO / S</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>AD1615_MEDIUM INDIGO_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6857743138984</id>
+      <title>MEDIUM INDIGO / M</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>AD1615_MEDIUM INDIGO_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6857743138984</id>
+      <title>MEDIUM INDIGO / L</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>AD1615_MEDIUM INDIGO_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6857747628200</id>
+    <published>2021-06-25T16:28:19-07:00</published>
+    <updated>2021-06-25T16:28:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ap1546"/>
+    <title>PACKED AND READY WIDE LEG JEANS</title>
+    <s:type>pants</s:type>
+    <s:vendor>A. calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20ap1546_20med_20ind_201.jpg?v=1624639847"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A. calin<br>
+        <strong>Type: </strong>pants<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stretchy denim pants featuring front flap pockets, a high wide band waist with wide hook and eye closure, zip fly closure, removable self-tie sash with stitching details, back darts, and a wide leg</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 68% Cotton, 30% Polyester, 2% Spandex</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" and wearing size Small</p>
+<p>- Measurements taken from size Small</p>
+<p>- Length: 43"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.06.28</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>AP1546</s:tag>
+    <s:tag>DENIM</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>MEDIUM INDIGO</s:tag>
+    <s:tag>pants</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6857747628200</id>
+      <title>MEDIUM INDIGO / S</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>AP1546_MEDIUM INDIGO_01</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6857747628200</id>
+      <title>MEDIUM INDIGO / M</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>AP1546_MEDIUM INDIGO_02</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6857747628200</id>
+      <title>MEDIUM INDIGO / L</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>AP1546_MEDIUM INDIGO_03</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6839411048616</id>
+    <published>2021-06-22T11:18:28-07:00</published>
+    <updated>2021-06-22T11:18:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ip6350"/>
+    <title>THE ONE FOR ME DENIM ROMPER</title>
+    <s:type>pants</s:type>
+    <s:vendor>Flying Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20ip6350_20lt_20indi_201.jpg?v=1624032825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Tomato<br>
+        <strong>Type: </strong>pants<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Denim romper featuring a flounced off-shoulder neckline. Back zipper closure and two side pockets. Pleated shorts.</p>
+<p> </p>
+<p>Details</p>
+<p>Self: 78% Cotton, 20% Polyester, 2% Spandex</p>
+<p><br></p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`10" and wearing size Small</p>
+<p>- Measurements taken from size Small</p>
+<p>- Length: 24"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.06.18</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>DENIM</s:tag>
+    <s:tag>Flying Tomato</s:tag>
+    <s:tag>IP6350</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>romper</s:tag>
+    <s:tag>shop_nightout</s:tag>
+    <s:tag>shop_vacay</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6839411048616</id>
+      <title>LIGHT INDIGO / S</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>IP6350_LIGHT INDIGO_01</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6839411048616</id>
+      <title>LIGHT INDIGO / M</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>IP6350_LIGHT INDIGO_02</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6839411048616</id>
+      <title>LIGHT INDIGO / L</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>IP6350_LIGHT INDIGO_03</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+</feed>

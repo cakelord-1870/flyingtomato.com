@@ -1,0 +1,1767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://flyingtomato.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://flyingtomato.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://flyingtomato.com/collections/curve_dresses.atom"/>
+  <title>Flying Tomato</title>
+  <updated>2021-08-20T11:28:42-07:00</updated>
+  <author>
+    <name>Flying Tomato</name>
+  </author>
+  <entry>
+    <id>https://flyingtomato.com/products/6991795585192</id>
+    <published>2021-08-20T11:28:42-07:00</published>
+    <updated>2021-08-20T11:28:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jdp6822"/>
+    <title>BLOOMING MOOD FLORAL MIDI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20jdp6822_20blk_20023_ac599477-607b-43e0-a28e-ab73ccd1f32f.jpg?v=1629415141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A woven faux wrap dress featuring a floral print, geometric print trim, elasticized off-the-shoulder</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% rayon</p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" and wearing size 1X</p>
+<p>- Measurements taken from size 1X</p>
+<p>- Length: 35" front length, 50" back length - Bust Width: 26 3/4"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>BLACK</s:tag>
+    <s:tag>curve</s:tag>
+    <s:tag>curve_dress</s:tag>
+    <s:tag>curve_dresses</s:tag>
+    <s:tag>curve_dresses_midi</s:tag>
+    <s:tag>JDP6822</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>Plus</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991795585192</id>
+      <title>BLACK / S</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JDP6822_BLACK_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991795585192</id>
+      <title>BLACK / M</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JDP6822_BLACK_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991795585192</id>
+      <title>BLACK / L</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JDP6822_BLACK_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6991795224744</id>
+    <published>2021-08-20T11:28:06-07:00</published>
+    <updated>2021-08-20T11:28:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jdp1019"/>
+    <title>ONE TO REMEMBER FLORAL ROMPER</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fjdp1019grepin8.jpg?v=1629484283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A printed romper featuring smocked opening, off shoulder, 3/4 sleeves with smocked cuffs, and fluttered hemline</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self : 100% polyester</p>
+<p>Lining : 100% polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`10" and wearing size XL</p>
+<p>- Measurements taken from size XL</p>
+<p>- Approx. Length: 55”</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>curve</s:tag>
+    <s:tag>curve_dress</s:tag>
+    <s:tag>curve_dresses</s:tag>
+    <s:tag>curve_dresses_mini</s:tag>
+    <s:tag>GREEN/PINK</s:tag>
+    <s:tag>JDP1019</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>Plus</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991795224744</id>
+      <title>GREEN/PINK / 1X</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JDP1019_GREEN/PINK_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991795224744</id>
+      <title>GREEN/PINK / 2X</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JDP1019_GREEN/PINK_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991795224744</id>
+      <title>GREEN/PINK / 3X</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JDP1019_GREEN/PINK_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6991790801064</id>
+    <published>2021-08-20T11:23:44-07:00</published>
+    <updated>2021-08-20T11:23:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/idp18245"/>
+    <title>FANCY LIKE WOVEN MAXI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Flying Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20itp18245_20bl_20pea_203_c24c6aef-06f9-4c80-b3dd-278086005775.jpg?v=1629420385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            72.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A printed woven maxi dress featuring off shoulder neckline with flounce, elasticized waist with self sash tie and tiered skirt</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p>Lining: 100% Polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`11" And Wearing Size 1XL</p>
+<p>- Measurements Taken From Size 1XL</p>
+<p>- Approx Length: 56.5"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.20</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BLUE PEACH YELLOW</s:tag>
+    <s:tag>curve</s:tag>
+    <s:tag>curve_dress</s:tag>
+    <s:tag>curve_dresses</s:tag>
+    <s:tag>curve_dresses_maxi</s:tag>
+    <s:tag>Flying Tomato</s:tag>
+    <s:tag>IDP18245</s:tag>
+    <s:tag>Plus</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991790801064</id>
+      <title>BLUE PEACH YELLOW / S</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>IDP18245_BLUE PEACH YELLOW_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991790801064</id>
+      <title>BLUE PEACH YELLOW / M</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>IDP18245_BLUE PEACH YELLOW_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991790801064</id>
+      <title>BLUE PEACH YELLOW / L</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>IDP18245_BLUE PEACH YELLOW_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6991790440616</id>
+    <published>2021-08-20T11:23:43-07:00</published>
+    <updated>2021-08-20T11:23:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/idp1223"/>
+    <title>TAKE MY BREATH WOVEN MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Flying Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fn_20idp1223_20ivo_20pin_2026_473357ff-3e08-4348-8926-38a02fc46612.jpg?v=1629474622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A printed woven dress featuring off shoulder neckline, smocked opening sleeve cuff and waist band</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p>Lining 100% Polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`11" And Wearing Size 1XL</p>
+<p>- Measurements Taken From Size 1XL</p>
+<p>- Approx Length: 32.5"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.20</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>curve</s:tag>
+    <s:tag>curve_dress</s:tag>
+    <s:tag>curve_dresses</s:tag>
+    <s:tag>curve_dresses_mini</s:tag>
+    <s:tag>Flying Tomato</s:tag>
+    <s:tag>IDP1223</s:tag>
+    <s:tag>IVORY PINK</s:tag>
+    <s:tag>Plus</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991790440616</id>
+      <title>IVORY PINK / S</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>IDP1223_IVORY PINK_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991790440616</id>
+      <title>IVORY PINK / M</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>IDP1223_IVORY PINK_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991790440616</id>
+      <title>IVORY PINK / L</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>IDP1223_IVORY PINK_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6991789981864</id>
+    <published>2021-08-20T11:23:42-07:00</published>
+    <updated>2021-08-20T11:23:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/idp1102"/>
+    <title>I&apos;M THE ONE FLARE MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Flying Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fn_20idp1102_20nav_20rus_2023_0886946b-dee2-42b3-a893-6da917eabf0c.jpg?v=1629420602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fit and flare dress with floral print</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% polyester</p>
+<p>Lining: 100% polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`11" and wearing size 1X</p>
+<p>- Measurements taken from size 1X</p>
+<p>- Length: 39"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.20</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>curve</s:tag>
+    <s:tag>curve_dress</s:tag>
+    <s:tag>curve_dresses</s:tag>
+    <s:tag>curve_dresses_mini</s:tag>
+    <s:tag>Flying Tomato</s:tag>
+    <s:tag>IDP1102</s:tag>
+    <s:tag>NAVY/RUST</s:tag>
+    <s:tag>Plus</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991789981864</id>
+      <title>NAVY/RUST / S</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>IDP1102_NAVY/RUST_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991789981864</id>
+      <title>NAVY/RUST / M</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>IDP1102_NAVY/RUST_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991789981864</id>
+      <title>NAVY/RUST / L</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>IDP1102_NAVY/RUST_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6693550522536</id>
+    <published>2021-08-20T11:23:30-07:00</published>
+    <updated>2021-08-20T11:23:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/adp2043"/>
+    <title>SO INTERESTED DENIM MIDI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>A.Calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/s_20adp2043_20den_2014_3883130a-7769-4578-aca0-2915e192232f.jpg?v=1629474618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A.Calin<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A denim midi dress featuring square neckline, puff sleeve, self sash belt, ruffled hemline and back zipper closure</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 75% Cotton, 23% Polyester, 2% Spandex</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`11" And Wearing Size 1XL</p>
+<p>- Measurements Taken From Size 1XL</p>
+<p>- Approx Length: 40"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.20</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>ADP2043</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>curve</s:tag>
+    <s:tag>curve_denim</s:tag>
+    <s:tag>curve_dress</s:tag>
+    <s:tag>curve_dresses</s:tag>
+    <s:tag>curve_dresses_midi</s:tag>
+    <s:tag>Plus</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6693550522536</id>
+      <title>DENIM / S</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>ADP2043_DENIM_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6693550522536</id>
+      <title>DENIM / M</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>ADP2043_DENIM_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6693550522536</id>
+      <title>DENIM / L</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>ADP2043_DENIM_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6693550522536</id>
+      <title>BLACK / S</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>ADP2043_BLACK_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6693550522536</id>
+      <title>BLACK / M</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>ADP2043_BLACK_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6693550522536</id>
+      <title>BLACK / L</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>ADP2043_BLACK_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6976055836840</id>
+    <published>2021-08-13T14:53:54-07:00</published>
+    <updated>2021-08-13T14:53:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/idp17135"/>
+    <title>BEAUTIFUL SOUND SHITF DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Flying Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20idp17135_20cam_2025.jpg?v=1628884113"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faux suede V-neck shift dress with embroidery and winged sleeves</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 91% polyester, 9% spandex</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`11" and wearing size 1X</p>
+<p>- Measurements taken from size 1X</p>
+<p>- Length: 35"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.13</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>CAMEL</s:tag>
+    <s:tag>curve</s:tag>
+    <s:tag>curve_dress</s:tag>
+    <s:tag>curve_dresses</s:tag>
+    <s:tag>curve_dresses_mini</s:tag>
+    <s:tag>Flying Tomato</s:tag>
+    <s:tag>FLYNG TOMATO</s:tag>
+    <s:tag>IDP17135</s:tag>
+    <s:tag>Plus</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976055836840</id>
+      <title>CAMEL / 1X</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>IDP17135_CAMEL_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976055836840</id>
+      <title>CAMEL / 2X</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>IDP17135_CAMEL_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976055836840</id>
+      <title>CAMEL / 3X</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>IDP17135_CAMEL_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6976051380392</id>
+    <published>2021-08-13T14:53:39-07:00</published>
+    <updated>2021-08-13T14:53:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/aswp1138"/>
+    <title>ENJOY THE DAYS TOGETHER KNIT MINI DRESS</title>
+    <s:type>sweaters</s:type>
+    <s:vendor>A.Calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20aswp1138_20blk_208.jpg?v=1628884152"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A.Calin<br>
+        <strong>Type: </strong>sweaters<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A ribbed knit mini dress featuring surplice neckline, self sash tie and form fitting with ruffled hemline</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 55% Nylon, 45% Viscose</p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`11" And Wearing Size 1X</p>
+<p>- Measurements Taken From Size 1X</p>
+<p>- Approx. Length: 36.5"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.13</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>ASWP1138</s:tag>
+    <s:tag>BLACK</s:tag>
+    <s:tag>curve</s:tag>
+    <s:tag>curve_dress</s:tag>
+    <s:tag>curve_dresses</s:tag>
+    <s:tag>curve_dresses_mini</s:tag>
+    <s:tag>Plus</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976051380392</id>
+      <title>BLACK / 1X</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>ASWP1138_BLACK_01</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976051380392</id>
+      <title>BLACK / 2X</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>ASWP1138_BLACK_02</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976051380392</id>
+      <title>BLACK / 3X</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>ASWP1138_BLACK_03</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6284782370984</id>
+    <published>2021-07-30T11:41:45-07:00</published>
+    <updated>2021-07-30T11:41:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/idp18185"/>
+    <title>SO YOU HEAR WOVEN MIDI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Flying Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fn_20idp18185_20ora_204_3eef252d-ca82-44a6-ad9f-8a3c5c7f13aa.jpg?v=1627592954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            62.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A printed woven midi dress featuring low round neckline, elbow sleeve with smocked cuff and waistband and tiered skirt</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100%Polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit: </p>
+<p>- Model is 5`11" And Wearing Size  1XL</p>
+<p>- Measurements Taken From Size 1XL</p>
+<p>- Approx Length: 48"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.30</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>curve</s:tag>
+    <s:tag>curve_dress</s:tag>
+    <s:tag>curve_dresses</s:tag>
+    <s:tag>curve_dresses_midi</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>Flying Tomato</s:tag>
+    <s:tag>IDP18185</s:tag>
+    <s:tag>ORANGE NAVY</s:tag>
+    <s:tag>Plus</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6284782370984</id>
+      <title>ORANGE NAVY / XL</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>IDP18185_ORANGE NAVY_04</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6284782370984</id>
+      <title>ORANGE NAVY / 2X</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>IDP18185_ORANGE NAVY_05</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6284782370984</id>
+      <title>ORANGE NAVY / 3X</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>IDP18185_ORANGE NAVY_06</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6682271613096</id>
+    <published>2021-07-23T11:39:30-07:00</published>
+    <updated>2021-07-23T11:39:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/adp2220"/>
+    <title>DAYTIME DELIGHT MIDI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>A.Calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fn_20adp2220_20mus_2010.jpg?v=1626911365"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A.Calin<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A solid midi dress featuring surplice neckline, 3/4 sleeve, elasticized waist with self sash belt</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self : 97% Polyester, 3% Spandex</p>
+<p>Lining: 100% <meta charset="utf-8"><span data-mce-fragment="1">Polyester</span></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`11" And Wearing Size 1XL</p>
+<p>- Measurements Taken From Size 1XL</p>
+<p>- Approx Length: 50"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.23</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>ADP2220</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>curve</s:tag>
+    <s:tag>curve_dress</s:tag>
+    <s:tag>curve_dresses</s:tag>
+    <s:tag>curve_dresses_midi</s:tag>
+    <s:tag>GREEN</s:tag>
+    <s:tag>Plus</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6682271613096</id>
+      <title>GREEN / 1X</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>ADP2220_GREEN_04</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6682271613096</id>
+      <title>GREEN / 2X</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>ADP2220_GREEN_05</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6682271613096</id>
+      <title>GREEN / 3X</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>ADP2220_GREEN_06</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6682271613096</id>
+      <title>MUSTARD / 1X</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>ADP2220_MUSTARD_04</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6682271613096</id>
+      <title>MUSTARD / 2X</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>ADP2220_MUSTARD_05</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6682271613096</id>
+      <title>MUSTARD / 3X</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>ADP2220_MUSTARD_06</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6914437021864</id>
+    <published>2021-07-19T15:39:34-07:00</published>
+    <updated>2021-07-19T15:39:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/idp16911"/>
+    <title>DINNER AT SUNSET BABY DOLL DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/flidp16911tau6.jpg?v=1626734376"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Floral baby doll dress with front buttons<br data-mce-fragment="1"><br data-mce-fragment="1"></p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Rayon</p>
+<p>Lining: 100% Rayon</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`11" and wearing size 1X</p>
+<p>- Measurements taken from size 1X</p>
+<p>- Length: 39"<br data-mce-fragment="1"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.16</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>ALL SEASON</s:tag>
+    <s:tag>curve</s:tag>
+    <s:tag>curve_dress</s:tag>
+    <s:tag>curve_dresses</s:tag>
+    <s:tag>curve_dresses_mini</s:tag>
+    <s:tag>IDP16911</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>plus</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6914437021864</id>
+      <title>1X</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>IDP16911_TAUPE_04</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6914437021864</id>
+      <title>2X</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>IDP16911_TAUPE_05</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6914437021864</id>
+      <title>3X</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>IDP16911_TAUPE_06</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6876233924776</id>
+    <published>2021-07-02T10:32:21-07:00</published>
+    <updated>2021-07-02T10:32:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jdp7026"/>
+    <title>SIMPLE DECISIONS FLORAL MIDI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20jdp7026_20blk_203.jpg?v=1625245928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            64.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A printed midi dress featuring surplice neckline, self sash tie with ruffled hemline</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 97% Polyester, 3% Spandex</p>
+<p>Lining 100% Polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`11" And Wearing Size 1XL</p>
+<p>- Measurements Taken From Size 1XL</p>
+<p>- Approx Length: 56"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.02</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BLACK</s:tag>
+    <s:tag>curve_dress</s:tag>
+    <s:tag>curve_dresses</s:tag>
+    <s:tag>curve_dresses_midi</s:tag>
+    <s:tag>JDP7026</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>Plus</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6876233924776</id>
+      <title>BLACK / 1X</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>JDP7026_BLACK_04</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6876233924776</id>
+      <title>BLACK / 2X</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>JDP7026_BLACK_05</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6876233924776</id>
+      <title>BLACK / 3X</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>JDP7026_BLACK_06</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6857746776232</id>
+    <published>2021-06-25T16:27:41-07:00</published>
+    <updated>2021-06-25T16:27:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/adp1857"/>
+    <title>WISHFUL DREAMS MAXI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>A. calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fn_20adp1857_20gre_2019.jpg?v=1624639712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A. calin<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            58.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A woven printed maxi dress featuring off shoulder neckline, puff sleeve, elasticized waist with self sash tie</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p>Lining: 100% Polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`11" And Wearing Size 1XL</p>
+<p>- Measurements Taken From Size 1XL</p>
+<p>- Approx Length: 55"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.06.28</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>ADP1857</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>curve_dresses</s:tag>
+    <s:tag>curve_dresses_maxi</s:tag>
+    <s:tag>GREEN</s:tag>
+    <s:tag>Plus</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6857746776232</id>
+      <title>GREEN / XL</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>ADP1857_GREEN_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6857746776232</id>
+      <title>GREEN / 2X</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>ADP1857_GREEN_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6857746776232</id>
+      <title>GREEN / 3X</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>ADP1857_GREEN_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6857756934312</id>
+    <published>2021-06-25T13:23:55-07:00</published>
+    <updated>2021-06-25T13:23:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ldp1114"/>
+    <title>SENT WITH LOVE MAXI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Lovecolette</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fn_20ldp1114_20blk_2021.jpg?v=1624579112"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lovecolette<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            76.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A printed woven maxi dress featuring flounce neckline, elasticized waist with self sash belt and tiered skirt</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p>Lining: 100% Polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`11" And Wearing Size 1XL</p>
+<p>- Measurements Taken From Size 1XL</p>
+<p>- Approx Length: 55"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.06.28</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BLACK</s:tag>
+    <s:tag>curve_dresses</s:tag>
+    <s:tag>curve_dresses_maxi</s:tag>
+    <s:tag>LDP1114</s:tag>
+    <s:tag>Lovecolette</s:tag>
+    <s:tag>Plus</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6857756934312</id>
+      <title>BLACK / XL</title>
+      <s:price currency="USD">76.00</s:price>
+      <s:sku>LDP1114_BLACK_04</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6857756934312</id>
+      <title>BLACK / 2X</title>
+      <s:price currency="USD">76.00</s:price>
+      <s:sku>LDP1114_BLACK_05</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6857756934312</id>
+      <title>BLACK / 3X</title>
+      <s:price currency="USD">76.00</s:price>
+      <s:sku>LDP1114_BLACK_06</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6702354170024</id>
+    <published>2021-04-30T09:19:08-07:00</published>
+    <updated>2021-04-30T09:19:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ldp1048-as"/>
+    <title>SUMMERLAND SUN FLORAL MIDI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Lovecolette</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/flldp1048-asivo13.jpg?v=1619799575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lovecolette<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-page--description">
+<div data-item="rte-content" itemprop="description">
+<p><meta charset="utf-8"><span data-mce-fragment="1">Floral-print faux wrap midi dress featuring a surplice neckline, and flutter sleeves. </span><span data-mce-fragment="1">Pleated dress with <meta charset="utf-8"></span><span data-mce-fragment="1">a removable self-tie sash and a </span><span data-mce-fragment="1">ruffled hemline.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>Details</span><br data-mce-fragment="1"><meta charset="utf-8"><span data-mce-fragment="1">Self: 100% Polyester, Lining: 100% Polyester</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>Size &amp; Fit</span><br data-mce-fragment="1"><meta charset="utf-8"><span data-mce-fragment="1">- Model is 5`11" And Wearing Size 1XL</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Measurements Taken From Size 1XL</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Approx Length: 58"</span><br></p>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.05.14</s:tag>
+    <s:tag>curve</s:tag>
+    <s:tag>curve_dresses</s:tag>
+    <s:tag>curve_dresses_midi</s:tag>
+    <s:tag>LDP1048-AS</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6702354170024</id>
+      <title>XL</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>LDP1048-AS_IVORYBLUE_04</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6702354170024</id>
+      <title>1X</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>LDP1048-AS_IVORYBLUE_05</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6702354170024</id>
+      <title>2X</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>LDP1048-AS_IVORYBLUE_06</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6702354170024</id>
+      <title>3X</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>LDP1048-AS_IVORYBLUE_07</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6696372273320</id>
+    <published>2021-04-28T09:48:24-07:00</published>
+    <updated>2021-04-28T09:48:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jdp7053"/>
+    <title>REFRESHING FEELING MAXI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fnjdp7053-aspink8.jpg?v=1619628614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Pleated maxi dress featuring a halter neckline, elasticized waist with self-tie sash, and back keyhole button closure.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>Details</span><br data-mce-fragment="1"><meta charset="utf-8"><span data-mce-fragment="1">Self: 100% Polyester, Lining: 100% Polyester</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>Size &amp; Fit</span><br data-mce-fragment="1"><meta charset="utf-8"><span data-mce-fragment="1">- Model is 5`11" And Wearing Size 1XL</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Measurements Taken From Size 1XL</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Approx Length: 60"</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.05.14</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>ALL SEASON</s:tag>
+    <s:tag>curve</s:tag>
+    <s:tag>curve_dress</s:tag>
+    <s:tag>curve_dresses</s:tag>
+    <s:tag>curve_dresses_maxi</s:tag>
+    <s:tag>JDP7053</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>Plus</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6696372273320</id>
+      <title>1XL / PINK</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>JDP7053_PINK_04</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6696372273320</id>
+      <title>2XL / PINK</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>JDP7053_PINK_05</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6696372273320</id>
+      <title>3XL / PINK</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>JDP7053_PINK_06</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6000293871784</id>
+    <published>2021-04-27T13:19:47-07:00</published>
+    <updated>2021-04-27T13:19:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/adp2180"/>
+    <title>LOVELY WHISPER SATIN MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>A. calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fladp2180rust3.jpg?v=1619554674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A. calin<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            64.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A textured satin mini dress featuring mock neckline, peasant sleeve with smocked cuff with self sash tie</p>
+<p><strong> Details </strong></p>
+<p>Self: 100% Polyester Lining: 100% Polyester</p>
+<p><strong> Size &amp; Fit</strong></p>
+<p>Model is 5`8" And Wearing Size Small</p>
+<p>Measurements Taken From Size Small</p>
+<p>Approx. Length: 36"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020.10.30</s:tag>
+    <s:tag>2020.11.06</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>ADP2180</s:tag>
+    <s:tag>ALL SEASON</s:tag>
+    <s:tag>cf-color-rust</s:tag>
+    <s:tag>cf-size-l</s:tag>
+    <s:tag>cf-size-m</s:tag>
+    <s:tag>cf-size-s</s:tag>
+    <s:tag>cf-type-dresses</s:tag>
+    <s:tag>cf-vendor-a-calin</s:tag>
+    <s:tag>curve</s:tag>
+    <s:tag>curve_dress</s:tag>
+    <s:tag>curve_dresses</s:tag>
+    <s:tag>curve_dresses_mini</s:tag>
+    <s:tag>Plus</s:tag>
+    <s:tag>RUST</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6000293871784</id>
+      <title>RUST / 1X</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>ADP2180_RUST_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6000293871784</id>
+      <title>RUST / 2X</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>ADP2180_RUST_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6000293871784</id>
+      <title>RUST / 3X</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>ADP2180_RUST_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6271062048936</id>
+    <published>2021-04-21T09:29:48-07:00</published>
+    <updated>2021-04-21T09:29:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jdp6916"/>
+    <title>ALWAYS READY FLORAL MAXI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fn_20jdp6916_20yel_20pink_20002.jpg?v=1623795375"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            62.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Vivid floral-print sleeveless maxi dress featuring a surplice neckline, elasticized waist, and a self-tie sash. Tiered skirt.</span></p>
+<p> </p>
+Details<br><meta charset="utf-8"><span data-mce-fragment="1">Self: 100% Polyester, Lining: 100% Polyester</span>
+<p> </p>
+<p><span>Size &amp; Fit</span><br data-mce-fragment="1"><meta charset="utf-8"><span>- Model is 5`10" and wearing Size XL</span><br data-mce-fragment="1"><span>- Measurements are taken from Size XL</span><br data-mce-fragment="1"><span>- Approx. Length: 58"</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>curve</s:tag>
+    <s:tag>curve_dress</s:tag>
+    <s:tag>curve_dresses</s:tag>
+    <s:tag>curve_dresses_maxi</s:tag>
+    <s:tag>floral</s:tag>
+    <s:tag>JDP6916</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>Plus</s:tag>
+    <s:tag>YELLOW/PINK</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6271062048936</id>
+      <title>YELLOW/PINK / 1X</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>JDP6916_YELLOW/PINK__YELLOW/PINK_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6271062048936</id>
+      <title>YELLOW/PINK / 2X</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>JDP6916_YELLOW/PINK__YELLOW/PINK_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6271062048936</id>
+      <title>YELLOW/PINK / 3X</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>JDP6916_YELLOW/PINK__YELLOW/PINK_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6284780896424</id>
+    <published>2021-03-05T16:36:50-08:00</published>
+    <updated>2021-03-05T16:36:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/idp17812"/>
+    <title>WHAT&apos;S YOUR LOVE SONG MIDI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Flying Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20idp17812_20blk_2016_5a2088a1-6d74-469e-a824-be37661cc39b.jpg?v=1628018266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Floral printed midi dress featuring a surplice neckline. Short fluttered sleeves. Elasticized waist with self-sash tie. Faux wrap skirt with ruffled hemline.</p>
+<p> </p>
+<p>Detail</p>
+<p>Self: 97% Polyester, 3% Spandex</p>
+<p>Lining: 100% Polyester</p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model Is 5`7" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Length: 61"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.03.05</s:tag>
+    <s:tag>2021.03.19</s:tag>
+    <s:tag>BLACK</s:tag>
+    <s:tag>curve</s:tag>
+    <s:tag>curve_dresses</s:tag>
+    <s:tag>curve_dresses_maxi</s:tag>
+    <s:tag>curve_dresses_midi</s:tag>
+    <s:tag>FLORAL</s:tag>
+    <s:tag>Flying Tomato</s:tag>
+    <s:tag>IDP17812</s:tag>
+    <s:tag>Plus</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6284780896424</id>
+      <title>BLACK / 1XL</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>IDP17812_BLACK_04</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6284780896424</id>
+      <title>BLACK / 2XL</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>IDP17812_BLACK_05</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6284780896424</id>
+      <title>BLACK / 3XL</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>IDP17812_BLACK_06</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6284789612712</id>
+    <published>2021-02-19T10:58:27-08:00</published>
+    <updated>2021-02-19T10:58:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jdp6842"/>
+    <title>TIMELESS AND TRUE MIDI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20jdp6842_20blk_2023.jpg?v=1627677951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Floral printed midi dress featuring an elasticized off-shoulder neckline. Faux wrap skirt and elasticized waistline with a self-tie sash.</p>
+<p> </p>
+<p>Details<br></p>
+<p>Self: 100% Rayon</p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`11" And Wearing Size 1XL</p>
+<p>- Measurements Taken From Size 1XL</p>
+<p>- Approx Length: 49.5"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>curve</s:tag>
+    <s:tag>curve_dress</s:tag>
+    <s:tag>curve_dresses</s:tag>
+    <s:tag>curve_dresses_midi</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>jdp6842</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>selectedsale_0730</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6284789612712</id>
+      <title>BLACK / 1X</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>JDP6842_BLACK_04</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6284789612712</id>
+      <title>BLACK / 2X</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>JDP6842_BLACK_05</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6284789612712</id>
+      <title>BLACK / 3X</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>JDP6842_BLACK_06</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6284781715624</id>
+    <published>2021-02-19T10:09:45-08:00</published>
+    <updated>2021-02-19T10:09:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/idp18165"/>
+    <title>FOLLOW ME TO THE BLUE MIDI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Flying Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/s_20idp18165_20blue_209.jpg?v=1613758070"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            62.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Floral printed midi dress featuring a surplice neckline and a snap button closure. Long sleeves with elastic cuffs and a pleated skirt with a self-sash tie.</p>
+<p> </p>
+<p>Details<br>Self: 100% Polyester<br>Lining: 100% Polyester</p>
+<p> </p>
+Size &amp; Fit<br>- Model is 5`11" And Wearing Size 1XL <br>- Measurements Taken From Size 1XL <br>- Approx Length: 47.5"</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.02.19</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>ALL SEASON</s:tag>
+    <s:tag>BLUE</s:tag>
+    <s:tag>curve</s:tag>
+    <s:tag>curve_dress</s:tag>
+    <s:tag>curve_dresses</s:tag>
+    <s:tag>curve_dresses_midi</s:tag>
+    <s:tag>Flying Tomato</s:tag>
+    <s:tag>IDP18165</s:tag>
+    <s:tag>Plus</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6284781715624</id>
+      <title>BLUE / 1X</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>IDP18165_BLUE__BLUE_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6284781715624</id>
+      <title>BLUE / 2X</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>IDP18165_BLUE__BLUE_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6284781715624</id>
+      <title>BLUE / 3X</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>IDP18165_BLUE__BLUE_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6202145374376</id>
+    <published>2021-02-19T10:05:56-08:00</published>
+    <updated>2021-02-19T10:05:56-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/idp17672"/>
+    <title>COMPLETE MY HEART MAXI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Flying Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fn_20idp17672_20blk_20wht_2017.jpg?v=1613757896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Floral printed maxi dress featuring a plunge neckline, and long <meta charset="utf-8"><span data-mce-fragment="1">peasant sleeves. </span>Front button-down closure with a waist yoke.</p>
+<p> </p>
+<p>Details <br>Self: 100% Polyester</p>
+<p> </p>
+Size &amp; Fit<br>- Model is 5`8" And Wearing Size 1X <br>- Measurements Taken From Size 1X <br>- Approx. Length: 61"</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.02.19</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>ALL SEASON</s:tag>
+    <s:tag>BLACK/ WHITE</s:tag>
+    <s:tag>curve</s:tag>
+    <s:tag>curve_dresses</s:tag>
+    <s:tag>curve_dresses_maxi</s:tag>
+    <s:tag>Flying Tomato</s:tag>
+    <s:tag>IDP17672</s:tag>
+    <s:tag>Plus</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6202145374376</id>
+      <title>BLACK/ WHITE / 1X</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>IDP17672_BLACK/ WHITE__BLACK/ WHITE_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6202145374376</id>
+      <title>BLACK/ WHITE / 2X</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>IDP17672_BLACK/ WHITE__BLACK/ WHITE_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6202145374376</id>
+      <title>BLACK/ WHITE / 3X</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>IDP17672_BLACK/ WHITE__BLACK/ WHITE_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6284779421864</id>
+    <published>2021-02-19T10:04:43-08:00</published>
+    <updated>2021-02-19T10:04:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/idp16869"/>
+    <title>PROMISE IN MY HEART MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Flying Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20idp16869_20blk_205.jpg?v=1613757836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>* FLORAL EMBROIDERED COLD SHOULDER DRESS WITH BELT AND FRONT LACING *</p>
+<p>SELF : 100% RAYON</p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`11" And Wearing Size 1XL</p>
+<p>- Measurements Taken From Size 1XL</p>
+<p>- Approx Length: 30"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.02.19</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>ALL SEASON</s:tag>
+    <s:tag>BLACK</s:tag>
+    <s:tag>curve</s:tag>
+    <s:tag>curve_dress</s:tag>
+    <s:tag>curve_dresses</s:tag>
+    <s:tag>curve_dresses_mini</s:tag>
+    <s:tag>Flying Tomato</s:tag>
+    <s:tag>IDP16869</s:tag>
+    <s:tag>Plus</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6284779421864</id>
+      <title>BLACK / 1X</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>IDP16869_BLACK__BLACK_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6284779421864</id>
+      <title>BLACK / 2X</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>IDP16869_BLACK__BLACK_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6284779421864</id>
+      <title>BLACK / 3X</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>IDP16869_BLACK__BLACK_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6284767068328</id>
+    <published>2021-02-19T09:35:02-08:00</published>
+    <updated>2021-02-19T09:35:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/adp2198"/>
+    <title>MADE TO MOVE WOVEN MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>A. calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fn_20adp2198_20sal_201.jpg?v=1613754315"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A. calin<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            58.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A solid woven dress featuring shirt collar, long sleeve, button down and tiered skirt</p>
+<p>Details</p>
+<p>Self: 42% Polyester 42% Rayon 16% Nylon</p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`11" And Wearing Size 1XL</p>
+<p>- Measurements Taken From Size 1XL</p>
+<p>- Approx Length: 37.5"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.02.19</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>ADP2198</s:tag>
+    <s:tag>ALL SEASON</s:tag>
+    <s:tag>curve</s:tag>
+    <s:tag>curve_dress</s:tag>
+    <s:tag>curve_dresses</s:tag>
+    <s:tag>curve_dresses_mini</s:tag>
+    <s:tag>Plus</s:tag>
+    <s:tag>SALMON</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6284767068328</id>
+      <title>SALMON / 1X</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>ADP2198_SALMON__SALMON_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6284767068328</id>
+      <title>SALMON / 2X</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>ADP2198_SALMON__SALMON_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6284767068328</id>
+      <title>SALMON / 3X</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>ADP2198_SALMON__SALMON_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6284766314664</id>
+    <published>2021-02-18T17:08:39-08:00</published>
+    <updated>2021-02-18T17:08:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/adp1843"/>
+    <title>ONLY PRETTIER PRINT MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>A. calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fn_20adp1843_20red_206.jpg?v=1613696878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A. calin<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A printed mini dress featuring V neckline, 3/4 bell sleeves, open back with tie and tassel, smocked back waist and ruffled hemline</p>
+<p>Details</p>
+<p>- Self: 100% polyester Lining: 100% polyester Exclusive of decoration</p>
+<p>- Imported</p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`11" And Wearing Size 1XL</p>
+<p>- Measurements Taken From Size 1XL</p>
+<p>- Approx Length: 38.5"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.02.19</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>ADP1843</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>ALL SEASON</s:tag>
+    <s:tag>curve</s:tag>
+    <s:tag>curve_dress</s:tag>
+    <s:tag>curve_dresses</s:tag>
+    <s:tag>curve_dresses_mini</s:tag>
+    <s:tag>Plus</s:tag>
+    <s:tag>RED</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6284766314664</id>
+      <title>RED / 1X</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>ADP1843_RED__RED_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6284766314664</id>
+      <title>RED / 2X</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>ADP1843_RED__RED_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6284766314664</id>
+      <title>RED / 3X</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>ADP1843_RED__RED_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+</feed>

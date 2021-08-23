@@ -1,0 +1,1466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://flyingtomato.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://flyingtomato.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://flyingtomato.com/collections/all-accessories-1.atom"/>
+  <title>Flying Tomato</title>
+  <updated>2021-07-20T12:48:39-07:00</updated>
+  <author>
+    <name>Flying Tomato</name>
+  </author>
+  <entry>
+    <id>https://flyingtomato.com/products/6916711907496</id>
+    <published>2021-07-20T12:48:39-07:00</published>
+    <updated>2021-07-20T12:48:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frb1011"/>
+    <title>CHERISHED MINI TOTE BAG</title>
+    <s:type>BAG</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/FRB1011-18.jpg?v=1629493984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>BAG<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="313" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td width="313" data-mce-fragment="1">
+<p>Croc Embossed Mini Tote Bag with Removable Shoulder Strap</p>
+<p>Vegan Leather Fabric Lining Handle Drop:</p>
+<p>Appox. 3.5" Measurement: Approx. 5" Height, 5.75" Width, 2.25" Depth</p>
+<p>Adjustable Shoulder Strap: Approx. 48"</p>
+<p>Import </p>
+</td>
+</tr>
+</tbody>
+</table>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.16</s:tag>
+    <s:tag>327100007</s:tag>
+    <s:tag>bag</s:tag>
+    <s:tag>bemuse</s:tag>
+    <s:tag>FRB1015</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6916711907496</id>
+      <title>MUSTARD</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>FRB1011_MUSTARD</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6916711907496</id>
+      <title>NUDE</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>FRB1011_NUDE</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6916711907496</id>
+      <title>HUNTER</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>FRB1011_HUNTER</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6916047667368</id>
+    <published>2021-07-20T12:10:15-07:00</published>
+    <updated>2021-07-20T12:10:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/copy-of-sophia-o-ring-clutch"/>
+    <title>LUXE LIFE JELLY CROSSBODY BAG</title>
+    <s:type>BAG</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/FRB10128.jpg?v=1629494053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>BAG<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="785">
+<tbody>
+<tr>
+<td width="785">
+<p>Mini Jelly Faux Quilted Crossbody Bag</p>
+<p>High-Polished Curb Chain Shoulder Strap</p>
+<p>Hardware: Gold Twist-Lock Closure Flap Top Vegan / Lead-Safe</p>
+<p>Approximately 6.5" Width, 4" Height</p>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.16</s:tag>
+    <s:tag>bag</s:tag>
+    <s:tag>bemuse</s:tag>
+    <s:tag>FRB1012</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6916047667368</id>
+      <title>Black</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>FRB1012_black</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6916047667368</id>
+      <title>Rose</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>FRB1012_rose</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6916017914024</id>
+    <published>2021-07-20T08:36:26-07:00</published>
+    <updated>2021-07-20T08:36:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frb1015-1"/>
+    <title>SOPHIA O-RING CLUTCH</title>
+    <s:type>BAG</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/327100006_black_1_d9eecbe8-bf86-4c84-85da-bb66f24e403c.jpg?v=1626795352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>BAG<br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="313" style="border-collapse: collapse; width: 235pt;" data-mce-style="border-collapse: collapse; width: 235pt;">
+<colgroup>
+<col width="313" style="width: 235pt;" data-mce-style="width: 235pt;"> </colgroup>
+<tbody>
+<tr height="20" style="height: 15.0pt;" data-mce-style="height: 15.0pt;">
+<td width="313" height="20" style="width: 235pt; height: 15.0pt;" data-mce-style="width: 235pt; height: 15.0pt;">
+<p>Fold Over Clutch with Gold Accent</p>
+<p>LoopFaux Suede ContrastMagnetic</p>
+<p>Snap ClaspFabric Lined Inside with Wall</p>
+<p>ZipperRemovable</p>
+<p>Chain Shoulder Strap:</p>
+<p>Approximately  21.5" Measurement:</p>
+<p>Approximately 6.5"L x 10"W</p>
+<p>Faux Leather and Faux Suede</p>
+<p>Import</p>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.16</s:tag>
+    <s:tag>327100007</s:tag>
+    <s:tag>bag</s:tag>
+    <s:tag>FRB1015</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6916017914024</id>
+      <title>Black</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6916017914024</id>
+      <title>Stone</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6916001530024</id>
+    <published>2021-07-20T08:34:03-07:00</published>
+    <updated>2021-07-20T08:34:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frb1015"/>
+    <title>IT&apos;S LIKE THIS CROSSBODY BAG</title>
+    <s:type>BAG</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/327100007_black_1.jpg?v=1626795198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>BAG<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table data-mce-fragment="1" width="313" style="border-collapse: collapse; width: 235pt;" data-mce-style="border-collapse: collapse; width: 235pt;">
+<colgroup data-mce-fragment="1"> <col data-mce-fragment="1" width="313" style="width: 235pt;" data-mce-style="width: 235pt;"> </colgroup>
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1" height="20" style="height: 15.0pt;" data-mce-style="height: 15.0pt;">
+<td data-mce-fragment="1" width="313" height="20" style="width: 235pt; height: 15.0pt;" data-mce-style="width: 235pt; height: 15.0pt;">
+<p>Jelly Crossbody BagGold Chain and Contrast</p>
+<p>DetailsHigh-Polished Curb Chain Shoulder</p>
+<p>StrapTwist-Lock ClosureFlap TopVegan /</p>
+<p>Lead-Safe</p>
+<p>Approximately 7.5" Width, 5.5" Height</p>
+<p>Shoulder Strap: Approx. 22"</p>
+<p>Import</p>
+</td>
+</tr>
+</tbody>
+</table>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.16</s:tag>
+    <s:tag>327100007</s:tag>
+    <s:tag>bag</s:tag>
+    <s:tag>FRB1015</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6916001530024</id>
+      <title>Black</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>FRB1015_black</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6916001530024</id>
+      <title>Green</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>FRB1015_green</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6914537914536</id>
+    <published>2021-07-19T17:00:16-07:00</published>
+    <updated>2021-07-19T17:00:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frsh1003"/>
+    <title>NOT THE SAME GIRL BOOTIES</title>
+    <s:type>shoes</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/451100001_1_0421efac-0a3c-435b-bbcf-6d6070bd7dcc.jpg?v=1626739054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>shoes<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="785">
+<tbody>
+<tr>
+<td width="785">
+<p>Vegan Leather Lace-Up Booties</p>
+<p>Round Toe</p>
+<p>Contrast Chunky Platform</p>
+<p>Rubber Sole</p>
+<p>Side Zipper Closure</p>
+<p>Heel Height Approx. 2" with 1.25" Platform</p>
+<p>Shaft Approx. 6"</p>
+<p>Import</p>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.16</s:tag>
+    <s:tag>FRSH1003</s:tag>
+    <s:tag>shoes</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6914537914536</id>
+      <title>Black / 5.5</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>FRSH1003_1</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6914537914536</id>
+      <title>Black / 6</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>FRSH1003_2</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6914537914536</id>
+      <title>Black / 6.5</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>FRSH1003_3</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6914537914536</id>
+      <title>Black / 7</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>FRSH1003_4</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6914537914536</id>
+      <title>Black / 8</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>FRSH1003_5</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6914537914536</id>
+      <title>Black / 9</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>FRSH1003_6</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6914537914536</id>
+      <title>Black / 10</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>FRSH1003_7</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6914513797288</id>
+    <published>2021-07-19T16:34:25-07:00</published>
+    <updated>2021-07-19T16:34:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frsh1004"/>
+    <title>TAKING THESE WITH ME ANKIE BOOTIES</title>
+    <s:type>shoes</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/452100001_1_5acf10e4-a235-4cdd-8490-57682933588e.jpg?v=1626737634"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>shoes<br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Square Toe Ankle Booties</p>
+<p>Acrylic Half-Moon Block Heel with Side Zipper</p>
+<p>Heel Height Approx. 3.25"</p>
+<p>Shaft Approx. 5"</p>
+<p>Vegan Leather</p>
+<p>Import</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.16</s:tag>
+    <s:tag>FRSH1004</s:tag>
+    <s:tag>shoes</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6914513797288</id>
+      <title>WHITE / 5.5</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>FRSH1005</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6914513797288</id>
+      <title>WHITE / 6</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>FRSH1005_6</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6914513797288</id>
+      <title>WHITE / 6.5</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>FRSH1005_6</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6914513797288</id>
+      <title>WHITE / 7</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>FRSH1005_6</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6914513797288</id>
+      <title>WHITE / 7.5</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>FRSH1005_6</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6914513797288</id>
+      <title>WHITE / 8</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>FRSH1005_6</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6914513797288</id>
+      <title>WHITE / 8.5</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>FRSH1005_6</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6914513797288</id>
+      <title>WHITE / 9</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>FRSH1005_6</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6914513797288</id>
+      <title>WHITE / 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>FRSH1005_6</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6908417376424</id>
+    <published>2021-07-16T17:11:18-07:00</published>
+    <updated>2021-07-16T17:11:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frsh1005"/>
+    <title>MIDNIGHT LOVER BOOTIES</title>
+    <s:type>shoes</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/452100002_1.jpg?v=1626479665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>shoes<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="785" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td width="785" data-mce-fragment="1">
+<p data-mce-fragment="1">Pointed Toe Ankle Booties</p>
+<p data-mce-fragment="1">Snakeskin Embossed Vegan Leather</p>
+<p data-mce-fragment="1">Block Heel with Side Zipper</p>
+<p data-mce-fragment="1">Heel Height Approx. 3"</p>
+<p data-mce-fragment="1">Shaft Approx. 4"</p>
+</td>
+</tr>
+</tbody>
+</table>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.16</s:tag>
+    <s:tag>FRSH1005</s:tag>
+    <s:tag>shoes</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6908417376424</id>
+      <title>Black / 5.5</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>FRSH1005</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6908417376424</id>
+      <title>Black / 6</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>FRSH1005_6</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6908417376424</id>
+      <title>Black / 6.5</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>FRSH1005_6</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6908417376424</id>
+      <title>Black / 7</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>FRSH1005_6</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6908417376424</id>
+      <title>Black / 7.5</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>FRSH1005_6</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6908417376424</id>
+      <title>Black / 8</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>FRSH1005_6</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6908417376424</id>
+      <title>Black / 8.5</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>FRSH1005_6</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6908417376424</id>
+      <title>Black / 9</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>FRSH1005_6</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6908417376424</id>
+      <title>Black / 10</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>FRSH1005_6</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6908417179816</id>
+    <published>2021-07-16T17:11:16-07:00</published>
+    <updated>2021-07-16T17:11:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frb1016"/>
+    <title>MILANO POUCH BAG</title>
+    <s:type>BAG</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/327100008.jpg?v=1626479831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>BAG<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="785">
+<tbody>
+<tr>
+<td width="785">
+<p>Vegan Pebble Leather Pouch Bag</p>
+<p>Snap Button and Zipper Closure</p>
+<p>Chunky Acrylic Chain Strap</p>
+<p>Removable Matching Vegan Leather Shoulder Strap</p>
+<p>Fabric Lined Interior with One Slip Pocket</p>
+<p>Approx. 12.5"W x 7"H x 4"D</p>
+<p>Import</p>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.16</s:tag>
+    <s:tag>bag</s:tag>
+    <s:tag>FRB1016</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6908417179816</id>
+      <title>Black</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>FRB1016_01</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6908417179816</id>
+      <title>Green</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>FRB1016_02</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6908417048744</id>
+    <published>2021-07-16T17:11:14-07:00</published>
+    <updated>2021-07-16T17:11:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frb1013"/>
+    <title>MILAN WOVEN CROSSBODY CLUTCH BAG</title>
+    <s:type>BAG</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/327100005_1.jpg?v=1626479780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>BAG<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="785">
+<tbody>
+<tr>
+<td width="785">
+<p>Woven Clutch</p>
+<p>Magnetic Clasp</p>
+<p>Folded Cover</p>
+<p>Removable Shoulder Strap: Approximately 21" to 24.5"</p>
+<p>Measurement: Approximately 5"L x 10"W</p>
+<p>Vegan Leather</p>
+<p>Import</p>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.16</s:tag>
+    <s:tag>bag</s:tag>
+    <s:tag>FRB1013</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6908417048744</id>
+      <title>Camel</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>FRB1013</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6760121565352</id>
+    <published>2021-05-24T17:03:15-07:00</published>
+    <updated>2021-05-24T17:03:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frb1004"/>
+    <title>LUNA SARAH K-STYLE 24H JUTE WHITE STRIPED BAG</title>
+    <s:type>BAG</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/FRB10041.jpg?v=1622742997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>BAG<br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1"><meta charset="utf-8">K-Style 36H Jute Bag in beige by LUNA SARAH. <meta charset="utf-8">This jute handbag with white striped print features two rolled-up carry handles at the top. Detachable shoulder strap. The fittings are silver.</span></p>
+<p data-mce-fragment="1">Material: Recycled rough jute, white<span data-mce-fragment="1"> </span><span data-mce-fragment="1">scarf</span><span data-mce-fragment="1">.</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Color: Natural beige with white striped print.</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Dimensions: Approx. Width: 35cm; Height: 25cm, Depth: 11.5cm.</span></p>
+<p data-mce-fragment="1">Handle drop: 9.0 cm.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Interior: Cotton lining, one zipped pocket, and two side pockets.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Handmade in Morocco.</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><meta charset="utf-8"><span style="color: #ff2a00;">THIS ITEM IS ON FINAL SALE AND CANNOT BE RETURNED OR EXCHANGED.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BAG</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>K24H Simple Jute</s:tag>
+    <s:tag>luna sarah</s:tag>
+    <s:tag>selectedsale</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6760121565352</id>
+      <title>Default Title</title>
+      <s:price currency="USD">180.00</s:price>
+      <s:sku>FRB1004</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6760135131304</id>
+    <published>2021-05-24T17:03:11-07:00</published>
+    <updated>2021-05-24T17:03:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frb1008"/>
+    <title>LUNA SARAH K-STYLE MINI JUTE BAG</title>
+    <s:type>BAG</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/FRB10083.jpg?v=1622743238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>BAG<br>
+        <strong>Price: </strong>
+            195.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">K-Style Mini Jute Bag in beige by LUNA SARAH. <meta charset="utf-8">This jute handbag features two rolled-up carry handles at the top. Detachable shoulder strap. The fittings are silver.</span></p>
+<p data-mce-fragment="1">Material: Recycled rough jute, pink<span data-mce-fragment="1"> </span><span data-mce-fragment="1">scarf</span><span data-mce-fragment="1">.</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Color: Natural beige with black striped print.</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Dimensions: Approx. Width: 25cm; Height: 20cm, Depth: 9cm.</span></p>
+<p data-mce-fragment="1">Handle drop: 7.0 cm.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Interior: Cotton lining, one zipped pocket, and one side pocket, s<span data-mce-fragment="1">trap included.</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Handmade in Morocco.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.05.21</s:tag>
+    <s:tag>ACCESOORIES</s:tag>
+    <s:tag>BAG</s:tag>
+    <s:tag>goingfast</s:tag>
+    <s:tag>luna sarah</s:tag>
+    <s:tag>Mini K Simple Jute</s:tag>
+    <s:tag>selectedsale_0813</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6760135131304</id>
+      <title>Default Title</title>
+      <s:price currency="USD">195.00</s:price>
+      <s:sku>FRB1008</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6760133755048</id>
+    <published>2021-05-24T17:03:09-07:00</published>
+    <updated>2021-05-24T17:03:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frb1009"/>
+    <title>LUNA SARAH K-STYLE MINI JUTE BAG</title>
+    <s:type>BAG</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/FRB10092copy.jpg?v=1622743208"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>BAG<br>
+        <strong>Price: </strong>
+            255.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">K-Style Mini Jute Bag in beige by LUNA SARAH. <meta charset="utf-8">This jute handbag features two rolled-up carry handles at the top. Detachable shoulder strap. The fittings are silver.</span></p>
+<p data-mce-fragment="1">Material: Recycled rough jute, blue<span data-mce-fragment="1"> </span><span data-mce-fragment="1">scarf</span><span data-mce-fragment="1">.</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Color: Natural beige with black striped print.</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Dimensions: Approx. Width: 25cm; Height: 20cm, Depth: 9cm.</span></p>
+<p data-mce-fragment="1">Handle drop: 7.0 cm.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Interior: Cotton lining, one zipped pocket, and one side pocket, s<span data-mce-fragment="1">trap included.</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Handmade in Morocco.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.05.21</s:tag>
+    <s:tag>ACCESOORIES</s:tag>
+    <s:tag>BAG</s:tag>
+    <s:tag>goingfast</s:tag>
+    <s:tag>luna sarah</s:tag>
+    <s:tag>Mini K Simple Jute</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6760133755048</id>
+      <title>Default Title</title>
+      <s:price currency="USD">255.00</s:price>
+      <s:sku>FRB1009</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6760139686056</id>
+    <published>2021-05-24T17:03:02-07:00</published>
+    <updated>2021-05-24T17:03:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frb1006"/>
+    <title>LUNA SARAH K-STYLE MINI JUTE BAG</title>
+    <s:type>BAG</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/FRB10061.jpg?v=1622743130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>BAG<br>
+        <strong>Price: </strong>
+            255.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">K-Style Mini Jute Bag in beige by LUNA SARAH. <meta charset="utf-8">This jute handbag features two rolled-up carry handles at the top. Detachable shoulder strap. The fittings are silver.</span></p>
+<p data-mce-fragment="1">Material: Recycled rough jute, yellow<span data-mce-fragment="1"> </span><span data-mce-fragment="1">scarf</span><span data-mce-fragment="1">.</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Color: Natural beige with black striped print.</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Dimensions: Approx. Width: 25cm; Height: 20cm, Depth: 9cm.</span></p>
+<p data-mce-fragment="1">Handle drop: 7.0 cm.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Interior: Cotton lining, one zipped pocket, and one side pocket, s<span data-mce-fragment="1">trap included.</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Handmade in Morocco.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.05.21</s:tag>
+    <s:tag>ACCESOORIES</s:tag>
+    <s:tag>BAG</s:tag>
+    <s:tag>FRB1006</s:tag>
+    <s:tag>goingfast</s:tag>
+    <s:tag>luna sarah</s:tag>
+    <s:tag>Mini K Simple Jute</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6760139686056</id>
+      <title>Default Title</title>
+      <s:price currency="USD">255.00</s:price>
+      <s:sku>FRB1006</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6760230715560</id>
+    <published>2021-05-24T17:03:01-07:00</published>
+    <updated>2021-05-24T17:03:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frb1005"/>
+    <title>LUNA SARAH B-STYLE 24H JUTE BLACK STRIPED BAG</title>
+    <s:type>BAG</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/FRB10051.jpg?v=1622742986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>BAG<br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>Bag in natural beige by LUNA SARAH. This jute handbag with black striped print features two rolled-up carry handles at the top. Detachable shoulder strap with lobster clasp fastening. Silver-tone hardware.</span></p>
+<p data-mce-fragment="1">Material: Recycled rough jute, black<span data-mce-fragment="1"> </span><span data-mce-fragment="1">scarf</span><span data-mce-fragment="1">.</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Color: Natural beige with black striped print.</p>
+<p data-mce-fragment="1"><span>Dimensions: Approx. Width: 35cm; Height: 25cm, Depth: 18cm.</span></p>
+<p data-mce-fragment="1">Handle drop: 14.0 cm.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Interior: Cotton lining, one zipped pocket, and two side pockets.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Handmade in Morocco.</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><meta charset="utf-8"><span style="color: #ff2a00;">THIS ITEM IS ON FINAL SALE AND CANNOT BE RETURNED OR EXCHANGED.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B24H Simple Jute</s:tag>
+    <s:tag>BAG</s:tag>
+    <s:tag>FRB1005</s:tag>
+    <s:tag>luna sarah</s:tag>
+    <s:tag>selectedsale</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6760230715560</id>
+      <title>Default Title</title>
+      <s:price currency="USD">180.00</s:price>
+      <s:sku>FRB1005</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6760119173288</id>
+    <published>2021-05-24T17:02:59-07:00</published>
+    <updated>2021-05-24T17:02:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frb1003"/>
+    <title>LUNA SARAH K-STYLE 36H JUTE MICKEY BAG</title>
+    <s:type>BAG</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/FRB10032.jpg?v=1622742872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>BAG<br>
+        <strong>Price: </strong>
+            200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">K-Style 36H Jute Mickey Bag in beige by LUNA SARAH. <meta charset="utf-8"><span data-mce-fragment="1">This jute handbag with a mickey printed features two rolled-up carry handles at the top. Detachable shoulder strap. </span>The fittings are silver.</p>
+<p data-mce-fragment="1">Material: Recycled rough jute, black<span data-mce-fragment="1"> </span><span data-mce-fragment="1">scarf</span><span data-mce-fragment="1">.</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Color: Natural beige with a Mickey print.</p>
+<p data-mce-fragment="1"><span>Dimensions: Approx. Width: 40,5cm; Height: 31,5cm, Depth: 13cm.</span></p>
+<p data-mce-fragment="1">Handle drop: 9.0 cm.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Interior: Cotton lining, one zipped pocket, two side pockets, and key chain.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Handmade in Morocco.</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><meta charset="utf-8"><span style="color: #ff2a00;">THIS ITEM IS ON FINAL SALE AND CANNOT BE RETURNED OR EXCHANGED.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BAG</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>K36H Simple Jute</s:tag>
+    <s:tag>luna sarah</s:tag>
+    <s:tag>selectedsale</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6760119173288</id>
+      <title>Default Title</title>
+      <s:price currency="USD">200.00</s:price>
+      <s:sku>FRB1003</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6760117010600</id>
+    <published>2021-05-24T17:02:58-07:00</published>
+    <updated>2021-05-24T17:02:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frb1002"/>
+    <title>LUNA SARAH B-STYLE 36H JUTE MICKEY BAG</title>
+    <s:type>BAG</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/FRB10023.jpg?v=1622742879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>BAG<br>
+        <strong>Price: </strong>
+            200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">Bag in natural beige by LUNA SARAH. This jute handbag with a mickey printed features two rolled-up carry handles at the top. Detachable shoulder strap with lobster clasp fastening. Silver-tone hardware.</span></p>
+<p data-mce-fragment="1">Material: Recycled rough jute, red<span data-mce-fragment="1"> </span><span data-mce-fragment="1">scarf</span><span data-mce-fragment="1">.</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Color: Natural beige with a Mickey print.</p>
+<p data-mce-fragment="1">Dimensions: Approx. Width: 43cm; Height: 31cm, Depth: 22,5cm.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Handle drop: 17.0 cm.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Interior: Cotton lining, one zipped pocket, two side pockets, and key chain.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Handmade in Morocco.</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><meta charset="utf-8"><span style="color: #ff2a00;">THIS ITEM IS ON FINAL SALE AND CANNOT BE RETURNED OR EXCHANGED.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B36H Simple Jute</s:tag>
+    <s:tag>BAG</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>luna sarah</s:tag>
+    <s:tag>selectedsale</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6760117010600</id>
+      <title>Default Title</title>
+      <s:price currency="USD">200.00</s:price>
+      <s:sku>FRB1002</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6711986028712</id>
+    <published>2021-05-13T16:45:45-07:00</published>
+    <updated>2021-05-13T16:45:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frae1032a"/>
+    <title>MICHELLE HOOP EARRINGS</title>
+    <s:type>Earring</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/FRAE1024.jpg?v=1620951403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="product-page--description" data-mce-fragment="1">
+<div data-item="rte-content" data-mce-fragment="1" itemprop="description">Round Hoop Earring</div>
+<div data-item="rte-content" data-mce-fragment="1" itemprop="description">Gold Dipped<br data-mce-fragment="1">High-Shine Metallic Gold<br data-mce-fragment="1">Approximately 3"<br data-mce-fragment="1">Import<br data-mce-fragment="1">
+</div>
+</div>
+<div class="product-page--media" data-mce-fragment="1">
+<div class="product-media--wrapper" data-zoom-enabled="true" data-media-type="image" data-mce-fragment="1">
+<div class="modal--root" data-js-class="FrameworkModal" data-js-loaded="true" data-mce-fragment="1">
+<div class="modal--link" data-mce-fragment="1">
+<div class="product-media--root" data-view="featured" data-magnify="1.7" data-zoom-enabled="true" data-mce-fragment="1">
+<div class="product-media--featured" data-id="20860633874600" data-active="true" data-media-type="image" data-zoom-enabled="true" data-mce-fragment="1">
+<div class="image--root" data-aspectratio="0.6667694204685574" data-mce-fragment="1">
+<div class="image--container" data-mce-fragment="1"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>C10567</s:tag>
+    <s:tag>Earring</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6711986028712</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>FRAE1032A</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6675337216168</id>
+    <published>2021-04-20T09:22:05-07:00</published>
+    <updated>2021-04-20T09:22:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frsh1001-w"/>
+    <title>JOVI DOUBLE STRAP SLIDE SANDAL</title>
+    <s:type>shoes</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/Studio-Session-793.jpg?v=1620160747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>shoes<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Simple &amp; Chic Braided Double Strap Slide Sandal<br data-mce-fragment="1">Dual Braided Vamp Straps<br data-mce-fragment="1">Square Open Toe<br data-mce-fragment="1">Stacked Heels<br data-mce-fragment="1">Heel Height: 2" <br data-mce-fragment="1">Vegan Friendly - Man Made Materials<br data-mce-fragment="1">Imported</p>
+<p> </p>
+<p><meta charset="utf-8"><span style="color: #ff2a00;">THIS ITEM IS ON FINAL SALE AND CANNOT BE RETURNED OR EXCHANGED.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>frsh1001</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>selectedsale</s:tag>
+    <s:tag>shoes</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6675337216168</id>
+      <title>white / 5.5</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>FRSH1001_white_5.5</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6675337216168</id>
+      <title>white / 6</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>FRSH1001_white_6</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6675337216168</id>
+      <title>white / 6.5</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>FRSH1001_white_6.5</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6675337216168</id>
+      <title>white / 7</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>FRSH1001_white_7</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6675337216168</id>
+      <title>white / 7.5</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>FRSH1001_white_7.5</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6675337216168</id>
+      <title>white / 8.5</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>FRSH1001_white_8.5</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6675337216168</id>
+      <title>white / 10</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>FRSH1001_white_10</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663581106344</id>
+    <published>2021-04-16T16:35:44-07:00</published>
+    <updated>2021-04-16T16:35:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frae1031"/>
+    <title>ZOEY HOOP EARRING</title>
+    <s:type>Earring</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/311100003_1.jpg?v=1618516218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Flat Round Hoop Earring<br data-mce-fragment="1">14K Gold Dipped<br data-mce-fragment="1">High-Shine Metallic Gold<br data-mce-fragment="1">Approximately 2.75" <br data-mce-fragment="1">Import<br data-mce-fragment="1"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earring</s:tag>
+    <s:tag>FRAE1031</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>SB-10315</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663581106344</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>FRAE1031</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663576027304</id>
+    <published>2021-04-16T16:35:44-07:00</published>
+    <updated>2021-04-16T16:35:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frae1003"/>
+    <title>CHAINED IN LOVE EARRING</title>
+    <s:type>earring</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/311100002_1.jpg?v=1618516061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>earring<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chain Drop Earring<br data-mce-fragment="1">Metallic Gold<br data-mce-fragment="1">Approximately 3.25" <br data-mce-fragment="1">Import<br data-mce-fragment="1"></p>
+<p> </p>
+<p><meta charset="utf-8"><span style="color: #ff2a00;">THIS ITEM IS ON FINAL SALE AND CANNOT BE RETURNED OR EXCHANGED.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25E-1267</s:tag>
+    <s:tag>Earring</s:tag>
+    <s:tag>frae1003</s:tag>
+    <s:tag>selectedsale</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663576027304</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>FRAE1003</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663570620584</id>
+    <published>2021-04-16T16:35:44-07:00</published>
+    <updated>2021-04-16T16:35:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frae1012"/>
+    <title>JAXON HOOP EARRING</title>
+    <s:type>Earring</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/311100001_1.jpg?v=1618515867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Flat Round Hoop Earring<br data-mce-fragment="1">Gold Dipped<br data-mce-fragment="1">Matte Gold<br data-mce-fragment="1">Approximately 3.25" <br data-mce-fragment="1">Import<br data-mce-fragment="1"></p>
+<p> </p>
+<p> </p>
+<p><meta charset="utf-8"><span style="color: #ff2a00;">THIS ITEM IS ON FINAL SALE AND CANNOT BE RETURNED OR EXCHANGED.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>21415-E</s:tag>
+    <s:tag>Earring</s:tag>
+    <s:tag>frae1012</s:tag>
+    <s:tag>selectedsale</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663570620584</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>FRAE1012</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663594442920</id>
+    <published>2021-04-16T16:35:43-07:00</published>
+    <updated>2021-04-16T16:35:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frae1010"/>
+    <title>ISABEL EAR CUFF</title>
+    <s:type>Earring</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/311100006_1.jpg?v=1618516656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>High Polish Ear Cuff<br>Metallic Gold with Rhinestone Embellishment<br>Post-Back Earring Closure<br>Approx. 2.25"L<br>Import<br></p>
+<p> </p>
+<p><meta charset="utf-8"><span style="color: #ff2a00;">THIS ITEM IS ON FINAL SALE AND CANNOT BE RETURNED OR EXCHANGED.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earring</s:tag>
+    <s:tag>frae1010</s:tag>
+    <s:tag>ME-8779</s:tag>
+    <s:tag>selectedsale</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663594442920</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>FRAE1010</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663582122152</id>
+    <published>2021-04-16T16:35:43-07:00</published>
+    <updated>2021-04-16T16:35:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frae1030"/>
+    <title>VICTORIA PEARL EAR CUFF</title>
+    <s:type>Earring</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/Studio-Session-1715.jpg?v=1620160599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">High Polish Ear Cuff<br>Metallic Gold with Rhinestone and Pearl Embellishment<br>Post-Back Earring Closure<br>Approx. 2.25"L<br>Import<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earring</s:tag>
+    <s:tag>frae1030</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>ME-8778</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663582122152</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>FRAE1030</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663600898216</id>
+    <published>2021-04-16T16:35:42-07:00</published>
+    <updated>2021-04-16T16:35:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frae1029"/>
+    <title>UP ALL NIGHT HOOP EARRING</title>
+    <s:type>Earring</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/Studio-Session-256.jpg?v=1620160465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Chain Hoop Earring<br>Metallic Gold<br>Post-Back Earring Closure<br>Approx. 1.5"D<br>Import</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>41868-E</s:tag>
+    <s:tag>Earring</s:tag>
+    <s:tag>frae1029</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663600898216</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>FRAE1029</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6663597326504</id>
+    <published>2021-04-16T16:35:42-07:00</published>
+    <updated>2021-04-16T16:35:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frae1022"/>
+    <title>ON THE COASTLINE PEARL HOOP EARRING</title>
+    <s:type>Earring</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/Studio-Session-169.jpg?v=1620160524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>Earring<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">High Polish Hoop Earring<br>Metallic Gold with Pearl Embellishment<br>Post-Back Earring Closure<br>Approx. 1"D<br>Import<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3M2705</s:tag>
+    <s:tag>Earring</s:tag>
+    <s:tag>frae1022</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>selectedsale_0812</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6663597326504</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>FRAE1022</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

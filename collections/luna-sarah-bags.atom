@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://flyingtomato.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://flyingtomato.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://flyingtomato.com/collections/luna-sarah-bags.atom"/>
+  <title>Flying Tomato</title>
+  <updated>2021-05-24T17:03:15-07:00</updated>
+  <author>
+    <name>Flying Tomato</name>
+  </author>
+  <entry>
+    <id>https://flyingtomato.com/products/6760121565352</id>
+    <published>2021-05-24T17:03:15-07:00</published>
+    <updated>2021-05-24T17:03:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frb1004"/>
+    <title>LUNA SARAH K-STYLE 24H JUTE WHITE STRIPED BAG</title>
+    <s:type>BAG</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/FRB10041.jpg?v=1622742997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>BAG<br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1"><meta charset="utf-8">K-Style 36H Jute Bag in beige by LUNA SARAH. <meta charset="utf-8">This jute handbag with white striped print features two rolled-up carry handles at the top. Detachable shoulder strap. The fittings are silver.</span></p>
+<p data-mce-fragment="1">Material: Recycled rough jute, white<span data-mce-fragment="1"> </span><span data-mce-fragment="1">scarf</span><span data-mce-fragment="1">.</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Color: Natural beige with white striped print.</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Dimensions: Approx. Width: 35cm; Height: 25cm, Depth: 11.5cm.</span></p>
+<p data-mce-fragment="1">Handle drop: 9.0 cm.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Interior: Cotton lining, one zipped pocket, and two side pockets.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Handmade in Morocco.</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><meta charset="utf-8"><span style="color: #ff2a00;">THIS ITEM IS ON FINAL SALE AND CANNOT BE RETURNED OR EXCHANGED.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BAG</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>K24H Simple Jute</s:tag>
+    <s:tag>luna sarah</s:tag>
+    <s:tag>selectedsale</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6760121565352</id>
+      <title>Default Title</title>
+      <s:price currency="USD">180.00</s:price>
+      <s:sku>FRB1004</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6760135131304</id>
+    <published>2021-05-24T17:03:11-07:00</published>
+    <updated>2021-05-24T17:03:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frb1008"/>
+    <title>LUNA SARAH K-STYLE MINI JUTE BAG</title>
+    <s:type>BAG</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/FRB10083.jpg?v=1622743238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>BAG<br>
+        <strong>Price: </strong>
+            195.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">K-Style Mini Jute Bag in beige by LUNA SARAH. <meta charset="utf-8">This jute handbag features two rolled-up carry handles at the top. Detachable shoulder strap. The fittings are silver.</span></p>
+<p data-mce-fragment="1">Material: Recycled rough jute, pink<span data-mce-fragment="1"> </span><span data-mce-fragment="1">scarf</span><span data-mce-fragment="1">.</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Color: Natural beige with black striped print.</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Dimensions: Approx. Width: 25cm; Height: 20cm, Depth: 9cm.</span></p>
+<p data-mce-fragment="1">Handle drop: 7.0 cm.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Interior: Cotton lining, one zipped pocket, and one side pocket, s<span data-mce-fragment="1">trap included.</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Handmade in Morocco.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.05.21</s:tag>
+    <s:tag>ACCESOORIES</s:tag>
+    <s:tag>BAG</s:tag>
+    <s:tag>goingfast</s:tag>
+    <s:tag>luna sarah</s:tag>
+    <s:tag>Mini K Simple Jute</s:tag>
+    <s:tag>selectedsale_0813</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6760135131304</id>
+      <title>Default Title</title>
+      <s:price currency="USD">195.00</s:price>
+      <s:sku>FRB1008</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6760133755048</id>
+    <published>2021-05-24T17:03:09-07:00</published>
+    <updated>2021-05-24T17:03:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frb1009"/>
+    <title>LUNA SARAH K-STYLE MINI JUTE BAG</title>
+    <s:type>BAG</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/FRB10092copy.jpg?v=1622743208"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>BAG<br>
+        <strong>Price: </strong>
+            255.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">K-Style Mini Jute Bag in beige by LUNA SARAH. <meta charset="utf-8">This jute handbag features two rolled-up carry handles at the top. Detachable shoulder strap. The fittings are silver.</span></p>
+<p data-mce-fragment="1">Material: Recycled rough jute, blue<span data-mce-fragment="1"> </span><span data-mce-fragment="1">scarf</span><span data-mce-fragment="1">.</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Color: Natural beige with black striped print.</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Dimensions: Approx. Width: 25cm; Height: 20cm, Depth: 9cm.</span></p>
+<p data-mce-fragment="1">Handle drop: 7.0 cm.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Interior: Cotton lining, one zipped pocket, and one side pocket, s<span data-mce-fragment="1">trap included.</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Handmade in Morocco.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.05.21</s:tag>
+    <s:tag>ACCESOORIES</s:tag>
+    <s:tag>BAG</s:tag>
+    <s:tag>goingfast</s:tag>
+    <s:tag>luna sarah</s:tag>
+    <s:tag>Mini K Simple Jute</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6760133755048</id>
+      <title>Default Title</title>
+      <s:price currency="USD">255.00</s:price>
+      <s:sku>FRB1009</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6760139686056</id>
+    <published>2021-05-24T17:03:02-07:00</published>
+    <updated>2021-05-24T17:03:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frb1006"/>
+    <title>LUNA SARAH K-STYLE MINI JUTE BAG</title>
+    <s:type>BAG</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/FRB10061.jpg?v=1622743130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>BAG<br>
+        <strong>Price: </strong>
+            255.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">K-Style Mini Jute Bag in beige by LUNA SARAH. <meta charset="utf-8">This jute handbag features two rolled-up carry handles at the top. Detachable shoulder strap. The fittings are silver.</span></p>
+<p data-mce-fragment="1">Material: Recycled rough jute, yellow<span data-mce-fragment="1"> </span><span data-mce-fragment="1">scarf</span><span data-mce-fragment="1">.</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Color: Natural beige with black striped print.</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Dimensions: Approx. Width: 25cm; Height: 20cm, Depth: 9cm.</span></p>
+<p data-mce-fragment="1">Handle drop: 7.0 cm.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Interior: Cotton lining, one zipped pocket, and one side pocket, s<span data-mce-fragment="1">trap included.</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Handmade in Morocco.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.05.21</s:tag>
+    <s:tag>ACCESOORIES</s:tag>
+    <s:tag>BAG</s:tag>
+    <s:tag>FRB1006</s:tag>
+    <s:tag>goingfast</s:tag>
+    <s:tag>luna sarah</s:tag>
+    <s:tag>Mini K Simple Jute</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6760139686056</id>
+      <title>Default Title</title>
+      <s:price currency="USD">255.00</s:price>
+      <s:sku>FRB1006</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6760230715560</id>
+    <published>2021-05-24T17:03:01-07:00</published>
+    <updated>2021-05-24T17:03:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frb1005"/>
+    <title>LUNA SARAH B-STYLE 24H JUTE BLACK STRIPED BAG</title>
+    <s:type>BAG</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/FRB10051.jpg?v=1622742986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>BAG<br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>Bag in natural beige by LUNA SARAH. This jute handbag with black striped print features two rolled-up carry handles at the top. Detachable shoulder strap with lobster clasp fastening. Silver-tone hardware.</span></p>
+<p data-mce-fragment="1">Material: Recycled rough jute, black<span data-mce-fragment="1"> </span><span data-mce-fragment="1">scarf</span><span data-mce-fragment="1">.</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Color: Natural beige with black striped print.</p>
+<p data-mce-fragment="1"><span>Dimensions: Approx. Width: 35cm; Height: 25cm, Depth: 18cm.</span></p>
+<p data-mce-fragment="1">Handle drop: 14.0 cm.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Interior: Cotton lining, one zipped pocket, and two side pockets.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Handmade in Morocco.</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><meta charset="utf-8"><span style="color: #ff2a00;">THIS ITEM IS ON FINAL SALE AND CANNOT BE RETURNED OR EXCHANGED.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B24H Simple Jute</s:tag>
+    <s:tag>BAG</s:tag>
+    <s:tag>FRB1005</s:tag>
+    <s:tag>luna sarah</s:tag>
+    <s:tag>selectedsale</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6760230715560</id>
+      <title>Default Title</title>
+      <s:price currency="USD">180.00</s:price>
+      <s:sku>FRB1005</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6760119173288</id>
+    <published>2021-05-24T17:02:59-07:00</published>
+    <updated>2021-05-24T17:02:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frb1003"/>
+    <title>LUNA SARAH K-STYLE 36H JUTE MICKEY BAG</title>
+    <s:type>BAG</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/FRB10032.jpg?v=1622742872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>BAG<br>
+        <strong>Price: </strong>
+            200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">K-Style 36H Jute Mickey Bag in beige by LUNA SARAH. <meta charset="utf-8"><span data-mce-fragment="1">This jute handbag with a mickey printed features two rolled-up carry handles at the top. Detachable shoulder strap. </span>The fittings are silver.</p>
+<p data-mce-fragment="1">Material: Recycled rough jute, black<span data-mce-fragment="1"> </span><span data-mce-fragment="1">scarf</span><span data-mce-fragment="1">.</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Color: Natural beige with a Mickey print.</p>
+<p data-mce-fragment="1"><span>Dimensions: Approx. Width: 40,5cm; Height: 31,5cm, Depth: 13cm.</span></p>
+<p data-mce-fragment="1">Handle drop: 9.0 cm.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Interior: Cotton lining, one zipped pocket, two side pockets, and key chain.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Handmade in Morocco.</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><meta charset="utf-8"><span style="color: #ff2a00;">THIS ITEM IS ON FINAL SALE AND CANNOT BE RETURNED OR EXCHANGED.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BAG</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>K36H Simple Jute</s:tag>
+    <s:tag>luna sarah</s:tag>
+    <s:tag>selectedsale</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6760119173288</id>
+      <title>Default Title</title>
+      <s:price currency="USD">200.00</s:price>
+      <s:sku>FRB1003</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6760117010600</id>
+    <published>2021-05-24T17:02:58-07:00</published>
+    <updated>2021-05-24T17:02:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frb1002"/>
+    <title>LUNA SARAH B-STYLE 36H JUTE MICKEY BAG</title>
+    <s:type>BAG</s:type>
+    <s:vendor>FT-Retail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/FRB10023.jpg?v=1622742879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-Retail<br>
+        <strong>Type: </strong>BAG<br>
+        <strong>Price: </strong>
+            200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">Bag in natural beige by LUNA SARAH. This jute handbag with a mickey printed features two rolled-up carry handles at the top. Detachable shoulder strap with lobster clasp fastening. Silver-tone hardware.</span></p>
+<p data-mce-fragment="1">Material: Recycled rough jute, red<span data-mce-fragment="1"> </span><span data-mce-fragment="1">scarf</span><span data-mce-fragment="1">.</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Color: Natural beige with a Mickey print.</p>
+<p data-mce-fragment="1">Dimensions: Approx. Width: 43cm; Height: 31cm, Depth: 22,5cm.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Handle drop: 17.0 cm.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Interior: Cotton lining, one zipped pocket, two side pockets, and key chain.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Handmade in Morocco.</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><meta charset="utf-8"><span style="color: #ff2a00;">THIS ITEM IS ON FINAL SALE AND CANNOT BE RETURNED OR EXCHANGED.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B36H Simple Jute</s:tag>
+    <s:tag>BAG</s:tag>
+    <s:tag>FT-Retail</s:tag>
+    <s:tag>luna sarah</s:tag>
+    <s:tag>selectedsale</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6760117010600</id>
+      <title>Default Title</title>
+      <s:price currency="USD">200.00</s:price>
+      <s:sku>FRB1002</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

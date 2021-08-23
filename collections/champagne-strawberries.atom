@@ -1,0 +1,1744 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://flyingtomato.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://flyingtomato.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://flyingtomato.com/collections/champagne-strawberries.atom"/>
+  <title>Flying Tomato</title>
+  <updated>2021-08-19T16:17:34-07:00</updated>
+  <author>
+    <name>Flying Tomato</name>
+  </author>
+  <entry>
+    <id>https://flyingtomato.com/products/6099656802472</id>
+    <published>2021-08-19T16:17:34-07:00</published>
+    <updated>2021-08-19T16:17:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/bid2520"/>
+    <title>BOUCLE MIDI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Champagne &amp; Strawberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20bid2520_20sal_202_1.jpg?v=1607034438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champagne &amp; Strawberry<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            114.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>a boucle midi dress featuring soft V neckline with short balloon sleeve, yoke waist with 3 button and full back zipper closure</span><br><br><span>Details</span><br><br><span>- Self: 74% polyester, 17% wool, 9% acrylic</span><br><span>Lining: 100% polyester</span><br><span>- Imported</span><br><br><span>Size &amp; Fit</span><br><br><span>- Model is 5`8" and wearing size Small</span><br><span>- Measurements taken from size Small</span><br><span>- Length: 43"</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020.12.04</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BID2520</s:tag>
+    <s:tag>cf-color-salmon</s:tag>
+    <s:tag>cf-size-l</s:tag>
+    <s:tag>cf-size-m</s:tag>
+    <s:tag>cf-size-s</s:tag>
+    <s:tag>cf-type-dresses</s:tag>
+    <s:tag>cf-vendor-champagne-&amp;-strawberry</s:tag>
+    <s:tag>Champagne &amp; Strawberry</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>F/W</s:tag>
+    <s:tag>holiday</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Midi Dress</s:tag>
+    <s:tag>SALMON</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6099656802472</id>
+      <title>SALMON / S</title>
+      <s:price currency="USD">114.00</s:price>
+      <s:sku>BID2520_SALMON_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6099656802472</id>
+      <title>SALMON / M</title>
+      <s:price currency="USD">114.00</s:price>
+      <s:sku>BID2520_SALMON_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6099656802472</id>
+      <title>SALMON / L</title>
+      <s:price currency="USD">114.00</s:price>
+      <s:sku>BID2520_SALMON_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6976053149864</id>
+    <published>2021-08-13T14:53:44-07:00</published>
+    <updated>2021-08-13T14:53:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/bid2616"/>
+    <title>TURN BACK TIME WOVEN MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Champagne &amp; Strawberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20bid2616_20ivo_20bl_201.jpg?v=1628889674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champagne &amp; Strawberry<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            82.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A printed woven mini dress featuring round neckline, puff sleeve with lace detail, A line skirt with lace detail and back zipper closure</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p>Lining: 100% Polyester Exclusive of decoration</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 34"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.13</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BID2616</s:tag>
+    <s:tag>Champagne &amp; Strawberry</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>IVORY/BLUE</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>minidress</s:tag>
+    <s:tag>shop_sundaybrunch</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976053149864</id>
+      <title>IVORY/BLUE / S</title>
+      <s:price currency="USD">82.00</s:price>
+      <s:sku>BID2616_IVORY/BLUE_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976053149864</id>
+      <title>IVORY/BLUE / M</title>
+      <s:price currency="USD">82.00</s:price>
+      <s:sku>BID2616_IVORY/BLUE_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976053149864</id>
+      <title>IVORY/BLUE / L</title>
+      <s:price currency="USD">82.00</s:price>
+      <s:sku>BID2616_IVORY/BLUE_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6976052822184</id>
+    <published>2021-08-13T14:53:43-07:00</published>
+    <updated>2021-08-13T14:53:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/bid2608"/>
+    <title>FAMILIAR SMILE LACE MIDI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Champagne &amp; Strawberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fn_20bid2608_20ivo_2034.jpg?v=1628884163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champagne &amp; Strawberry<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            164.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A printed lace midi dress featuring adjustable spaghetti straps, lace inset waist band, layered skirt with back zipper closure</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p>Lining: 100% Polyester Exclusive of decoration</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 40"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.13</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BID2608</s:tag>
+    <s:tag>Champagne &amp; Strawberry</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>FLORAL</s:tag>
+    <s:tag>IVORY</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Midi</s:tag>
+    <s:tag>midi dress</s:tag>
+    <s:tag>shop_floral</s:tag>
+    <s:tag>shop_florals</s:tag>
+    <s:tag>shop_wedding</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976052822184</id>
+      <title>IVORY / S</title>
+      <s:price currency="USD">164.00</s:price>
+      <s:sku>BID2608_IVORY_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976052822184</id>
+      <title>IVORY / M</title>
+      <s:price currency="USD">164.00</s:price>
+      <s:sku>BID2608_IVORY_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976052822184</id>
+      <title>IVORY / L</title>
+      <s:price currency="USD">164.00</s:price>
+      <s:sku>BID2608_IVORY_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6950173671592</id>
+    <published>2021-08-06T11:31:01-07:00</published>
+    <updated>2021-08-06T11:31:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/bid2617"/>
+    <title>FLOURISHING BEAUTY MIDI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Champagne &amp; Strawberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20bid2617_20ivo_20or_204.jpg?v=1628101251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champagne &amp; Strawberry<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            104.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A printed woven midi dress featuring round neckline with mini ruffled edge with tie and tassel, ruffled sleeve, elasticized waist with self sash belt, peasant sleeve and ruffled skirt</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p>Lining: 100% Polyester E.O.D</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 45"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.06</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BID2617</s:tag>
+    <s:tag>Champagne &amp; Strawberry</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>IVORY/ORANGE</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Midi</s:tag>
+    <s:tag>midi dress</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6950173671592</id>
+      <title>IVORY/ORANGE / S</title>
+      <s:price currency="USD">104.00</s:price>
+      <s:sku>BID2617_IVORY/ORANGE_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6950173671592</id>
+      <title>IVORY/ORANGE / M</title>
+      <s:price currency="USD">104.00</s:price>
+      <s:sku>BID2617_IVORY/ORANGE_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6950173671592</id>
+      <title>IVORY/ORANGE / L</title>
+      <s:price currency="USD">104.00</s:price>
+      <s:sku>BID2617_IVORY/ORANGE_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6914381447336</id>
+    <published>2021-07-19T15:07:02-07:00</published>
+    <updated>2021-07-19T15:07:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/bit1436"/>
+    <title>ALL OF MY PRETTY WOVEN TOP</title>
+    <s:type>tops</s:type>
+    <s:vendor>Champagne &amp; Strawberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fbit1436ivo2.jpg?v=1626732425"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champagne &amp; Strawberry<br>
+        <strong>Type: </strong>tops<br>
+        <strong>Price: </strong>
+            72.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A woven top featuring shirt collar, double ruffled sleeves, button down and peplum</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 97% Polyester, 3% Metallic<br data-mce-fragment="1">Lining: 100% Polyester<br data-mce-fragment="1">Exclusive of decoration</p>
+<p> </p>
+<p> </p>
+<p><br data-mce-fragment="1">Size &amp; Fit</p>
+<p>- Model is 5`8" and wearing size Small</p>
+<p>- Measurements taken from size Small</p>
+<p>- Length: 20"<br data-mce-fragment="1"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.16</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>ALL SEASON</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>shop_weartowork</s:tag>
+    <s:tag>TOP</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6914381447336</id>
+      <title>S / IVORY</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>BIT1436_IVORY_01</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6914381447336</id>
+      <title>M / IVORY</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>BIT1436_IVORY_02</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6914381447336</id>
+      <title>L / IVORY</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>BIT1436_IVORY_03</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6215397343400</id>
+    <published>2021-06-30T13:26:49-07:00</published>
+    <updated>2021-06-30T13:26:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/bit1238"/>
+    <title>SO INDECISIVE RUST FLORAL BLOUSE</title>
+    <s:type>tops</s:type>
+    <s:vendor>Champagne &amp; Strawberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fbit1238rust15.jpg?v=1611257244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champagne &amp; Strawberry<br>
+        <strong>Type: </strong>tops<br>
+        <strong>Price: </strong>
+            88.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>* COLD SHOULDER BLOUSE WITH FLORAL EMBROIDERY AND LACE YOKE ACROSS NECKLINE</span><br><br><span>* APPROX. MEASUREMENTS: 17" IN LENGTH (SIZE SMALL)</span><br><br><span>* SELF:100% POLYESTER</span><br><span>CONTRAST A:100% POLYESTER</span><br><span>CONTRAST B:100% POLYESTER</span><br><span>LINING:100% RAYON</span><br><span>EXCLUSIVE OF DECORATION</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.01.22</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>ALL SEASON</s:tag>
+    <s:tag>BIT1238</s:tag>
+    <s:tag>cf-size-l</s:tag>
+    <s:tag>cf-size-m</s:tag>
+    <s:tag>cf-size-s</s:tag>
+    <s:tag>cf-type-top</s:tag>
+    <s:tag>cf-vendor-champagne-&amp;-strawberry</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>tops</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6215397343400</id>
+      <title>S</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>BIT1238_RUST_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6215397343400</id>
+      <title>M</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>BIT1238_RUST_02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6215397343400</id>
+      <title>L</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>BIT1238_RUST_03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6744751276200</id>
+    <published>2021-05-18T16:55:43-07:00</published>
+    <updated>2021-05-18T16:55:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/bit1030"/>
+    <title>WONDERFUL BEGINNINGS LINEN CROP TOP</title>
+    <s:type>tops</s:type>
+    <s:vendor>Champagne &amp; Strawberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fbit1030blue6.jpg?v=1621382144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champagne &amp; Strawberry<br>
+        <strong>Type: </strong>tops<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Sleeveless linen crop top featuring a round neckline and back zipper closure. Neckline and front embroidery detail.</span></p>
+<p><span data-mce-fragment="1">Details</span><br data-mce-fragment="1"><span data-mce-fragment="1">Self : 55% Linen, 45% Cotton</span><br data-mce-fragment="1"><span data-mce-fragment="1">Lining: 100% Cotton</span></p>
+<p><span data-mce-fragment="1">Size &amp; Fit</span><br data-mce-fragment="1"><meta charset="utf-8"><span data-mce-fragment="1">- Model is 5`8" and wearing Size Small</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Measurements are taken from Size Small</span><br data-mce-fragment="1"><span data-mce-fragment="1">- Approx. Length: 17"</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>ALL SEASON</s:tag>
+    <s:tag>BIT1030</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>shop_4thofjuly</s:tag>
+    <s:tag>shop_vacay</s:tag>
+    <s:tag>top</s:tag>
+    <s:tag>tops</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6744751276200</id>
+      <title>S / SOFT BLUE</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>BIT1030_SOFT BLUE_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6744751276200</id>
+      <title>M / SOFT BLUE</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>BIT1030_SOFT BLUE_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6744751276200</id>
+      <title>L / SOFT BLUE</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>BIT1030_SOFT BLUE_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6716433367208</id>
+    <published>2021-05-06T14:55:39-07:00</published>
+    <updated>2021-05-06T14:55:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/bid2413"/>
+    <title>DRAMATIC DREAMS EYELET MIDI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Champagne &amp; Strawberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/flbid2413wht4.jpg?v=1623194636"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champagne &amp; Strawberry<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            96.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">* EYELET MIDI DRESS WITH BUTTON-DOWN CLOSURE AND PUFF SLEEVES * OPTIONAL CIRCLE RING BELT</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">* APPROX. MEASUREMENTS: 44" IN LENGTH (SIZE SMALL)</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">* SELF:100% COTTON</span><br data-mce-fragment="1"><span data-mce-fragment="1">LINING:100% COTTON</span><br data-mce-fragment="1"><span data-mce-fragment="1">EXCLUSIVE OF DECORATION</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.05.07</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>ALL SEASON</s:tag>
+    <s:tag>BID2413</s:tag>
+    <s:tag>Champagne &amp; Strawberry</s:tag>
+    <s:tag>dress</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>midi dress</s:tag>
+    <s:tag>shop_wedding</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6716433367208</id>
+      <title>S / NAVY</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku>BID2413_NAVY_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6716433367208</id>
+      <title>S / WHITE</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku>BID2413_WHITE_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6716433367208</id>
+      <title>M / NAVY</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku>BID2413_NAVY_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6716433367208</id>
+      <title>M / WHITE</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku>BID2413_WHITE_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6716433367208</id>
+      <title>L / NAVY</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku>BID2413_NAVY_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6716433367208</id>
+      <title>L / WHITE</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku>BID2413_WHITE_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6099656442024</id>
+    <published>2021-04-29T14:26:44-07:00</published>
+    <updated>2021-04-29T14:26:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/bid2502"/>
+    <title>MY DEAREST DARLING BLACK LACE DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Champagne &amp; Strawberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fn_20bid2502_20blk_2018.jpg?v=1607037859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champagne &amp; Strawberry<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            90.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Lace mini dress featuring a surplice neckline with lace edge finish. Long peasant sleeves and A-line skirt with ruffles. Side invisible zipper closure.</span></p>
+<p> </p>
+<p><span>Details</span></p>
+<p><span>Self: 52% Rayon, 48% Polyester</span></p>
+<p><span>Contrast: 76% Cotton, 24% Nylon</span></p>
+<p><span>Lining: 100% Polyester</span></p>
+<p><span>Exclusive of decoration</span></p>
+<p> </p>
+<p><span>Size &amp; Fit</span></p>
+<p><span>- Model is 5`8" and wearing size Small</span></p>
+<p><span>- Measurements taken from size Small</span></p>
+<p><span>- Length: 33"</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020.12.04</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BID2502</s:tag>
+    <s:tag>BLACK</s:tag>
+    <s:tag>cf-color-black</s:tag>
+    <s:tag>cf-size-l</s:tag>
+    <s:tag>cf-size-m</s:tag>
+    <s:tag>cf-size-s</s:tag>
+    <s:tag>cf-type-dresses</s:tag>
+    <s:tag>cf-vendor-champagne-&amp;-strawberry</s:tag>
+    <s:tag>Champagne &amp; Strawberry</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>F/W</s:tag>
+    <s:tag>holiday</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>shop_wedding</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6099656442024</id>
+      <title>BLACK / S</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>BID2502_BLACK_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6099656442024</id>
+      <title>BLACK / M</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>BID2502_BLACK_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6099656442024</id>
+      <title>BLACK / L</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>BID2502_BLACK_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6099663880360</id>
+    <published>2021-04-29T14:25:40-07:00</published>
+    <updated>2021-04-29T14:25:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/bit1262"/>
+    <title>SUCH A DELIGHT FLORAL PEASANT BLOUSE</title>
+    <s:type>tops</s:type>
+    <s:vendor>Champagne &amp; Strawberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20bit1262_20ivo_204.jpg?v=1607034105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champagne &amp; Strawberry<br>
+        <strong>Type: </strong>tops<br>
+        <strong>Price: </strong>
+            74.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>SCARF NECK PEASANT TOP WITH RUFFLED BODICE AND BAROQUE PRINT</span><br><br><span>APPROX. MEASUREMENTS: 17" IN LENGTH (SIZE SMALL)</span><br><br><span>100% POLYESTER</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020.12.04</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>ALL SEASON</s:tag>
+    <s:tag>BIT1262</s:tag>
+    <s:tag>Champagne &amp; Strawberry</s:tag>
+    <s:tag>holiday</s:tag>
+    <s:tag>IVORY/RED</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>shop_florals</s:tag>
+    <s:tag>shop_weartowork</s:tag>
+    <s:tag>tops</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6099663880360</id>
+      <title>IVORY/RED / S</title>
+      <s:price currency="USD">74.00</s:price>
+      <s:sku>BIT1262_IVORY/RED_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6099663880360</id>
+      <title>IVORY/RED / M</title>
+      <s:price currency="USD">74.00</s:price>
+      <s:sku>BIT1262_IVORY/RED_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6099663880360</id>
+      <title>IVORY/RED / L</title>
+      <s:price currency="USD">74.00</s:price>
+      <s:sku>BIT1262_IVORY/RED_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6682485653672</id>
+    <published>2021-04-23T16:36:39-07:00</published>
+    <updated>2021-04-23T16:36:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/bid2623"/>
+    <title>YOU&apos;LL AGREE VINTAGE IVORY MAXI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Champagne &amp; Strawberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/flbid2623vinivo1.jpg?v=1628113860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champagne &amp; Strawberry<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Elegant maxi dress featuring a surplice neckline with lace edge. Short puff lace sleeves elasticized cuffs. Smocked back waistband with a self-tie sash and a back keyhole button closure. Tiered maxi skirt with lace inset.</span></p>
+<p> </p>
+<p><span data-mce-fragment="1">Details</span></p>
+<p><span data-mce-fragment="1">Self: 100% Polyester</span></p>
+<p><span data-mce-fragment="1">Contrast: 100% Nylon</span></p>
+<p><span data-mce-fragment="1">Lining A: 100% Rayon</span></p>
+<p><span data-mce-fragment="1">Lining B: 100% Polyester</span></p>
+<p><span data-mce-fragment="1">E.O.D</span></p>
+<p> </p>
+<p><span data-mce-fragment="1">Size &amp; Fit</span></p>
+<p><span data-mce-fragment="1">- Model is 5`8" And Wearing Size Small</span></p>
+<p><span data-mce-fragment="1">- Measurements Taken From Size Small</span></p>
+<p><span data-mce-fragment="1">- Approx Length: 57"</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.04.23</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>ALL SEASON</s:tag>
+    <s:tag>BID2623</s:tag>
+    <s:tag>dress</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Maxi Dress</s:tag>
+    <s:tag>shop_wedding</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6682485653672</id>
+      <title>S / VINTAGE IVORY</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>BID2623_IVORY_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6682485653672</id>
+      <title>M / VINTAGE IVORY</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>BID2623_IVORY_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6682485653672</id>
+      <title>L / VINTAGE IVORY</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>BID2623_IVORY_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6646596010152</id>
+    <published>2021-04-09T09:37:58-07:00</published>
+    <updated>2021-04-09T09:37:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/bik1186-js"/>
+    <title>WHAT&apos;S YOUR FAVORITE SONG MIDI SKIRT</title>
+    <s:type>skirts</s:type>
+    <s:vendor>Champagne &amp; Strawberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20bik1186-js_20ivo_202.jpg?v=1617986267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champagne &amp; Strawberry<br>
+        <strong>Type: </strong>skirts<br>
+        <strong>Price: </strong>
+            66.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Floral print midi skirt featuring an A-line silhouette. Pleated high waistline with a back concealed zipper closure. Floral burnout overlay. Two side pockets.</p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p>Lining: 100% Polyester</p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`9" and wearing size Small</p>
+<p>- Measurements taken from size Small</p>
+<p>- Length: 23"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.04.09</s:tag>
+    <s:tag>2021.04.16</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>ALL SEASON</s:tag>
+    <s:tag>BIK1186-JS</s:tag>
+    <s:tag>Champagne &amp; Strawberry</s:tag>
+    <s:tag>IVORY</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>shop_florals</s:tag>
+    <s:tag>shop_wedding</s:tag>
+    <s:tag>skirts</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6646596010152</id>
+      <title>IVORY / S</title>
+      <s:price currency="USD">66.00</s:price>
+      <s:sku>BIK1186-JS_IVORY_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6646596010152</id>
+      <title>IVORY / M</title>
+      <s:price currency="USD">66.00</s:price>
+      <s:sku>BIK1186-JS_IVORY_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6646596010152</id>
+      <title>IVORY / L</title>
+      <s:price currency="USD">66.00</s:price>
+      <s:sku>BIK1186-JS_IVORY_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6646595420328</id>
+    <published>2021-04-09T09:34:05-07:00</published>
+    <updated>2021-04-09T09:34:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/bid2336"/>
+    <title>YOU&apos;RE MINES STILL RUFFLED MIDI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Champagne &amp; Strawberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fn_20bid2336_20dk_20gre_2013.jpg?v=1617986034"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champagne &amp; Strawberry<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            98.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Relaxed midi dress featuring a V neckline with a front tie. Adjustable shoulder straps with cold shoulder 3/4 sleeves. Tiered body with ruffled edges.</p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p>Lining: 100% Rayon</p>
+<p>Exclusive of Decoration</p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`9" and wearing size Small</p>
+<p>- Measurements taken from size Small</p>
+<p>- Length: 34.5"</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.04.09</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>ALL SEASON</s:tag>
+    <s:tag>BID2336</s:tag>
+    <s:tag>Champagne &amp; Strawberry</s:tag>
+    <s:tag>DARK GREEN</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Midi Dress</s:tag>
+    <s:tag>shop_maternity</s:tag>
+    <s:tag>shop_wedding</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6646595420328</id>
+      <title>DARK GREEN / S</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>BID2336_DARK GREEN_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6646595420328</id>
+      <title>DARK GREEN / M</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>BID2336_DARK GREEN_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6646595420328</id>
+      <title>DARK GREEN / L</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>BID2336_DARK GREEN_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6611815825576</id>
+    <published>2021-03-25T14:32:57-07:00</published>
+    <updated>2021-03-25T14:32:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/bit1347"/>
+    <title>WAYWARD TOFFEE LACE TOP</title>
+    <s:type>tops</s:type>
+    <s:vendor>Champagne &amp; Strawberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fn_20bit1347_20oat_2018.jpg?v=1616707994"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champagne &amp; Strawberry<br>
+        <strong>Type: </strong>tops<br>
+        <strong>Price: </strong>
+            72.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Floral crochet lace top featuring a round neckline. Ruffled V-cut yoke and short sleeves. Chevron hem. Back keyhole button closure and woven lining.</p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p>Contrast: 100% polyester</p>
+<p>Lining: 97% Polyester, 3% Spandex</p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`7" and wearing size Small</p>
+<p>- Measurements taken from size Small</p>
+<p>- Length: 25"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.03.26</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BIT1347</s:tag>
+    <s:tag>Champagne &amp; Strawberry</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>OATMEAL</s:tag>
+    <s:tag>S/S</s:tag>
+    <s:tag>shop_weartowork</s:tag>
+    <s:tag>shop_wedding</s:tag>
+    <s:tag>tops</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6611815825576</id>
+      <title>OATMEAL / S</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>BIT1347_OATMEAL_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6611815825576</id>
+      <title>OATMEAL / M</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>BIT1347_OATMEAL_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6611815825576</id>
+      <title>OATMEAL / L</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>BIT1347_OATMEAL_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6611815563432</id>
+    <published>2021-03-25T14:30:51-07:00</published>
+    <updated>2021-03-25T14:30:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/bit1326"/>
+    <title>NO SUCH THING EYELET TOP</title>
+    <s:type>tops</s:type>
+    <s:vendor>Champagne &amp; Strawberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20bit1326_20wht_2010.jpg?v=1616704099"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champagne &amp; Strawberry<br>
+        <strong>Type: </strong>tops<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An eyelet top featuring embroidered ditsy florals, a high neck, lace trim, ruffled yoke neckline, princess trim bodice, and fluttery cap sleeves</p>
+<p>Details</p>
+<p>- Self: 100% polyester - Exclusive of decoration</p>
+<p>- Imported</p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`7" and wearing size Small</p>
+<p>- Measurements taken from size Small</p>
+<p>- Length: 24"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.03.26</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BIT1326</s:tag>
+    <s:tag>Champagne &amp; Strawberry</s:tag>
+    <s:tag>FLORAL</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>S/S</s:tag>
+    <s:tag>shop_weartowork</s:tag>
+    <s:tag>tops</s:tag>
+    <s:tag>WHITE</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6611815563432</id>
+      <title>WHITE / S</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>BIT1326_WHITE_01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6611815563432</id>
+      <title>WHITE / M</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>BIT1326_WHITE_02</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6611815563432</id>
+      <title>WHITE / L</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>BIT1326_WHITE_03</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6611815301288</id>
+    <published>2021-03-25T14:29:17-07:00</published>
+    <updated>2021-03-25T14:29:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/bid2570"/>
+    <title>SWEET DISPOSITION MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Champagne &amp; Strawberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20bid2570_20vin_204.jpg?v=1616707330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champagne &amp; Strawberry<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            96.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mini lace dress featuring a round neckline. Low cut back with a full back zipper closure. Full skirt.</p>
+<p> </p>
+<p>Details</p>
+<p>Self: 60% Nylon, 40% Cotton</p>
+<p>Lining A: 100% Polyester</p>
+<p>Lining B: 100% Polyester</p>
+<p>Exclusive of decoration</p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`9" and wearing size Small</p>
+<p>- Measurements taken from size Small</p>
+<p>- Appox. Length: 32"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.03.26</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BID2570</s:tag>
+    <s:tag>Champagne &amp; Strawberry</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>F/W</s:tag>
+    <s:tag>goingfast</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>mini dress</s:tag>
+    <s:tag>shop_wedding</s:tag>
+    <s:tag>VINTAGE IVORY</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6611815301288</id>
+      <title>VINTAGE IVORY / S</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku>BID2570_VINTAGE IVORY_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6611815301288</id>
+      <title>VINTAGE IVORY / M</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku>BID2570_VINTAGE IVORY_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6611815301288</id>
+      <title>VINTAGE IVORY / L</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku>BID2570_VINTAGE IVORY_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6611814842536</id>
+    <published>2021-03-25T14:18:08-07:00</published>
+    <updated>2021-03-25T14:18:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/bid2558"/>
+    <title>SWEETEST SECRET LACE MAXI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Champagne &amp; Strawberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fn_20bid2558_20ivo_2011.jpg?v=1616706980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champagne &amp; Strawberry<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            124.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lace sleeveless maxi dress featuring a round neckline. Back opening with button and zipper closure. Tiered maxi skirt with lace contrast.</p>
+<p> </p>
+<p>Details</p>
+<p>Self: 69% Nylon, 27% Cotton, 4% Other Fiber</p>
+<p>Lining: 100% Rayon</p>
+<p>Exclusive of decoration</p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" and wearing size Small</p>
+<p>- Measurements taken from size Small</p>
+<p>- Length: 57"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.03.26</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BID2558</s:tag>
+    <s:tag>Champagne &amp; Strawberry</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>F/W</s:tag>
+    <s:tag>IVORY/GOLD</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Maxi Dress</s:tag>
+    <s:tag>shop_wedding</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6611814842536</id>
+      <title>IVORY/GOLD / S</title>
+      <s:price currency="USD">124.00</s:price>
+      <s:sku>BID2558_IVORY/GOLD_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6611814842536</id>
+      <title>IVORY/GOLD / M</title>
+      <s:price currency="USD">124.00</s:price>
+      <s:sku>BID2558_IVORY/GOLD_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6611814842536</id>
+      <title>IVORY/GOLD / L</title>
+      <s:price currency="USD">124.00</s:price>
+      <s:sku>BID2558_IVORY/GOLD_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6611813793960</id>
+    <published>2021-03-25T14:01:38-07:00</published>
+    <updated>2021-03-25T14:01:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/bid2333"/>
+    <title>WHEN YOU SEE YOURSELF FLORAL MIDI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Champagne &amp; Strawberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20bid2333_20mau_203.jpg?v=1616706080"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champagne &amp; Strawberry<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-page--description">
+<div data-item="rte-content" itemprop="description">
+<p>Relaxed floral print midi dress featuring a V neckline with a front tie. Adjustable shoulder straps with cold shoulder and 3/4 sleeves. Tiered body with ruffled edges.</p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p>Lining: 100% Rayon</p>
+<p>Exclusive of Decoration</p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`9" and wearing size Small</p>
+<p>- Measurements taken from size Small</p>
+<p>- Length: 41"</p>
+<p> </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.03.26</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>ALL SEASON</s:tag>
+    <s:tag>BID2333</s:tag>
+    <s:tag>Champagne &amp; Strawberry</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>MAUVE</s:tag>
+    <s:tag>midi dress</s:tag>
+    <s:tag>shop_florals</s:tag>
+    <s:tag>shop_maternity</s:tag>
+    <s:tag>shop_sundaybrunch</s:tag>
+    <s:tag>shop_wedding</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6611813793960</id>
+      <title>MAUVE / S</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>BID2333_MAUVE__MAUVE_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6611813793960</id>
+      <title>MAUVE / M</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>BID2333_MAUVE__MAUVE_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6611813793960</id>
+      <title>MAUVE / L</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>BID2333_MAUVE__MAUVE_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6611813793960</id>
+      <title>IVORY / S</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>BID2333_IVORY__IVORY_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6611813793960</id>
+      <title>IVORY / M</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>BID2333_IVORY__IVORY_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6611813793960</id>
+      <title>IVORY / L</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>BID2333_IVORY__IVORY_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6611813236904</id>
+    <published>2021-03-25T13:56:27-07:00</published>
+    <updated>2021-03-25T13:56:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/bid2181"/>
+    <title>THIS ONE&apos;S FOR YOU SHIFT MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Champagne &amp; Strawberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20bid2181_20ivo_2021.jpg?v=1622058954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champagne &amp; Strawberry<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            86.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Relaxed fit mini dress featuring a V neckline with a front tie. Adjustable shoulder straps with cold shoulder and 3/4 sleeves. Tiered body with ruffled edges. Leaf appliqué throughout.</p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p>Lining: 100% Rayon</p>
+<p>Exclusive of Decoration</p>
+<p> </p>
+<p>Size &amp; Fit<br></p>
+<p>- Model is 5`9" and wearing size Small</p>
+<p>- Measurements taken from size Small</p>
+<p>- Length: 28"</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.03.26</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>ALL SEASON</s:tag>
+    <s:tag>BID2181</s:tag>
+    <s:tag>Champagne &amp; Strawberry</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>mini dress</s:tag>
+    <s:tag>SAGE</s:tag>
+    <s:tag>shop_wedding</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6611813236904</id>
+      <title>IVORY / S</title>
+      <s:price currency="USD">86.00</s:price>
+      <s:sku>BID2181_IVORY__IVORY_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6611813236904</id>
+      <title>IVORY / M</title>
+      <s:price currency="USD">86.00</s:price>
+      <s:sku>BID2181_IVORY__IVORY_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6611813236904</id>
+      <title>IVORY / L</title>
+      <s:price currency="USD">86.00</s:price>
+      <s:sku>BID2181_IVORY__IVORY_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6611812778152</id>
+    <published>2021-03-25T13:36:53-07:00</published>
+    <updated>2021-03-25T13:36:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/bid1178"/>
+    <title>WANTS AND NEEDS SWEETHEART SHIFT MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Champagne &amp; Strawberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fn_20bid1178_20pea_2022.jpg?v=1616704456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champagne &amp; Strawberry<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sleeveless mini shift dress featuring a round neckline. See-through sweetheart neck yoke with embroidered detail.</p>
+<p> </p>
+<p>Details<br></p>
+<div class="product-page--description">
+<div data-item="rte-content" itemprop="description">
+<p>Self: 100% Polyester</p>
+<p>Contrast: 100% Polyester</p>
+<p>Lining: 100% Rayon</p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" and wearing size Small</p>
+<p>- Measurements taken from size Small</p>
+<p>- Length: 33.5"</p>
+</div>
+</div>
+<div class="product-page--media">
+<div data-media-type="image" data-zoom-enabled="true" class="product-media--wrapper">
+<div data-js-loaded="true" data-js-class="FrameworkModal" class="modal--root">
+<div class="modal--link">
+<div data-zoom-enabled="true" data-magnify="1.7" data-view="featured" class="product-media--root">
+<div data-zoom-enabled="true" data-media-type="image" data-active="true" data-id="20608235208872" class="product-media--featured">
+<div data-aspectratio="0.6666666666666666" class="image--root">
+<div class="image--container"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.03.26</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>ALL SEASON</s:tag>
+    <s:tag>BID1178</s:tag>
+    <s:tag>Champagne &amp; Strawberry</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>PEACH</s:tag>
+    <s:tag>shop_maternity</s:tag>
+    <s:tag>shop_wedding</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6611812778152</id>
+      <title>PEACH / S</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>BID1178_PEACH__PEACH_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6611812778152</id>
+      <title>PEACH / M</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>BID1178_PEACH__PEACH_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6611812778152</id>
+      <title>PEACH / L</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>BID1178_PEACH__PEACH_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6210905276584</id>
+    <published>2021-01-20T14:16:45-08:00</published>
+    <updated>2021-01-20T14:16:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/bik1167"/>
+    <title>POSH PRESENCE LACE SKIRT</title>
+    <s:type>skirts</s:type>
+    <s:vendor>Champagne &amp; Strawberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20bik1167_20wht_208.jpg?v=1611169825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champagne &amp; Strawberry<br>
+        <strong>Type: </strong>skirts<br>
+        <strong>Price: </strong>
+            124.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LACE MIDI SKIRT WITH POLKA DOT RUFFLES APPROX.</p>
+<p>MEASUREMENTS: 30" IN LENGTH (SIZE SMALL)</p>
+<p>* SELF: 95%POLYESTER 5% SPANDEX</p>
+<p>CONTRAST A: 90%NYLON 10%COTTON</p>
+<p>CONTRAST B: 100%POLYESTER LINING: 100%RAYON EXCLUSIVE OF DECORATION</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.01.22</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>ALL SEASON</s:tag>
+    <s:tag>BIK1167</s:tag>
+    <s:tag>cf-color-white</s:tag>
+    <s:tag>cf-size-l</s:tag>
+    <s:tag>cf-size-m</s:tag>
+    <s:tag>cf-size-s</s:tag>
+    <s:tag>cf-type-skirts</s:tag>
+    <s:tag>cf-vendor-champagne-&amp;-strawberry</s:tag>
+    <s:tag>Champagne &amp; Strawberry</s:tag>
+    <s:tag>holiday</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>shop_wedding</s:tag>
+    <s:tag>skirts</s:tag>
+    <s:tag>WHITE</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6210905276584</id>
+      <title>WHITE / S</title>
+      <s:price currency="USD">124.00</s:price>
+      <s:sku>BIK1167_WHITE__WHITE_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6210905276584</id>
+      <title>WHITE / M</title>
+      <s:price currency="USD">124.00</s:price>
+      <s:sku>BIK1167_WHITE__WHITE_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6210905276584</id>
+      <title>WHITE / L</title>
+      <s:price currency="USD">124.00</s:price>
+      <s:sku>BIK1167_WHITE__WHITE_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6210904948904</id>
+    <published>2021-01-20T14:16:44-08:00</published>
+    <updated>2021-01-20T14:16:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/bik1158"/>
+    <title>COMPLETE MY HEART SKIRT</title>
+    <s:type>skirts</s:type>
+    <s:vendor>Champagne &amp; Strawberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fn_20bik1158_20cre_20mau_206.jpg?v=1611169719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champagne &amp; Strawberry<br>
+        <strong>Type: </strong>skirts<br>
+        <strong>Price: </strong>
+            126.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Midi flare skirt featuring lace inset detail and side zipper closure.</p>
+<p> </p>
+<p>Details <br>Self: 100% Cotton <br>Contrast:100% Polyester <br>Lining: 97% Polyester, 3% Spandex</p>
+<p> </p>
+<p>Size &amp; Fit <br><meta charset="utf-8"><span>- Model is 5`8" and wearing Size Small</span><br data-mce-fragment="1"><span>- Measurements are taken from Size Small</span><br data-mce-fragment="1"><span>- Approx. Length: 32"</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.01.22</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>ALL SEASON</s:tag>
+    <s:tag>BIK1158</s:tag>
+    <s:tag>cf-color-cream-mauve</s:tag>
+    <s:tag>cf-size-l</s:tag>
+    <s:tag>cf-size-m</s:tag>
+    <s:tag>cf-size-s</s:tag>
+    <s:tag>cf-type-skirts</s:tag>
+    <s:tag>cf-vendor-champagne-&amp;-strawberry</s:tag>
+    <s:tag>Champagne &amp; Strawberry</s:tag>
+    <s:tag>CREAM/MAUVE</s:tag>
+    <s:tag>holiday</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>shop_wedding</s:tag>
+    <s:tag>skirts</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6210904948904</id>
+      <title>CREAM/MAUVE / S</title>
+      <s:price currency="USD">126.00</s:price>
+      <s:sku>BIK1158_CREAM/MAUVE__CREAM/MAUVE_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6210904948904</id>
+      <title>CREAM/MAUVE / M</title>
+      <s:price currency="USD">126.00</s:price>
+      <s:sku>BIK1158_CREAM/MAUVE__CREAM/MAUVE_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6210904948904</id>
+      <title>CREAM/MAUVE / L</title>
+      <s:price currency="USD">126.00</s:price>
+      <s:sku>BIK1158_CREAM/MAUVE__CREAM/MAUVE_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6210902622376</id>
+    <published>2021-01-20T14:16:42-08:00</published>
+    <updated>2021-01-20T14:16:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/bid2503"/>
+    <title>CAN&apos;T HELP FALLING IN LOVE MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Champagne &amp; Strawberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fn_20bid2503_20ivo_206.jpg?v=1611093797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champagne &amp; Strawberry<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Textured mini dress featuring a surplice neckline and long bishop sleeves. Lace inset detail and an elasticized waistline with a self-tie sash.</p>
+<p> </p>
+<p>Details <br>Self:100% Polyester<br>Lining: 100% Rayon</p>
+<p> </p>
+<p>Size &amp; Fit <br>- Model is 5`8" and wearing Size Small <br>- Measurements are taken from Size Small <br>- Length: 34"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.01.22</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BID2503</s:tag>
+    <s:tag>cf-color-vintage-ivory</s:tag>
+    <s:tag>cf-size-l</s:tag>
+    <s:tag>cf-size-m</s:tag>
+    <s:tag>cf-size-s</s:tag>
+    <s:tag>cf-type-dresses</s:tag>
+    <s:tag>cf-vendor-champagne-&amp;-strawberry</s:tag>
+    <s:tag>Champagne &amp; Strawberry</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>F/W</s:tag>
+    <s:tag>holiday</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>shop_boho</s:tag>
+    <s:tag>shop_sundaybrunch</s:tag>
+    <s:tag>shop_wedding</s:tag>
+    <s:tag>VINTAGE IVORY</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6210902622376</id>
+      <title>VINTAGE IVORY / S</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>BID2503_VINTAGE IVORY__VINTAGE IVORY_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6210902622376</id>
+      <title>VINTAGE IVORY / M</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>BID2503_VINTAGE IVORY__VINTAGE IVORY_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6210902622376</id>
+      <title>VINTAGE IVORY / L</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>BID2503_VINTAGE IVORY__VINTAGE IVORY_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6099656081576</id>
+    <published>2020-12-04T10:34:05-08:00</published>
+    <updated>2020-12-04T10:34:05-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/bid2456"/>
+    <title>PLEATED MIDI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Champagne &amp; Strawberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/s_20bid2456_20ivo_208.jpg?v=1607036357"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champagne &amp; Strawberry<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            96.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>A woven printed pleated midi dress featuring round neckline with front tie/tassel, 3/4 sleeves with cape on top and elasticized waist</span></p>
+<p> </p>
+<p><span>Details</span></p>
+<p><span>Self: 100% Polyester</span></p>
+<p><span>Lining: 100% Rayon</span></p>
+<p> </p>
+<p><span></span><span>Size &amp; Fit</span></p>
+<p><span>- Model is 5`8" and wearing size Small</span></p>
+<p><span>- Measurements taken from size Small</span></p>
+<p><span>- Length: 46"</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020.12.04</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BID2456</s:tag>
+    <s:tag>cf-color-ivory</s:tag>
+    <s:tag>cf-size-l</s:tag>
+    <s:tag>cf-size-m</s:tag>
+    <s:tag>cf-size-s</s:tag>
+    <s:tag>cf-type-dresses</s:tag>
+    <s:tag>cf-vendor-champagne-&amp;-strawberry</s:tag>
+    <s:tag>Champagne &amp; Strawberry</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>F/W</s:tag>
+    <s:tag>holiday</s:tag>
+    <s:tag>IVORY</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Midi Dress</s:tag>
+    <s:tag>shop_wedding</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6099656081576</id>
+      <title>IVORY / S</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku>BID2456_IVORY_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6099656081576</id>
+      <title>IVORY / M</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku>BID2456_IVORY_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6099656081576</id>
+      <title>IVORY / L</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku>BID2456_IVORY_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+</feed>

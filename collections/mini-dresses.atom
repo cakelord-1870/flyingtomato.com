@@ -1,0 +1,1872 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://flyingtomato.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://flyingtomato.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://flyingtomato.com/collections/mini-dresses.atom"/>
+  <title>Flying Tomato</title>
+  <updated>2021-08-20T11:24:01-07:00</updated>
+  <author>
+    <name>Flying Tomato</name>
+  </author>
+  <entry>
+    <id>https://flyingtomato.com/products/6991801712808</id>
+    <published>2021-08-20T11:24:01-07:00</published>
+    <updated>2021-08-20T11:24:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ld1389"/>
+    <title>AUTUMN&apos;S FIRST KISS MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Lovecolette</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20ld1389_20mau_204_9f28be09-9784-4ba8-a0c1-d66b42dd1536.jpg?v=1629419322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lovecolette<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            58.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A printed mini dress featuring smocked off shoulder neckline, peasant sleeve, elasticized waist, self sash tie and ruffled hemline</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p>Lining: 100% Polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 30"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.20</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>FLORAL</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>LD1389</s:tag>
+    <s:tag>Lovecolette</s:tag>
+    <s:tag>MAUVE</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>minidress</s:tag>
+    <s:tag>shop_floral</s:tag>
+    <s:tag>shop_florals</s:tag>
+    <s:tag>shop_wedding</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991801712808</id>
+      <title>MAUVE / S</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>LD1389_MAUVE_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991801712808</id>
+      <title>MAUVE / M</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>LD1389_MAUVE_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991801712808</id>
+      <title>MAUVE / L</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>LD1389_MAUVE_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6991794897064</id>
+    <published>2021-08-20T11:23:51-07:00</published>
+    <updated>2021-08-20T11:23:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jd7327"/>
+    <title>TURNING TIME DENIM SHIRT DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20jd7327_20blk_2013_21b6b754-bbcc-49d6-a70d-4d9e52b2fd28.jpg?v=1629474717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A denim shirt dress featuring button down, puff sleeve and self sash tie</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 65% Cotton, 33% Polyester, 2% Spandex</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 33"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.20</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BLACK ACID</s:tag>
+    <s:tag>DENIM</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>JD7327</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>minidress</s:tag>
+    <s:tag>shop_weartowork</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991794897064</id>
+      <title>BLACK ACID / S</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>JD7327_BLACK ACID_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991794897064</id>
+      <title>BLACK ACID / M</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>JD7327_BLACK ACID_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991794897064</id>
+      <title>BLACK ACID / L</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>JD7327_BLACK ACID_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6991789588648</id>
+    <published>2021-08-20T11:23:41-07:00</published>
+    <updated>2021-08-20T11:23:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/id18502"/>
+    <title>ALWAYS THE LEAD WOVEN MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Flying Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fn_20id18502_20pk_20tau_2027_4f9b6c74-9306-41d9-8a35-90b590503422.jpg?v=1629419168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            58.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A printed woven mini dress featuring plunging V neckline, wide waist band with button detail, peasant sleeve, ruffled skirt and back zipper closure</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p>Lining: 100% Polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 31"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.20</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>Flying Tomato</s:tag>
+    <s:tag>ID18502</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>minidress</s:tag>
+    <s:tag>PINK TAUPE</s:tag>
+    <s:tag>shop_boho</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991789588648</id>
+      <title>PINK TAUPE / S</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>ID18502_PINK TAUPE_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991789588648</id>
+      <title>PINK TAUPE / M</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>ID18502_PINK TAUPE_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991789588648</id>
+      <title>PINK TAUPE / L</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>ID18502_PINK TAUPE_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6991787458728</id>
+    <published>2021-08-20T11:23:37-07:00</published>
+    <updated>2021-08-20T11:23:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/id18385"/>
+    <title>THANK ME LATER WOVEN MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Flying Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20id18385_20off_20wht_206_f51a4d05-c85d-4d06-bdda-a24c058e3b66.jpg?v=1629474629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            58.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A woven printed dress featuring V neckline, dolman sleeve, elasticized waist, A line skirt and back tie/tassel detail</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p>Lining: 100% Polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 27"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.20</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>Flying Tomato</s:tag>
+    <s:tag>ID18385</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>minidress</s:tag>
+    <s:tag>OFF WHITE</s:tag>
+    <s:tag>shop_boho</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991787458728</id>
+      <title>OFF WHITE / S</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>ID18385_OFF WHITE_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991787458728</id>
+      <title>OFF WHITE / M</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>ID18385_OFF WHITE_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991787458728</id>
+      <title>OFF WHITE / L</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>ID18385_OFF WHITE_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6991785590952</id>
+    <published>2021-08-20T11:23:34-07:00</published>
+    <updated>2021-08-20T11:23:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ad2447"/>
+    <title>PERFECT FOR US WOVEN MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>A.Calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20ad2447_20sage_203_1_4befc3dc-ca07-49e4-8e28-81f60b14d2f1.jpg?v=1629421168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A.Calin<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A solid woven pleated mini dress featuring off shoulder neckline, ruffled edge, peasant sleeve with ruffled cuff, elasticized waist and self sash tie</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p>Lining: 100% Polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 29"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.20</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>AD2447</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>DEEP SAGE</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>minidress</s:tag>
+    <s:tag>shop_colorpop</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991785590952</id>
+      <title>DEEP SAGE / S</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>AD2447_DEEP SAGE_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991785590952</id>
+      <title>DEEP SAGE / M</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>AD2447_DEEP SAGE_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991785590952</id>
+      <title>DEEP SAGE / L</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>AD2447_DEEP SAGE_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6991785164968</id>
+    <published>2021-08-20T11:23:32-07:00</published>
+    <updated>2021-08-20T11:23:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ad2433"/>
+    <title>NOTHING FORGOTTEN LIGHTWEIGHT DENIM MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>A.Calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20ad2433_20med_20ind_2019_88845f44-73b8-4cc0-9371-4e481b086894.jpg?v=1629421021"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A.Calin<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            64.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A lightweight denim mini dress featuring round neckline with mini ruffled edge, peasant sleeve, button down and tiered body</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Cotton</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 35"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.20</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>AD2433</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>DENIM</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>MEDIUM INDIGO</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>minidress</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991785164968</id>
+      <title>MEDIUM INDIGO / S</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>AD2433_MEDIUM INDIGO_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991785164968</id>
+      <title>MEDIUM INDIGO / M</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>AD2433_MEDIUM INDIGO_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6991785164968</id>
+      <title>MEDIUM INDIGO / L</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>AD2433_MEDIUM INDIGO_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6976059277480</id>
+    <published>2021-08-13T14:54:08-07:00</published>
+    <updated>2021-08-13T14:54:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ld1337"/>
+    <title>STARE DOWN THE PAST MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Lovecolette</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20ld1337_20cre_201.jpg?v=1628889235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lovecolette<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A lace mini dress featuring round neckline with tie/tassel, wide sleeve and ruffled hemline</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 65% Nylon, 35% Cotton</p>
+<p>Lining: 100% Polyester Exclusive of decoration</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 31.5"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.13</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>CREAM</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>LD1337</s:tag>
+    <s:tag>Lovecolette</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>minidress</s:tag>
+    <s:tag>shop_boho</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976059277480</id>
+      <title>CREAM / S</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>LD1337_CREAM_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976059277480</id>
+      <title>CREAM / M</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>LD1337_CREAM_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976059277480</id>
+      <title>CREAM / L</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>LD1337_CREAM_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6976057868456</id>
+    <published>2021-08-13T14:54:01-07:00</published>
+    <updated>2021-08-13T14:54:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jd7332"/>
+    <title>DREAMING AT DUSK SHIRT DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20jd7332_20tau_204.jpg?v=1628884144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A printed shirt dress featuring front tie detail and long sleeve with cuff and button</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 32"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.13</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>JD7332</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>minidress</s:tag>
+    <s:tag>shop_boho</s:tag>
+    <s:tag>TAUPE</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976057868456</id>
+      <title>TAUPE / S</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JD7332_TAUPE_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976057868456</id>
+      <title>TAUPE / M</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JD7332_TAUPE_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976057868456</id>
+      <title>TAUPE / L</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>JD7332_TAUPE_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6976055541928</id>
+    <published>2021-08-13T14:53:53-07:00</published>
+    <updated>2021-08-13T14:53:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/id18423"/>
+    <title>SHE&apos;S SO LOVELY MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Flying Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/s_20id18423_20off_20wht_209.jpg?v=1628889093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A woven printed mini dress featuring round neckline, long sleeve, elasticized waist with self sash tie, ruffled hemline and back button keyhole closure</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p>Lining 100% Polyester</p>
+<p> </p>
+<p> </p>
+<p><meta charset="utf-8"><span data-mce-fragment="1">Size &amp; Fit</span></p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 32.5"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.13</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>Flying Tomato</s:tag>
+    <s:tag>ID18423</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>minidress</s:tag>
+    <s:tag>OFF WHITE</s:tag>
+    <s:tag>shop_boho</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976055541928</id>
+      <title>OFF WHITE / S</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>ID18423_OFF WHITE_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976055541928</id>
+      <title>OFF WHITE / M</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>ID18423_OFF WHITE_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976055541928</id>
+      <title>OFF WHITE / L</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>ID18423_OFF WHITE_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6976054263976</id>
+    <published>2021-08-13T14:53:49-07:00</published>
+    <updated>2021-08-13T14:53:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/id18376"/>
+    <title>MORE THAN MINE WOVEN MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Flying Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20id18376_20mau_202.jpg?v=1628894683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A printed woven mini dress featuring surplice neckline, exaggerated puff sleeve, elasticized waist with ruffled hemline and back keyhole button closure</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester Lining 100% Polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 31.5"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.13</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>Flying Tomato</s:tag>
+    <s:tag>ID18376</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>MAUVE</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>minidress</s:tag>
+    <s:tag>shop_boho</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976054263976</id>
+      <title>MAUVE / S</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>ID18376_MAUVE_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976054263976</id>
+      <title>MAUVE / M</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>ID18376_MAUVE_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976054263976</id>
+      <title>MAUVE / L</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>ID18376_MAUVE_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6976054067368</id>
+    <published>2021-08-13T14:53:48-07:00</published>
+    <updated>2021-08-13T14:53:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/id18343"/>
+    <title>WAIT FOR YOU MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Flying Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20id18343_20teal_203.jpg?v=1628889884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A woven printed mini dress featuring round neckline with mini ruffled edge and tie/tassel, peasant sleeve and tiered body</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Details Self: 100% Polyester</p>
+<p>Lining: 100% Polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 34"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.13</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>Flying Tomato</s:tag>
+    <s:tag>ID18343</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>minidress</s:tag>
+    <s:tag>shop_boho</s:tag>
+    <s:tag>TEAL</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976054067368</id>
+      <title>TEAL / S</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>ID18343_TEAL_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976054067368</id>
+      <title>TEAL / M</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>ID18343_TEAL_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976054067368</id>
+      <title>TEAL / L</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>ID18343_TEAL_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6976053313704</id>
+    <published>2021-08-13T14:53:45-07:00</published>
+    <updated>2021-08-13T14:53:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/id18195"/>
+    <title>BY THE FIRELIGHT SATIN MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Flying Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20id18195_20nav_2025.jpg?v=1628885684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A printed satin mini dress featuring V neckline, elasticized at empire with drawstring, flared skirt, and tie back detail</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Details Self</p>
+<p>97% Polyester 3% Spandex</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit - Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 27.5"<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.13</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>Flying Tomato</s:tag>
+    <s:tag>ID18195</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>minidress</s:tag>
+    <s:tag>NAVY</s:tag>
+    <s:tag>shop_boho</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976053313704</id>
+      <title>NAVY / S</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>ID18195_NAVY_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976053313704</id>
+      <title>NAVY / M</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>ID18195_NAVY_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976053313704</id>
+      <title>NAVY / L</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>ID18195_NAVY_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6976053149864</id>
+    <published>2021-08-13T14:53:44-07:00</published>
+    <updated>2021-08-13T14:53:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/bid2616"/>
+    <title>TURN BACK TIME WOVEN MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Champagne &amp; Strawberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20bid2616_20ivo_20bl_201.jpg?v=1628889674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champagne &amp; Strawberry<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            82.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A printed woven mini dress featuring round neckline, puff sleeve with lace detail, A line skirt with lace detail and back zipper closure</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p>Lining: 100% Polyester Exclusive of decoration</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 34"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.13</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BID2616</s:tag>
+    <s:tag>Champagne &amp; Strawberry</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>IVORY/BLUE</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>minidress</s:tag>
+    <s:tag>shop_sundaybrunch</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976053149864</id>
+      <title>IVORY/BLUE / S</title>
+      <s:price currency="USD">82.00</s:price>
+      <s:sku>BID2616_IVORY/BLUE_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976053149864</id>
+      <title>IVORY/BLUE / M</title>
+      <s:price currency="USD">82.00</s:price>
+      <s:sku>BID2616_IVORY/BLUE_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976053149864</id>
+      <title>IVORY/BLUE / L</title>
+      <s:price currency="USD">82.00</s:price>
+      <s:sku>BID2616_IVORY/BLUE_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6976051151016</id>
+    <published>2021-08-13T14:53:38-07:00</published>
+    <updated>2021-08-13T14:53:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ad2435"/>
+    <title>BEGIN AGAIN WOVEN MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>A.Calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20ad2435_20gre_205.jpg?v=1628886629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A.Calin<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A solid woven dress featuring V neckline, puff long sleeve, side cut out detail, double layered skirt and back zipper closure</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p>Lining 100% Polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small - Approx Length: 32"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.13</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>AD2435</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>GREEN</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>minidress</s:tag>
+    <s:tag>shop_colorpop</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976051151016</id>
+      <title>GREEN / S</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>AD2435_GREEN_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976051151016</id>
+      <title>GREEN / M</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>AD2435_GREEN_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976051151016</id>
+      <title>GREEN / L</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>AD2435_GREEN_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6976050888872</id>
+    <published>2021-08-13T14:53:37-07:00</published>
+    <updated>2021-08-13T14:53:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ad2411"/>
+    <title>ELEGANT EDGE WOVEN MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>A.Calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20ad2411_20ivo_2017.jpg?v=1628884157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A.Calin<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A solid woven mini dress featuring square neckline, peasant sleeve, full skirt and back zipper closure</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p>Lining: 100% Polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 26"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.13</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>AD2411</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>IVORY</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>minidress</s:tag>
+    <s:tag>shop_wedding</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976050888872</id>
+      <title>IVORY / S</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>AD2411_IVORY_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976050888872</id>
+      <title>IVORY / M</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>AD2411_IVORY_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976050888872</id>
+      <title>IVORY / L</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>AD2411_IVORY_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6976050561192</id>
+    <published>2021-08-13T14:53:36-07:00</published>
+    <updated>2021-08-13T14:53:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ad2401"/>
+    <title>SIMPLE STUNNING WOVEN MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>A.Calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20ad2401_20bur_2011.jpg?v=1628889142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A.Calin<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            66.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A jacquard woven mini dress featuring sweetheart neckline, puff sleeve with ruffled cuff, smocked bodice and tiered skirt</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p>Lining 100% Polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 24.5"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.13</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>AD2401</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BURGUNDY</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>minidress</s:tag>
+    <s:tag>shop_boho</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976050561192</id>
+      <title>BURGUNDY / S</title>
+      <s:price currency="USD">66.00</s:price>
+      <s:sku>AD2401_BURGUNDY_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976050561192</id>
+      <title>BURGUNDY / M</title>
+      <s:price currency="USD">66.00</s:price>
+      <s:sku>AD2401_BURGUNDY_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976050561192</id>
+      <title>BURGUNDY / L</title>
+      <s:price currency="USD">66.00</s:price>
+      <s:sku>AD2401_BURGUNDY_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6976050299048</id>
+    <published>2021-08-13T14:53:34-07:00</published>
+    <updated>2021-08-13T14:53:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ad2381"/>
+    <title>LEAD FROM THE HEART WOVEN MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>A.Calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fn_20ad2381_20mau_2034.jpg?v=1628887336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A.Calin<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A solid woven mini dress featuring high neckline, shirred bodice, peasant sleeve with elastic sleeve opening, shirred waist band, double ruffled hemline, back slit, zipper and button closure</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p>Lining: 100% Polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 33"<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.13</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>AD2381</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>MAUVE</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>minidress</s:tag>
+    <s:tag>shop_wedding</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976050299048</id>
+      <title>MAUVE / S</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>AD2381_MAUVE_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976050299048</id>
+      <title>MAUVE / M</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>AD2381_MAUVE_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976050299048</id>
+      <title>MAUVE / L</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>AD2381_MAUVE_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6976049905832</id>
+    <published>2021-08-13T14:53:33-07:00</published>
+    <updated>2021-08-13T14:53:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ad2242"/>
+    <title>PATCHWORK PLEASURE WOVEN MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>A.Calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fn_20ad2242_20pea_2027.jpg?v=1628888654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A.Calin<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            74.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A textured solid woven mini dress featuring V neckline, button down, peasant sleeve, ruched faux wrap skirt with ruffled hemline and side zipper</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p>Lining: 100% Polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 31.5"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.13</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>AD2242</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>minidress</s:tag>
+    <s:tag>PEACH</s:tag>
+    <s:tag>shop_wedding</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976049905832</id>
+      <title>PEACH / S</title>
+      <s:price currency="USD">74.00</s:price>
+      <s:sku>AD2242_PEACH_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976049905832</id>
+      <title>PEACH / M</title>
+      <s:price currency="USD">74.00</s:price>
+      <s:sku>AD2242_PEACH_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6976049905832</id>
+      <title>PEACH / L</title>
+      <s:price currency="USD">74.00</s:price>
+      <s:sku>AD2242_PEACH_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6920408432808</id>
+    <published>2021-08-13T14:53:32-07:00</published>
+    <updated>2021-08-13T14:53:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/id18313"/>
+    <title>LASTING WORDS WOVEN LACE TOP</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Flying Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fnid18313blk26.jpg?v=1628887141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            52.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A printed woven mini dress featuring U neckline with shirring and tie, smocked body with double ruffed hemline</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester Lining 100% Polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small<br> - Measurements Taken From Size Small<br> - Approx Length: 25"<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.13</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BLACK FLORAL</s:tag>
+    <s:tag>DRESS</s:tag>
+    <s:tag>FLORAL</s:tag>
+    <s:tag>FLYNG TOMATO</s:tag>
+    <s:tag>ID18313</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>minidress</s:tag>
+    <s:tag>shop_floral</s:tag>
+    <s:tag>shop_florals</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6920408432808</id>
+      <title>BLACK / S</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>ID18313_BLACK_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6920408432808</id>
+      <title>BLACK / M</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>ID18313_BLACK_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6920408432808</id>
+      <title>BLACK / L</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>ID18313_BLACK_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6950184681640</id>
+    <published>2021-08-06T11:31:21-07:00</published>
+    <updated>2021-08-06T11:31:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ld1346"/>
+    <title>FROM MY PERSPECTIVE WOVEN MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Lovecolette</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fn_20ld1346_20wht_2019.jpg?v=1628202769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lovecolette<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            64.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> A textured woven mini dress featuring square neckline with ruffled edge, long sleeve and tiered ruffled body  Details  Self: 100% Polyester Lining 100% Polyester  - Model is 5`8" And Wearing Size Small - Measurements Taken From Size Small - Approx Length: 28"  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.06</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>LD1346</s:tag>
+    <s:tag>Lovecolette</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>minidress</s:tag>
+    <s:tag>WHITE</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6950184681640</id>
+      <title>WHITE / S</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>LD1346_WHITE_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6950184681640</id>
+      <title>WHITE / M</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>LD1346_WHITE_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6950184681640</id>
+      <title>WHITE / L</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>LD1346_WHITE_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6950184681640</id>
+      <title>RUST / S</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>LD1346_RUST_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6950184681640</id>
+      <title>RUST / M</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>LD1346_RUST_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6950184681640</id>
+      <title>RUST / L</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>LD1346_RUST_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6950184681640</id>
+      <title>MUSTARD / S</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>LD1346_MUSTARD_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6950184681640</id>
+      <title>MUSTARD / M</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>LD1346_MUSTARD_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6950184681640</id>
+      <title>MUSTARD / L</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>LD1346_MUSTARD_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6950183010472</id>
+    <published>2021-08-06T11:31:20-07:00</published>
+    <updated>2021-08-06T11:31:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ld1328"/>
+    <title>DRAWN TO YOU WOVEN MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Lovecolette</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20ld1328_20mau_209.jpg?v=1628204894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lovecolette<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            62.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A printed woven mini dress featuring U neckline with mini ruffled edge, peasant sleeve and tiered body with ruffled edge</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p>Lining: 100% Polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 25"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.06</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>LD1328</s:tag>
+    <s:tag>Lovecolette</s:tag>
+    <s:tag>MAUVE YELLOW GREEN</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>minidress</s:tag>
+    <s:tag>shop_boho</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6950183010472</id>
+      <title>MAUVE YELLOW GREEN / S</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>LD1328_MAUVE YELLOW GREEN_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6950183010472</id>
+      <title>MAUVE YELLOW GREEN / M</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>LD1328_MAUVE YELLOW GREEN_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6950183010472</id>
+      <title>MAUVE YELLOW GREEN / L</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>LD1328_MAUVE YELLOW GREEN_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6950175178920</id>
+    <published>2021-08-06T11:31:04-07:00</published>
+    <updated>2021-08-06T11:31:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/id18342"/>
+    <title>MORE THAN WORTHY WOVEN MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Flying Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/flid18342ivo2.jpg?v=1628200144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A printed woven mini dress featuring smocked high neckline, raglan sleeve, relaxed body with self sash tie and back keyhole button closure</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p>Lining: 100% Polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 33"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.06</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BLACK</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>FLORAL</s:tag>
+    <s:tag>Flying Tomato</s:tag>
+    <s:tag>ID18342</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>minidress</s:tag>
+    <s:tag>shop_boho</s:tag>
+    <s:tag>shop_floral</s:tag>
+    <s:tag>shop_florals</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6950175178920</id>
+      <title>BLACK / S</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>ID18342_BLACK_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6950175178920</id>
+      <title>BLACK / M</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>ID18342_BLACK_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6950175178920</id>
+      <title>BLACK / L</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>ID18342_BLACK_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6950175178920</id>
+      <title>IVORY / S</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>ID18342_IVORY_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6950175178920</id>
+      <title>IVORY / M</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>ID18342_IVORY_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6950175178920</id>
+      <title>IVORY / L</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>ID18342_IVORY_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6950170722472</id>
+    <published>2021-08-06T11:30:55-07:00</published>
+    <updated>2021-08-06T11:30:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ad2441"/>
+    <title>HOPELESS ROMANTIC BABYDOLL MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>A.Calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20ad2441_20cre_205.jpg?v=1628181872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A.Calin<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A woven babydoll mini dress featuring square neckline, peasant sleeve and tiered skirt</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p>Lining: 100% Polyester</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 26"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.08.06</s:tag>
+    <s:tag>A.Calin</s:tag>
+    <s:tag>AD2441</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>CREAM</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>minidress</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6950170722472</id>
+      <title>CREAM / S</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>AD2441_CREAM_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6950170722472</id>
+      <title>CREAM / M</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>AD2441_CREAM_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6950170722472</id>
+      <title>CREAM / L</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>AD2441_CREAM_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6937807028392</id>
+    <published>2021-07-30T11:42:06-07:00</published>
+    <updated>2021-07-30T11:42:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jsw2652"/>
+    <title>PERMISSION TO DANCE KNIT MINI DRESS</title>
+    <s:type>sweaters</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20jsw2652_20blk_206.jpg?v=1627591429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>sweaters<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A sweater knit mini dress featuring V neckline, short sleeves, non-functional button down</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 55%Nylon, 45%Viscose</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx. Length: 34"<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.30</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>BLACK</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>JSW2652</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Knit</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>minidress</s:tag>
+    <s:tag>shop_weartowork</s:tag>
+    <s:tag>sweaters</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6937807028392</id>
+      <title>BLACK / S</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>JSW2652_BLACK_01</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6937807028392</id>
+      <title>BLACK / M</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>JSW2652_BLACK_02</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6937807028392</id>
+      <title>BLACK / L</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>JSW2652_BLACK_03</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6937806176424</id>
+    <published>2021-07-30T11:42:04-07:00</published>
+    <updated>2021-07-30T11:42:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jd6734-a"/>
+    <title>SWEET MEMORY OF US DENIM MINI DRESS</title>
+    <s:type>dresses</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/f_20jd6734-a_20med_203.jpg?v=1627594637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>dresses<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A denim mini dress with round neck and exaggerated puff sleeve.</p>
+<p> </p>
+<p> </p>
+<p>Details</p>
+<p>Self: 68% cotton, 30% polyester, 2% spandex</p>
+<p>Belt: Backing: 100% polyester Coating 1: 100% polyurethane Coating 2: 100% polyvinyl chloride</p>
+<p> </p>
+<p> </p>
+<p>Size &amp; Fit - Model is 5`8" and wearing size Small - Measurements taken from size Small - Length: 33"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.07.30</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>DENIM</s:tag>
+    <s:tag>DENIM  BLUE</s:tag>
+    <s:tag>dresses</s:tag>
+    <s:tag>JD6734-A</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>MEDIUM INDIGO</s:tag>
+    <s:tag>Mini Dress</s:tag>
+    <s:tag>minidress</s:tag>
+    <s:tag>shop_nightout</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6937806176424</id>
+      <title>MEDIUM INDIGO / S</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>JD6734-A_MEDIUM INDIGO_01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6937806176424</id>
+      <title>MEDIUM INDIGO / M</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>JD6734-A_MEDIUM INDIGO_02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6937806176424</id>
+      <title>MEDIUM INDIGO / L</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>JD6734-A_MEDIUM INDIGO_03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+</feed>

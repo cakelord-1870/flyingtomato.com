@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://flyingtomato.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://flyingtomato.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://flyingtomato.com/collections/coats-jackets.atom"/>
+  <title>Flying Tomato</title>
+  <updated>2021-07-23T13:00:23-07:00</updated>
+  <author>
+    <name>Flying Tomato</name>
+  </author>
+  <entry>
+    <id>https://flyingtomato.com/products/5679886794920</id>
+    <published>2021-07-23T13:00:23-07:00</published>
+    <updated>2021-07-23T13:00:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/jj2375"/>
+    <title>RAW EDGE BOUCLE JACKET</title>
+    <s:type>jackets</s:type>
+    <s:vendor>Jealous Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fn_20jj2375_20off_20wht_20mus_2016.jpg?v=1627070369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jealous Tomato<br>
+        <strong>Type: </strong>jackets<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A raw edge boucle jacket featuring round neckline, 2 front pockets and pearl button closure</p>
+<p> </p>
+<p><b>Details </b></p>
+<p>self: 100% polyester lining: 100% polyester</p>
+<p><b>Size &amp; Fit </b></p>
+<p>model is 5`8" and wearing size small</p>
+<p>measurements taken from size small approx length: 20"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>cf-color-off-white-mustard</s:tag>
+    <s:tag>cf-size-l</s:tag>
+    <s:tag>cf-size-m</s:tag>
+    <s:tag>cf-size-s</s:tag>
+    <s:tag>cf-type-jackets</s:tag>
+    <s:tag>cf-vendor-jealous-tomato</s:tag>
+    <s:tag>F/W</s:tag>
+    <s:tag>jackets</s:tag>
+    <s:tag>Jealous Tomato</s:tag>
+    <s:tag>JJ2375</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>OFF WHITE/MUSTARD</s:tag>
+    <s:tag>shop_weartowork</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/5679886794920</id>
+      <title>OFF WHITE/MUSTARD / S</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>JJ2375_OFF WHITE/MUSTARD_01</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/5679886794920</id>
+      <title>OFF WHITE/MUSTARD / M</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>JJ2375_OFF WHITE/MUSTARD_02</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/5679886794920</id>
+      <title>OFF WHITE/MUSTARD / L</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>JJ2375_OFF WHITE/MUSTARD_03</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6839410458792</id>
+    <published>2021-06-18T16:30:50-07:00</published>
+    <updated>2021-06-18T16:30:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ij10084"/>
+    <title>EASY DAYS FLORAL MAXI KIMONO TOP</title>
+    <s:type>jackets</s:type>
+    <s:vendor>Flying Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fl_20ij10084_20ivo_203.jpg?v=1624032600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Tomato<br>
+        <strong>Type: </strong>jackets<br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Botanical printed maxi kimono featuring a front tie closure. Elasticized waistline and long peasant sleeves. Tiered body with ruffled edge.</p>
+<p> </p>
+<p>Details</p>
+<p>Self: 100% Polyester</p>
+<p> </p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 53"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.06.18</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>Flying Tomato</s:tag>
+    <s:tag>IJ10084</s:tag>
+    <s:tag>IVORY</s:tag>
+    <s:tag>jackets</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>shop_maternity</s:tag>
+    <s:tag>shop_vacay</s:tag>
+    <s:tag>tops</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6839410458792</id>
+      <title>IVORY / S</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>IJ10084_IVORY_01</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6839410458792</id>
+      <title>IVORY / M</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>IJ10084_IVORY_02</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6839410458792</id>
+      <title>IVORY / L</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>IJ10084_IVORY_03</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6744665489576</id>
+    <published>2021-05-19T14:51:18-07:00</published>
+    <updated>2021-05-19T14:51:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frj1002"/>
+    <title>SO ME DENIM JACKET</title>
+    <s:type>JACKETS</s:type>
+    <s:vendor>FT-RETAIL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fFRJ1002denim8.jpg?v=1621461062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-RETAIL<br>
+        <strong>Type: </strong>JACKETS<br>
+        <strong>Price: </strong>
+            58.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Oversized Denim Jacket featuring Front Button Down. Distressed Embellishment and Long Sleeve with Cuffs. Front 4 Pockets.</p>
+<p>Details<br>Self: 100% Cotton</p>
+Size &amp; Fit<br><meta charset="utf-8"><span>- </span><span>Model is 5`8" And Wearing Size Small</span><br data-mce-fragment="1"><span>- Measurements Taken From Size Small</span><br data-mce-fragment="1"><span>- Approx Length: 32"</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>BEMUSE.0519</s:tag>
+    <s:tag>DENIM</s:tag>
+    <s:tag>FLYING TOMATO</s:tag>
+    <s:tag>IN1098D</s:tag>
+    <s:tag>JACKETS</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6744665489576</id>
+      <title>DARK WASH DENIM / S</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>FRJ1002_01</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6744665489576</id>
+      <title>DARK WASH DENIM / M</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>FRJ1002_02</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6744665489576</id>
+      <title>DARK WASH DENIM / L</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>FRJ1002_03</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6744665456808</id>
+    <published>2021-05-19T11:26:24-07:00</published>
+    <updated>2021-05-19T11:26:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/frj1001"/>
+    <title>AMELIA DISTRESSED DENIM JACKET</title>
+    <s:type>JACKETS</s:type>
+    <s:vendor>FT-RETAIL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fFRJ1001denim4.jpg?v=1621381533"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FT-RETAIL<br>
+        <strong>Type: </strong>JACKETS<br>
+        <strong>Price: </strong>
+            52.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Medium Wash </span>Cropped Denim Jacket featuring Distressed Front &amp; Back and Puff Sleeves. Button Down Front with 2 Bust Pockets &amp; 2 Fake Side Pockets.</p>
+<p> </p>
+<p>Details<br>Self: 92% Cotton, 4% Polyester, 4% Viscose</p>
+<p> </p>
+<p>Size &amp; Fit<br><meta charset="utf-8"><span>- </span><span>Model is 5`8" And Wearing Size Small</span><br data-mce-fragment="1"><span>- Measurements Taken From Size Small</span><br data-mce-fragment="1"><span>- Approx Length: 17"</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALL</s:tag>
+    <s:tag>BEMUSE.0519</s:tag>
+    <s:tag>DENIM</s:tag>
+    <s:tag>JACKETS</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>MAJ1505</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6744665456808</id>
+      <title>MED WASH DENIM / S</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>FRJ1001_MED WASH DENIM_01</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6744665456808</id>
+      <title>MED WASH DENIM / M</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>FRJ1001_MED WASH DENIM_02</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6744665456808</id>
+      <title>MED WASH DENIM / L</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>FRJ1001_MED WASH DENIM_03</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6058364960936</id>
+    <published>2021-04-23T16:57:24-07:00</published>
+    <updated>2021-04-23T16:57:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ij10044fm"/>
+    <title>TUSCAN NIGHTS KIMONO COVER UP</title>
+    <s:type>jackets</s:type>
+    <s:vendor>Flying Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/flij10044fmwht1.jpg?v=1625003435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Tomato<br>
+        <strong>Type: </strong>jackets<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">A printed kimono cover up</span><br data-mce-fragment="1"><br data-mce-fragment="1"><strong>Detail</strong><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Self: 100% rayon</span><br data-mce-fragment="1"><span data-mce-fragment="1">Imported</span><br data-mce-fragment="1"><br data-mce-fragment="1"><strong>Size &amp; Fit</strong><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Model is 5`8" and wearing size Small</span><br data-mce-fragment="1"><span data-mce-fragment="1">Measurements taken from size Small</span><br data-mce-fragment="1"><span data-mce-fragment="1">Approx. length: 44"</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020.11.20</s:tag>
+    <s:tag>2021.04.23</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>ALL SEASON</s:tag>
+    <s:tag>cf-size-l</s:tag>
+    <s:tag>cf-size-m</s:tag>
+    <s:tag>cf-size-s</s:tag>
+    <s:tag>cf-type-jackets</s:tag>
+    <s:tag>cf-vendor-flying-tomato</s:tag>
+    <s:tag>Flying Tomato</s:tag>
+    <s:tag>IJ10044FM</s:tag>
+    <s:tag>jackets</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>Kimono</s:tag>
+    <s:tag>shop_4thofjuly</s:tag>
+    <s:tag>shop_maternity</s:tag>
+    <s:tag>shop_vacay</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6058364960936</id>
+      <title>S</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>IJ10044FM_OFFWHITE_01</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6058364960936</id>
+      <title>M</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>IJ10044FM_OFFWHITE_02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6058364960936</id>
+      <title>L</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>IJ10044FM_OFFWHITE_03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6646596370600</id>
+    <published>2021-04-09T09:39:14-07:00</published>
+    <updated>2021-04-09T09:39:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ij10047fm"/>
+    <title>PUT YOUR RECORDS ON WOVEN KIMONO</title>
+    <s:type>jackets</s:type>
+    <s:vendor>Flying Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/de_20ij10047fm_20ivo_208.jpg?v=1617986338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Tomato<br>
+        <strong>Type: </strong>jackets<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A printed woven kimono cover up Details Self: 100% Polyester</p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" And Wearing Size Small</p>
+<p>- Measurements Taken From Size Small</p>
+<p>- Approx Length: 47"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021.04.09</s:tag>
+    <s:tag>2021.04.16</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>ALL SEASON</s:tag>
+    <s:tag>Flying Tomato</s:tag>
+    <s:tag>IJ10047FM</s:tag>
+    <s:tag>IVORY</s:tag>
+    <s:tag>jackets</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>shop_florals</s:tag>
+    <s:tag>shop_maternity</s:tag>
+    <s:tag>shop_vacay</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6646596370600</id>
+      <title>IVORY / S</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>IJ10047FM_IVORY_01</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6646596370600</id>
+      <title>IVORY / M</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>IJ10047FM_IVORY_02</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6646596370600</id>
+      <title>IVORY / L</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>IJ10047FM_IVORY_03</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/6153591521448</id>
+    <published>2020-12-24T10:06:31-08:00</published>
+    <updated>2020-12-24T10:06:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/ij10043fm"/>
+    <title>KIMONO COVER UP</title>
+    <s:type>jackets</s:type>
+    <s:vendor>Flying Tomato</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/fn_20ij10043fm_20ivo_203.jpg?v=1608833188"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Tomato<br>
+        <strong>Type: </strong>jackets<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A printed kimono cover up</p>
+<p><br></p>
+<p>Detail</p>
+<p>- Self: 100% rayon</p>
+<p>- Imported</p>
+<p>Size &amp; Fit</p>
+<p>- Model is 5`8" and wearing size Small</p>
+<p>- Measurements taken from size Small</p>
+<p>- Approx. length: 44"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020.12.24</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>cf-color-ivory</s:tag>
+    <s:tag>cf-size-l</s:tag>
+    <s:tag>cf-size-m</s:tag>
+    <s:tag>cf-size-s</s:tag>
+    <s:tag>cf-type-jackets</s:tag>
+    <s:tag>cf-vendor-flying-tomato</s:tag>
+    <s:tag>Flying Tomato</s:tag>
+    <s:tag>IJ10043FM</s:tag>
+    <s:tag>IVORY</s:tag>
+    <s:tag>jackets</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>shop_4thofjuly</s:tag>
+    <s:tag>shop_florals</s:tag>
+    <s:tag>shop_maternity</s:tag>
+    <s:tag>shop_vacay</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6153591521448</id>
+      <title>IVORY / S</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>IJ10043FM_IVORY_01</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6153591521448</id>
+      <title>IVORY / M</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>IJ10043FM_IVORY_02</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/6153591521448</id>
+      <title>IVORY / L</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>IJ10043FM_IVORY_03</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flyingtomato.com/products/5871617671336</id>
+    <published>2020-09-29T10:17:54-07:00</published>
+    <updated>2020-09-29T10:17:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://flyingtomato.com/products/aj1131"/>
+    <title>ZIPPER DENIM JACKET</title>
+    <s:type>jackets</s:type>
+    <s:vendor>A. calin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/0067/0280/products/faj1131medind21_1.jpg?v=1601399873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A. calin<br>
+        <strong>Type: </strong>jackets<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A denim jacket with front zipper closure<br data-mce-fragment="1"><br data-mce-fragment="1"><strong>detail</strong><br data-mce-fragment="1"><br data-mce-fragment="1">self: 100% cotton<br data-mce-fragment="1">lining: 100% cotton<br data-mce-fragment="1"><br data-mce-fragment="1"><strong>Size &amp; Fit</strong><br data-mce-fragment="1"><br data-mce-fragment="1">model is 5`8" and wearing size small<br data-mce-fragment="1">measurements taken from size small<br data-mce-fragment="1">approx. length: 25"</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020.09.25 New Arrivals</s:tag>
+    <s:tag>2020.10.02 NEW ARRIVALS</s:tag>
+    <s:tag>A. calin</s:tag>
+    <s:tag>AJ1131</s:tag>
+    <s:tag>All</s:tag>
+    <s:tag>cf-color-medium-indigo</s:tag>
+    <s:tag>cf-size-l</s:tag>
+    <s:tag>cf-size-m</s:tag>
+    <s:tag>cf-size-s</s:tag>
+    <s:tag>cf-type-jackets</s:tag>
+    <s:tag>cf-vendor-a-calin</s:tag>
+    <s:tag>DENIM</s:tag>
+    <s:tag>jackets</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://flyingtomato.com/products/5871617671336</id>
+      <title>L / MEDIUM INDIGO</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>AJ1131_MEDIUM_INDIGO_03</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/5871617671336</id>
+      <title>M / MEDIUM INDIGO</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>AJ1131_MEDIUM_INDIGO_02</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flyingtomato.com/products/5871617671336</id>
+      <title>S / MEDIUM INDIGO</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>AJ1131_MEDIUM_INDIGO_01</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+</feed>
